@@ -59,7 +59,7 @@ class PipelineHelper:
         print('dropping unnecessary columns.....')
         self.annotated_df = self.annotated_df.drop(['embeddings'], axis=1)
 
-        output_dir = Path(f'{DataHelper.DATA_DIR}/output/{self.sub_folder_k}patient/{self.embedding_name}')
+        output_dir = Path(f'{DataHelper.DATA_DIR}/output/patient/{self.sub_folder_k}/{self.embedding_name}')
 
         output_dir.mkdir(parents=True, exist_ok=True)
 
