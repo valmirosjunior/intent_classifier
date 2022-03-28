@@ -49,6 +49,15 @@ class DataHelper:
         self.df = self.df[self.df.apply(
             lambda row: row['distance'] <= distance_distribution_by_label[row['label']].upper_bound, axis=1
         )]
+    
+    @staticmethod
+    def generate_filename_from_root_dir(filename):
+        return f'{DataHelper.PROJECT_ROOT}/{filename}'
+
+    @staticmethod
+    def generate_filename_from_data_dir(filename):
+        return DataHelper.generate_filename_from_root_dir(f'data/{filename}')
+
 
     @staticmethod
     def get_embeddings_as_torch(df):
