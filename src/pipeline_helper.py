@@ -9,15 +9,19 @@ from .wordcloud_helper import print_word_clouds_of_each_label
 
 class PipelineHelper:
 
-    def __init__(self, embedding_name, actor, n_clusters, sub_folder_k=None, remove_empty_embeddings=True):
+    def __init__(self, embedding_name, actor, n_clusters, sub_folder_k=None,  **kwargs):
         self.actor = actor
         self.embedding_name = embedding_name
         self.n_clusters = n_clusters
         self.sub_folder_k = sub_folder_k
 
-        self.initialize_data(remove_empty_embeddings)
+        self.initialize_data(**kwargs)
 
-    def initialize_data(self, remove_empty_embeddings):
+    def initialize_data(self,  **kwargs):
+        remove_empty_embeddings = kwargs.get('remove_empty_embeddings', True)
+        remove_outliers = kwargs.get('remove_outliers', True)
+        remove_higer_than_median = kwargs.get('remove_higer_than_median', False)
+
         self.data_helper = DataHelper(self.embedding_name, self.actor, remove_empty_embeddings)
         self.clustering_helper = ClusteringHelper(self.n_clusters, self.embedding_name, self.actor, self.data_helper)
 
@@ -27,13 +31,17 @@ class PipelineHelper:
 
         self.data_helper.original_df = self.data_helper.df
 
-    def visualize_distance_distribution(self):
-        plot_distance_charts(self.data_helper.original_df)
-
-    def visualize_word_clouds(self, num_sentences=20, remove_outliers=True):
         if remove_outliers:
             self.data_helper.remove_outlier_sentences()
 
+        elif remove_higer_than_median:
+            self.data_helper.remove_higer_than_median_sentences()
+
+
+    def visualize_distance_distribution(self):
+        plot_distance_charts(self.data_helper.original_df)
+
+    def visualize_word_clouds(self, num_sentences=20):
         print_word_clouds_of_each_label(self.data_helper, num_sentences)
 
     def visualize_tsne(self):
@@ -52,9 +60,17 @@ class PipelineHelper:
 
         self.annotated_df['intent'] = self.annotated_df['label'].map(dict_intents)
 
+        count_before = self.annotated_df['txt'].count()
+
+        print(f'Before dropping nan values: {count_before}')
         print('dropping nan intents.....')
         # remove nan intents
         self.annotated_df = self.annotated_df.dropna()
+
+        count_after = self.annotated_df['txt'].count()
+        
+        print(f'After dropping nan values: {count_after}')
+        print(f'The total of data droped was {count_before - count_after} rows')
 
         print('dropping unnecessary columns.....')
         self.annotated_df = self.annotated_df.drop(['embeddings'], axis=1)

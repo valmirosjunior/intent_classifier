@@ -49,7 +49,14 @@ class DataHelper:
         self.df = self.df[self.df.apply(
             lambda row: row['distance'] <= distance_distribution_by_label[row['label']].upper_bound, axis=1
         )]
-    
+
+    def remove_higer_than_median_sentences(self):
+        distance_distribution_by_label = self.get_distance_actual_distribution_by_label()
+
+        self.df = self.df[self.df.apply(
+            lambda row: row['distance'] <= distance_distribution_by_label[row['label']].med, axis=1
+        )]
+
     @staticmethod
     def generate_filename_from_root_dir(filename):
         return f'{DataHelper.PROJECT_ROOT}/{filename}'
