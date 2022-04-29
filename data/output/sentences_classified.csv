@@ -2,7 +2,7 @@ txt,label,correct_label,used_intents,intents
 Sobre a febre quero entender,request_inform,,inform,inform
 Mais isso já faz um mês e meio,inform,,inform_symptoms,inform_symptoms
 E pra tosse?,request_inform,,inform_medicine,inform_medicine
-Quando eu viro para o outro lado da cama acelera,request_inform,,greeting,greeting
+Quando eu viro para o outro lado da cama acelera,inform,,greeting,greeting
 Quero saber o que devemos tomar,request_inform,,request_inform,request_inform
 São quantos dias,request_inform,,,unknown
 Tendo todos os ciodados,inform,,,

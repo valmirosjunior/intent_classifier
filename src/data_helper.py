@@ -1,3 +1,5 @@
+import deprecation
+
 from glob import glob
 from pathlib import Path
 
@@ -57,10 +59,12 @@ class DataHelper:
             lambda row: row['distance'] <= distance_distribution_by_label[row['label']].med, axis=1
         )]
 
+    @deprecation.deprecated(details='Use src.core.file_manager.filename_from_project_dir')
     @staticmethod
     def generate_filename_from_root_dir(filename):
         return f'{DataHelper.PROJECT_ROOT}/{filename}'
 
+    @deprecation.deprecated(details='Use src.core.file_manager.filename_from_data_dir')
     @staticmethod
     def generate_filename_from_data_dir(filename):
         return DataHelper.generate_filename_from_root_dir(f'data/{filename}')
@@ -81,6 +85,7 @@ class DataHelper:
             'embeddings': np.array
         }, lines=True)
 
+    @deprecation.deprecated(details='Use src.core.file_manager.read_multiple_files')
     @staticmethod
     def read_multiple_files(file_paths: list[str]) -> pd.DataFrame:
         return pd.concat(Parallel(n_jobs=-1)(delayed(DataHelper.read_json_file)(file_path) for file_path in file_paths),
