@@ -13,6 +13,10 @@ dict_labels = {
 }
 
 
+def get_inverted_dict_labels():
+    return {v: k for k, v in dict_labels.items()}
+
+
 def get_annotated_df(embedding_name):
     annotated_filename = file_manager.filename_from_data_dir(
         f'output/patient/k100/{embedding_name}/annotated_sentences.csv')
