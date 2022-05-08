@@ -69,6 +69,15 @@ class PipelineH2OManualLabelingData:
 
         self.df_annotated['embeddings'] = self.df_annotated['txt'].map(self.dict_embeddings)
 
+        len_before = self.df_annotated.txt.count()
+
+        self.df_annotated = self.df_annotated.dropna()
+
+        len_after = self.df_annotated.txt.count()
+
+        if len_before != len_after:
+            print(f'There were deleted {len_before - len_after} rows')
+
         self.df_data_to_train_model = pd.read_csv(
             file_manager.filename_from_data_dir('output/sentences_classifieds_of_all_distances.csv')
         )
@@ -107,7 +116,7 @@ class PipelineH2OManualLabelingData:
         result_df = self.df_annotated[desired_columns]
 
         output_dir = Path(file_manager.filename_from_data_dir(
-                f'output/h2o/input_data_classified_manual/{self.embedding_name}'
+                f'output/h2o/classified_by_model/{self.embedding_name}'
         ))
 
         output_dir.mkdir(parents=True, exist_ok=True)
