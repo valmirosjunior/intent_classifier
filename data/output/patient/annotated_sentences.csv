@@ -78,6 +78,7 @@ Desde ontem que me sinto mais ruim.,Desde ontem que me sinto mais ruim.
 "Já cheguei a 38⁰. Essas últimas noites, 37,8⁰ e 37,9⁰.","Já cheguei a 38⁰. Essas últimas noites, 37,8⁰ e 37,9⁰."
 "Consigo me manter bem com a Dipirona. Mas hoje, tive dor de cabeça e mal estar. Uma gastura no estômago. Sem vontade de comer.","Consigo me manter bem com a Dipirona. Mas hoje, tive [dor de cabeça](SINTOMA) e [mal estar](SINTOMA). Uma gastura no estômago. Sem vontade de comer."
 Não.,Não.
+Entendí!,Entendí!
 Obrigado!,Obrigado!
 Boa noite!,Boa noite!
 Estou com alguns sintomas desde segunda e queria saber se são sintomas de covid,Estou com alguns sintomas desde segunda e queria saber se são sintomas de covid
@@ -264,7 +265,6 @@ Só fiquei mais nervosa por pensa que fosse do covid,Só fiquei mais nervosa por
 Certo  Obrigada,Certo  Obrigada
 Dentro de casa com serviços domésticos,Dentro de casa com serviços domésticos
 Certo  Com faço com marido? Rsrs que 24no meu ouvido falando sobre o corona,Certo  Com faço com marido? Rsrs que 24no meu ouvido falando sobre o corona
-Micaela,Micaela
 Mais não sou eu q estou com sintomas,Mais não sou eu q estou com sintomas
 É o meu irmão,É o meu irmão
 Estou preocupada pq ele passou o dia com mal estar...não teve febre...pressao 8x11 os batimentos cardíacos 102,Estou preocupada pq ele passou o dia com [mal estar](SINTOMA)...não teve [febre](SINTOMA)...pressao 8x11 os batimentos cardíacos 102
@@ -373,6 +373,7 @@ Um pouco dor no corpo,Um pouco [dor](SINTOMA) no corpo
 eu queria saber qual remédio posso tomar,eu queria saber qual remédio posso tomar
 tô sem olfato e sem paladar e moleza no corpo,tô sem olfato e sem paladar e moleza no corpo
 ainda não,ainda não
+tá bom,tá bom
 okay,okay
 muito obrigado,muito obrigado
 Olá bom dia,Olá bom dia
@@ -412,6 +413,7 @@ Cert,Cert
 Consigo sin,Consigo sin
 Isso vai resolver?,Isso vai resolver?
 Tipo,Tipo
+Ta bom,Ta bom
 Nao obrigada,Nao obrigada
 Ou melhor,Ou melhor
 Q tipo de cha posso tomar pra relaxar,Q tipo de cha posso tomar pra relaxar
@@ -609,7 +611,6 @@ Percebi que não posso fazer muito esforço ainda que fico muito ofegante,Perceb
 Mas já estou melhor,Mas já estou melhor
 O susto foi só na hora,O susto foi só na hora
 Não não,Não não
-Simm,Simm
 Não com essa intensidade,Não com essa intensidade
 Mas eu tbm não tinha feito esforço como fiz hj pela manhã,Mas eu tbm não tinha feito esforço como fiz hj pela manhã
 N fui ao medico,N fui ao medico
@@ -747,6 +748,7 @@ Cansaso,Cansaso
 De madrugada fique cansanda,De madrugada fique cansanda
 Por conta da tosse constante,Por conta da [tosse](SINTOMA) constante
 Procurei o posto de saúde o médico fez a prescrição de medicamentos,Procurei o posto de saúde o médico fez a prescrição de medicamentos
+Predinisona,Predinisona
 Loratadina,Loratadina
 Amoxilina,Amoxilina
 "Estou com um pouco de coriza, tosse leve mais seca e com o corpo de dor, mais assim ontem procurei atendimento em uma upa, mais sem sucesso pq tenho pedra na versícula e estou em crise a dias","Estou com um pouco de coriza, [tosse](SINTOMA) leve mais seca e com o corpo de dor, mais assim ontem procurei atendimento em uma upa, mais sem sucesso pq tenho pedra na versícula e estou em crise a dias"
@@ -905,6 +907,7 @@ Se for a upa eu sei onde fica,Se for a upa eu sei onde fica
 Muito obrigado pela ajuda,Muito obrigado pela ajuda
 Muito obrigado pela atenção . bom trabalho para vc,Muito obrigado pela atenção . bom trabalho para vc
 "Melhorei de ontem pra hoje , já estou tomando medicação","Melhorei de ontem pra hoje , já estou tomando medicação"
+Corticortem,Corticortem
 Azitromucina,Azitromucina
 Fosfato de oseltsmivir,Fosfato de oseltsmivir
 Aerogold,Aerogold
@@ -971,6 +974,7 @@ Eu posso morrer?,Eu posso morrer?
 Não sei o que é isso,Não sei o que é isso
 Só que tô com medo de ser e passar para alguém,Só que tô com medo de ser e passar para alguém
 O pior é que durmo com meu filho desde um pesadelo que eu tive,O pior é que durmo com meu filho desde um pesadelo que eu tive
+Iseletrica,Iseletrica
 Tbm,Tbm
 Mais isso já faz um mês e meio,Mais isso já faz um mês e meio
 Ansiosa,Ansiosa
@@ -1064,7 +1068,6 @@ E ontem teve dor de cabeça,E ontem teve [dor de cabeça](SINTOMA)
 To preocupada,To preocupada
 Vai completar,Vai completar
 Q faço?,Q faço?
-Sus,Sus
 "Sei, mas nao dar condicoes de tratamento","Sei, mas nao dar condicoes de tratamento"
 Baturite,Baturite
 To mto nervosa moça,To mto nervosa moça
@@ -1281,7 +1284,6 @@ Não obg Naiara,Não obg Naiara
 Minha sobrinha. Sempre tem problema com náuseas febre .faz tratamento a um ano de vermes não fica Boa.porem a oito dias teve febre por dois dias e agora está tendo febre 39.um pouco de dor de cabeça.e dor na barriga,Minha sobrinha. Sempre tem problema com náuseas febre .faz tratamento a um ano de vermes não fica Boa.porem a oito dias teve [febre](SINTOMA) por dois dias e agora está tendo febre 39.um pouco de dor de cabeça.e dor na barriga
 Tomando novalgina 6 em 6 hrs,Tomando novalgina 6 em 6 hrs
 Só  espirrou um pouco,Só  espirrou um pouco
-Hj,Hj
 Só mim fala nessecidade de levar ao hospital,Só mim fala nessecidade de levar ao hospital
 A temperatura agora 39.5,A temperatura agora 39.5
 Em crianças e sugestivo sitomas gastro intestinais?,Em crianças e sugestivo sitomas gastro intestinais?
@@ -1613,7 +1615,6 @@ Só tiver aquela hora e depois parou,Só tiver aquela hora e depois parou
 Antes de eu fala com vc,Antes de eu fala com vc
 E ai,E ai
 Aqui no Maracanaú tem,Aqui no Maracanaú tem
-Maracanaú CE,Maracanaú CE
 Ok  me chamo andrei,Ok  me chamo andrei
 Eu estava com um falta de ar,Eu estava com um [falta de ar](SINTOMA)
 Os dois,Os dois
@@ -1683,6 +1684,7 @@ Dor de cabeça dor costas e no peito,[Dor de cabeça](SINTOMA) dor costas e no p
 "Fraqueza,moleza","[Fraqueza](SINTOMA),moleza"
 Fadiga,[Fadiga](SINTOMA)
 Fui nos hospitais do meu plano saúde e os mesmos ñ estão atendendo ninguém isso pode hospital negar atendimento,Fui nos hospitais do meu plano saúde e os mesmos ñ estão atendendo ninguém isso pode hospital negar atendimento
+Hj de noite,Hj de noite
 Uniclinic São Raimundo  Hospital central,Uniclinic São Raimundo  Hospital central
 Nenhum me atendeu,Nenhum me atendeu
 Tds portas fechadas,Tds portas fechadas
@@ -1777,6 +1779,7 @@ Tive una piora.,Tive una piora.
 Cansaço,[Cansaço](SINTOMA)
 Voltei a ter febre,Voltei a ter [febre](SINTOMA)
 "Fraqueza,  não estar, falta de at","[Fraqueza](SINTOMA),  não estar, falta de at"
+Av. VAQUEIRO 1293,Av. VAQUEIRO 1293
 Santa fé,Santa fé
 Area da grande Messejana,Area da grande Messejana
 A do Jangurussu também tá atendendo?,A do Jangurussu também tá atendendo?
@@ -1884,13 +1887,13 @@ Eu agradeço pela atenção,Eu agradeço pela atenção
 Só mal estar e um pouco de dor nas costas,Só [mal estar](SINTOMA) e um pouco de [dor nas costas](SINTOMA)
 Aparece,Aparece
 So garganta coçando,So garganta coçando
-Rua mato grosso 269,Rua mato grosso 269
 Democrito rocha,Democrito rocha
 "Boa noite Juliana, fazem dois dias que estou tendo esses sintomas, começou com a coriza, tosse, dor no corpo e indisposição, dor de cabeça, ausência de olfato e paladar e me senti febril mas não passou de 38,00","Boa noite Juliana, fazem dois dias que estou tendo esses sintomas, começou com a [coriza](SINTOMA), [tosse](SINTOMA), [dor](SINTOMA) no corpo e indisposição, [dor de cabeça](SINTOMA), ausência de olfato e paladar e me senti febril mas não passou de 38,00"
 "A febre passou, venho tomando alguns medicamentos como vitamina C, antigripal, desses sintomas os únicos que ainda continuam é a falta de paladar e olfato e a fadiga e dor no corpo","A [febre](SINTOMA) passou, venho tomando alguns medicamentos como vitamina C, antigripal, desses sintomas os únicos que ainda continuam é a falta de paladar e olfato e a [fadiga](SINTOMA) e [dor](SINTOMA) no corpo"
 "Tenho pressão alta, mas não faço acompanhamento e tenho problema de pedra nos rins","Tenho pressão alta, mas não faço acompanhamento e tenho problema de pedra nos rins"
 Ok Dra. obrigado,Ok Dra. obrigado
 Ta certo Dra Juliana,Ta certo Dra Juliana
+Boa Noite,Boa Noite
 Meu esposo está doente,Meu esposo está doente
 "Sente alguns sintomas, não sei o que é","Sente alguns sintomas, não sei o que é"
 Gostaria de saber o que ele pode tomar,Gostaria de saber o que ele pode tomar
@@ -1899,6 +1902,7 @@ Vomitou também pq o estômago dele está sensível.,Vomitou também pq o estôm
 "Aí ele toma banho, toma Dipirona mas demora pra passar","Aí ele toma banho, toma Dipirona mas demora pra passar"
 Tá certo.,Tá certo.
 Ele pode poderia azitromicina ?,Ele pode poderia azitromicina ?
+Tomar*,Tomar*
 Tá bom.,Tá bom.
 Segunda feira os postos de saúde tem médico pra atender ?,Segunda feira os postos de saúde tem médico pra atender ?
 "Dor no corpo, moleza e náusea","Dor no corpo, moleza e [náusea](SINTOMA)"
@@ -1919,7 +1923,6 @@ Hum,Hum
 O propolis é xarope?,O propolis é xarope?
 Eu vou pedir na farmácia então esses remédios. Vê se melhoro,Eu vou pedir na farmácia então esses remédios. Vê se melhoro
 Ver Tô,Ver Tô
-Obg doutora,Obg doutora
 Vou comprar aqui então.,Vou comprar aqui então.
 Sum,Sum
 "m tosse e falta de ânimo,  e uma dor nas costas, como se fosse no pulmão","m [tosse](SINTOMA) e falta de ânimo,  e uma [dor nas costas](SINTOMA), como se fosse no pulmão"
@@ -2051,6 +2054,7 @@ tudo serto brigado,tudo serto brigado
 boa noite luciana estou com dor no peito levo 2 dias com sintomas como gripe dor de cabeza febre em pe e maos hj depois de 6 horas da tarde estou començando com tos e quando respiro fundo meu peito doe,boa noite luciana estou com [dor](SINTOMA) no peito levo 2 dias com sintomas como gripe dor de cabeza febre em pe e maos hj depois de 6 horas da tarde estou començando com tos e quando respiro fundo meu peito doe
 localisada bem na metade do peito pasa pra as costas e fica mais no lado isquerdo,localisada bem na metade do peito pasa pra as costas e fica mais no lado isquerdo
 a nariz entupida por isso fazo forza pra respirar pela boca,a nariz entupida por isso fazo forza pra respirar pela boca
+ta bom,ta bom
 eu estou tomando dipirona e benegripe,eu estou tomando dipirona e benegripe
 muito brigado pela informaçao q posso tomar pra dor do peito incomoda muito,muito brigado pela informaçao q posso tomar pra [dor](SINTOMA) do peito incomoda muito
 ta ok,ta ok
@@ -2133,6 +2137,7 @@ uma ultima duvida,uma ultima duvida
 após qtos dias é eficaz a realização de teste,após qtos dias é eficaz a realização de teste
 obg,obg
 "ja me ajudou com as duvidas, obrigada.","ja me ajudou com as duvidas, obrigada."
+obg Igualmente,obg Igualmente
 Olá boa noite,Olá boa noite
 Estou me sentindo apenas com leve cansaço em alguns momentos,Estou me sentindo apenas com leve [cansaço](SINTOMA) em alguns momentos
 E umas pontadas entre o peito e as costas,E umas pontadas entre o peito e as costas
@@ -2236,7 +2241,6 @@ Tem alguém pra atender,Tem alguém pra atender
 Ai,Ai
 Boa noite Jussara,Boa noite Jussara
 Estou com tosse seca o que eu faço,Estou com [tosse seca](SINTOMA) o que eu faço
-E. Provocando,E. Provocando
 Dês da semana passada nariz entupido e falta de paladar,Dês da semana passada nariz entupido e falta de paladar
 Hoje começou uma tosse seca,Hoje começou uma [tosse seca](SINTOMA)
 Só semana passada. Essa semana não,Só semana passada. Essa semana não
@@ -2347,6 +2351,7 @@ Sinto como de minha respiração fosse quente,Sinto como de minha respiração f
 Me sino cansada se falo muito,Me sino cansada se falo muito
 *sinto,*sinto
 "Não, ah momentos em q fica congestionado nariz","Não, ah momentos em q fica congestionado nariz"
+Tipo Tampa,Tipo Tampa
 Só uma quentura por dentro,Só uma quentura por dentro
 Tive melhoras,Tive melhoras
 "Só essa tosse que persiste a noite, dores nos braços, e essa quentura no corpo","Só essa [tosse](SINTOMA) que persiste a noite, dores nos braços, e essa quentura no corpo"
@@ -2387,8 +2392,8 @@ Quanto a saturação,Quanto a saturação
 Procuro oq posto,Procuro oq posto
 Não sou do grupo de risco,Não sou do grupo de risco
 "Sinto dores pelo corpo Nas costas. Sinto cansada quando falo ou subo degraus da escada, fico com coração acelerado como se eu estivesse correndo","Sinto dores pelo corpo Nas costas. Sinto cansada quando falo ou subo degraus da escada, fico com coração acelerado como se eu estivesse correndo"
-Nariz congestionado,Nariz congestionado
 Minha respiração como se estivesse com alguma inflamação,Minha respiração como se estivesse com alguma [inflamação](SINTOMA)
+Dores de cabeça,[Dores de cabeça](SINTOMA)
 Esses a cinco dias,Esses a cinco dias
 "Anteriores a este, eu senti uma quentura horrível na cabeça, nariz escorrendo, uma quentura interna, garganta inflamada, e dores de cabeça","Anteriores a este, eu senti uma quentura horrível na cabeça, [nariz escorrendo](SINTOMA), uma quentura interna, garganta inflamada, e [dores de cabeça](SINTOMA)"
 Sentia calafrios,Sentia calafrios
@@ -2411,7 +2416,6 @@ Dia 30 medi minha saturação estava 90,Dia 30 medi minha saturação estava 90
 Isso é normal,Isso é normal
 Isso é ruim,Isso é ruim
 Devo ir a upa,Devo ir a upa
-UPA Canindezinho,UPA Canindezinho
 "Era somente isso mesmo, obrigado pela sua atenção, que Deus te proteja e te guarde de todo mal.","Era somente isso mesmo, obrigado pela sua atenção, que Deus te proteja e te guarde de todo mal."
 Pode ser áudio?,Pode ser áudio?
 Eu e minhas irmãs tivemos contato com a nossa mãe que faleceu dia 30,Eu e minhas irmãs tivemos contato com a nossa mãe que faleceu dia 30
@@ -2575,7 +2579,6 @@ Pois muito obg  Pelas informação Bom trabalho Que o senhor proteja todos os qu
 Eu sou  estou sentindo dor de cabeça  e não estão sentindo cheiro de nada.,Eu sou  estou sentindo [dor de cabeça](SINTOMA)  e não estão sentindo cheiro de nada.
 Alguns dias e eu estava gripada.,Alguns dias e eu estava gripada.
 Como dor de cabeça,Como [dor de cabeça](SINTOMA)
-Nariz entupido,[Nariz](SINTOMA) entupido
 E não tô sentindo gosto de nada q me alimentou,E não tô sentindo gosto de nada q me alimentou
 Meu nariz só fica entupido quando eu vou dormir,Meu nariz só fica entupido quando eu vou dormir
 Há 6 dias,Há 6 dias
@@ -2998,7 +3001,6 @@ Sensação  de febre,Sensação  de [febre](SINTOMA)
 Tosse pouquíssima vezes com catarro,[Tosse](SINTOMA) pouquíssima vezes com [catarro](SINTOMA)
 Falta de ar por conta do nariz entupindo,[Falta de ar](SINTOMA) por conta do [nariz](SINTOMA) entupindo
 Mais a minha neném de 1 ano e 5 meses amanheceu com febre  Me preocupo? Passei alguma coisa pra ela?  Estou desesperada  Não sei o que tomar eu e ela,Mais a minha neném de 1 ano e 5 meses amanheceu com [febre](SINTOMA)  Me preocupo? Passei alguma coisa pra ela?  Estou desesperada  Não sei o que tomar eu e ela
-Dou Dipirona,Dou Dipirona
 Não teve Mais esta rasgando 6 dentes mais ela não chora fica correndo direto,Não teve Mais esta rasgando 6 dentes mais ela não chora fica correndo direto
 Pode sim,Pode sim
 So falta de ar,So [falta de ar](SINTOMA)
@@ -3194,6 +3196,7 @@ Quando olho pra cima,Quando olho pra cima
 Gostaria de saber se posso tomar buscopan,Gostaria de saber se posso tomar buscopan
 Buscopan composto estou sentindo dor nas costas,Buscopan composto estou sentindo [dor](SINTOMA) nas costas
 Paracetamol?,Paracetamol?
+Desconforto respiratorio,Desconforto respiratorio
 Desde ontem,Desde ontem
 Puxando um pouco do ar,Puxando um pouco do ar
 Mas em março tive precisamente dia 18 passei 7 dias no antibiótico  tive febre dor de cabeça acima dos olhos dor no corpo e tosse seca. Bati rx no hospital central e disseram ser crise de sinusite,Mas em março tive precisamente dia 18 passei 7 dias no antibiótico  tive [febre](SINTOMA) [dor de cabeça](SINTOMA) acima dos olhos dor no corpo e [tosse seca](SINTOMA). Bati rx no hospital central e disseram ser crise de [sinusite](SINTOMA)
@@ -3386,10 +3389,10 @@ Larguei 00:00,Larguei 00:00
 Acha melhor eu aguardar amanhecer o dia?,Acha melhor eu aguardar amanhecer o dia?
 Qual delas?,Qual delas?
 Certo entendi Ricardo,Certo entendi Ricardo
+Paupina Messejana,Paupina Messejana
 A ardência nos olhos é um sintoma?,A ardência nos olhos é um sintoma?
 Vou parar de ir Sim,Vou parar de ir Sim
 Em qualquer UPA eu consigo fazer o teste do Covid?,Em qualquer UPA eu consigo fazer o teste do Covid?
-Temperatura 37.8º,Temperatura 37.8º
 Já me ajudou bastante... desde já Obg,Já me ajudou bastante... desde já Obg
 Nos outros dias não passava de 36,Nos outros dias não passava de 36
 Igualmente,Igualmente
@@ -3411,7 +3414,6 @@ Estou em isolamento desde o primeiro contato com vocês,Estou em isolamento desd
 Antes e depois de usar as mãos eu lavo-as,Antes e depois de usar as mãos eu lavo-as
 Estou precisando,Estou precisando
 Até mais e obrigado pelo seu retorno,Até mais e obrigado pelo seu retorno
-Olá Tamires,Olá Tamires
 Angústiado,Angústiado
 "Estou com alguns sintomas ,mas não sei se é  o covid19","Estou com alguns sintomas ,mas não sei se é  o covid19"
 Garganta arranhando,[Garganta](SINTOMA) arranhando
@@ -3617,6 +3619,7 @@ Uma pressão,Uma pressão
 A dor de cabeça mesmo não senti hoje.,A [dor de cabeça](SINTOMA) mesmo não senti hoje.
 Bem melhor,Bem melhor
 As dores no corpo diminuiram,As [dores](SINTOMA) no corpo diminuiram
+Sinto pouquinho,Sinto pouquinho
 Na cabeça não sinto mais.,Na cabeça não sinto mais.
 Só me isolei,Só me isolei
 O único atendimento foi com  vocês aqui,O único atendimento foi com  vocês aqui
@@ -3686,6 +3689,7 @@ pode chegar  qualque hora,pode chegar  qualque hora
 foi com farti,foi com farti
 tou,tou
 e pouco longe mas tá bom,e pouco longe mas tá bom
+vou proucura,vou proucura
 Fadiga excessivo,[Fadiga](SINTOMA) excessivo
 Dificuldade de respirar,Dificuldade de respirar
 Dor no peito para as gostas,[Dor no peito](SINTOMA) para as gostas
@@ -3908,6 +3912,7 @@ Não tem nenhuma chance de ser feito um teste na minha casa??,Não tem nenhuma c
 "Pq aqui em casa tem grávida, uma senhora","Pq aqui em casa tem grávida, uma senhora"
 "Entendi, obrigada!","Entendi, obrigada!"
 Simmm,Simmm
+Planalto Pici,Planalto Pici
 Acho q a do João XXIII,Acho q a do João XXIII
 Fica uns 20/30 min a pé,Fica uns 20/30 min a pé
 Tomei um suco de limão e me deitei,Tomei um suco de limão e me deitei
@@ -4123,6 +4128,7 @@ Não está tão forte mas incomoda bastante,Não está tão forte mas incomoda b
 A falta de ar,A [falta de ar](SINTOMA)
 Tudo bem então,Tudo bem então
 Já irei de agora,Já irei de agora
+Maracanaú,Maracanaú
 "É que estou com uns sintomas nariz entupido e tosse e em virtude do nariz entupido, um pouco de faltar de ar respirando pela boca mais não é aquela faltar ar grande entende esse sintomas persistem a 8 dias, no começo tive muita faltar de ar agora estar mais ou menos procurei mesmo que pq sentir febre de ontem pra hoje e não estou sentido gosto só sei o que é doce ou salgando","É que estou com uns sintomas nariz entupido e [tosse](SINTOMA) e em virtude do nariz entupido, um pouco de faltar de ar respirando pela boca mais não é aquela faltar ar grande entende esse sintomas persistem a 8 dias, no começo tive muita faltar de ar agora estar mais ou menos procurei mesmo que pq sentir [febre](SINTOMA) de ontem pra hoje e não estou sentido gosto só sei o que é doce ou salgando"
 E a febre está querendo voltar,E a [febre](SINTOMA) está querendo voltar
 Dipirona de 1 grama,Dipirona de 1 grama
@@ -4160,7 +4166,6 @@ Estou febril,Estou [febril](SINTOMA)
 Sem olfato e paladar,Sem olfato e paladar
 Sem fome,Sem fome
 Febre passou,[Febre](SINTOMA) passou
-Febre baixa,[Febre](SINTOMA) baixa
 "Estou com dores no corpo, tosse e com os meus olhos muito, mais nítido doloridos, não consigo nem olhar de lado, dor a trás dos olhos tbm e muita dor de cabeça","Estou com [dores](SINTOMA) no corpo, [tosse](SINTOMA) e com os meus olhos muito, mais nítido doloridos, não consigo nem olhar de lado, dor a trás dos olhos tbm e muita [dor de cabeça](SINTOMA)"
 Muito*,Muito*
 "Não, acho que fiquei febril ontem, mas não passou de 37","Não, acho que fiquei febril ontem, mas não passou de 37"
@@ -4243,6 +4248,7 @@ Hoje mais intensa e respiração curta,Hoje mais intensa e respiração curta
 Estou sempre apetite tb,Estou sempre apetite tb
 Você pode me indicar algum,Você pode me indicar algum
 Estou sempre dormir faz dois dias nariz entupido que não deixa deitar para dormir encimado direto,Estou sempre dormir faz dois dias nariz entupido que não deixa deitar para dormir encimado direto
+Encomodo,Encomodo
 Suaderira,Suaderira
 Incomoda muito além de não está alimentando bem,Incomoda muito além de não está alimentando bem
 Vários,Vários
@@ -4368,6 +4374,7 @@ Sindrome antifosfolipiade,Sindrome antifosfolipiade
 O q ta me irritando mesmo é  essa dor forte de cabeça  e dor nos olhos,O q ta me irritando mesmo é  essa dor forte de cabeça  e [dor nos olhos](SINTOMA)
 So nao sei se esta aberto,So nao sei se esta aberto
 Sra acha q pode ser covid?,Sra acha q pode ser covid?
+Posto de messejana,Posto de messejana
 Nao obg,Nao obg
 Boa  tarde,Boa  tarde
 Tô sentindo fortes dores diariamente,Tô sentindo fortes dores diariamente
@@ -4411,7 +4418,6 @@ Hj acordei com dor de cabeça,Hj acordei com [dor de cabeça](SINTOMA)
 Mas em movimento piora,Mas em movimento piora
 Agora estou um pouco melhor da falta de ar,Agora estou um pouco melhor da [falta de ar](SINTOMA)
 estou bem do nada pioro,estou bem do nada pioro
-Oscila demais,Oscila demais
 O cômodo maior é a falta de ar,O cômodo maior é a [falta de ar](SINTOMA)
 Inspiro mas não me sacia,Inspiro mas não me sacia
 E estou começando a sentir meu rim direito doer,E estou começando a sentir meu rim direito doer
@@ -4486,7 +4492,6 @@ Olha quando tomo tenho uma melhora por alguns instantes,Olha quando tomo tenho u
 Tenho tosse esporádicas,Tenho [tosse](SINTOMA) esporádicas
 Agora mesmo corpo está sem febre porém a cabeça está quente,Agora mesmo corpo está sem [febre](SINTOMA) porém a cabeça está quente
 Mas e orientando eu fazer teste rápido nas farmácias ?,Mas e orientando eu fazer teste rápido nas farmácias ?
-São pagos,São pagos
 Custam em média de 200 reais,Custam em média de 200 reais
 Obrigado pela orientação,Obrigado pela orientação
 E os remédios que citem são os orientados a tomar?,E os remédios que citem são os orientados a tomar?
@@ -5251,6 +5256,7 @@ Tomei aerozol passo mais eu uso corticoides,Tomei aerozol passo mais eu uso cort
 Eu esto com medo por que so tenho 18 por cento de um pulmao,Eu esto com medo por que so tenho 18 por cento de um pulmao
 Ta muito obg,Ta muito obg
 Eu tenho que ficar isolado sozinho ne isso,Eu tenho que ficar isolado sozinho ne isso
+Fiquem com Deus,Fiquem com Deus
 "Estou sem sentir sabor  e cheiro, dor de cabeça e um pouco de tosse","Estou sem sentir sabor  e cheiro, [dor de cabeça](SINTOMA) e um pouco de [tosse](SINTOMA)"
 Remédio pra pressão uso contínuo,Remédio pra pressão uso contínuo
 Durmo com minha filha de cinco anos na mesma cama presciso mi distância dela??,Durmo com minha filha de cinco anos na mesma cama presciso mi distância dela??
@@ -5734,7 +5740,6 @@ E fiz bariátrica,E fiz bariátrica
 Agora é cuidado então,Agora é cuidado então
 Quanto mg de dipirona?,Quanto mg de dipirona?
 De seis em seis?,De seis em seis?
-Gratidão Beatriz,Gratidão Beatriz
 Grata,Grata
 Eu tô com infeção na urina muito frote,Eu tô com infeção na urina muito frote
 Tive febre,Tive [febre](SINTOMA)
@@ -5898,6 +5903,7 @@ Como faço para agendar???,Como faço para agendar???
 Meu filho tem 2 anos e 5 meses e hoje ele ficou febril,Meu filho tem 2 anos e 5 meses e hoje ele ficou [febril](SINTOMA)
 E eu e meu esposo estamos sem o alfato e sentindo dores de cabeça e no corpo,E eu e meu esposo estamos sem o alfato e sentindo [dores de cabeça](SINTOMA) e no corpo
 "Boa noite meu nome é NAYANE NOGUEIRA  Estou com alguns sintomas   Faz 4 dia  Primeiros dias senti muita dor de cabeça e febre, depois foi a gripe indisposição e agora sem paladar e nem ofato","Boa noite meu nome é NAYANE NOGUEIRA  Estou com alguns sintomas   Faz 4 dia  Primeiros dias senti muita [dor de cabeça](SINTOMA) e [febre](SINTOMA), depois foi a gripe indisposição e agora sem paladar e nem ofato"
+Ñ,Ñ
 "Entre 37,8 e 38,2","Entre 37,8 e 38,2"
 Sim Dipirona,Sim Dipirona
 Sim ela ficava indo e voltando,Sim ela ficava indo e voltando
@@ -6348,6 +6354,7 @@ Antes de ontem um ponto de febre e ontem febre maior q 38°,Antes de ontem um po
 Por hora não,Por hora não
 Upa?,Upa?
 Eu entendi. Mas o atendimento médico pode ser hospital ou só upa?,Eu entendi. Mas o atendimento médico pode ser hospital ou só upa?
+Demócrito rocha,Demócrito rocha
 Okay. Obrigada,Okay. Obrigada
 Ficou claro,Ficou claro
 Qualquer coisa volto aqui,Qualquer coisa volto aqui
@@ -6434,6 +6441,7 @@ Quase depressivo,Quase [depressivo](SINTOMA)
 Faz 7 dias,Faz 7 dias
 Estou com alguns sintomas,Estou com alguns sintomas
 Fico desesperado,Fico desesperado
+Garganta,[Garganta](SINTOMA)
 Porém não muito agravado,Porém não muito agravado
 Mas isso está me angustiando muito,Mas isso está me angustiando muito
 Minha esposa,Minha esposa
@@ -6457,6 +6465,7 @@ Pois pode me passar,Pois pode me passar
 Bruna não estou sentindo cheiro nem sabor e uma dor de cabeça tudo isso a 3 dias mas nada de febre nem cansaso,Bruna não estou sentindo cheiro nem sabor e uma [dor de cabeça](SINTOMA) tudo isso a 3 dias mas nada de [febre](SINTOMA) nem cansaso
 Sou operada bariátrica,Sou operada bariátrica
 Faço parte do grupo de risco ?,Faço parte do grupo de risco ?
+Ii,Ii
 Pode falar comigo por favor,Pode falar comigo por favor
 Sou bariátrica,Sou bariátrica
 Estou com muita dor de cabeça,Estou com muita [dor de cabeça](SINTOMA)
@@ -6478,6 +6487,7 @@ Vc acha w esses sintomas e covid?,Vc acha w esses sintomas e covid?
 "Meu esposo está com indisposição, fraco, cabeça pesada, agonia na cabeca","Meu esposo está com indisposição, fraco, cabeça pesada, agonia na cabeca"
 O que faço?,O que faço?
 Pressão,Pressão
+Alta,Alta
 Toma para pressao,Toma para pressao
 vou olhar agora,vou olhar agora
 Normal 12/8,Normal 12/8
@@ -6486,7 +6496,6 @@ Ele não almoçou hj,Ele não almoçou hj
 Mas hj não almoçou,Mas hj não almoçou
 Não conseguiu,Não conseguiu
 Com a fraqueza,Com a [fraqueza](SINTOMA)
-Quis deitar,Quis deitar
 Eu acho q deve ser da alimentação,Eu acho q deve ser da alimentação
 "Por enquanto, nao","Por enquanto, nao"
 "Estou com mal estar , vomitando, febre e tossindo","Estou com [mal estar](SINTOMA) , vomitando, [febre](SINTOMA) e [tossindo](SINTOMA)"
@@ -6536,6 +6545,7 @@ Só reniti. Tomo loratadina,Só reniti. Tomo loratadina
 "Surgiram na terça feira. Dores no corpo, mal estar febre e dores de garganta e de ontem pra hoje dores de ouvido","Surgiram na terça feira. [Dores](SINTOMA) no corpo, [mal estar](SINTOMA) [febre](SINTOMA) e dores de garganta e de ontem pra hoje [dores de ouvido](SINTOMA)"
 "Febre, corriza","[Febre](SINTOMA), corriza"
 "Febre, falta de ar ao realizar pequenas atividades,dores nas costas e peito","[Febre](SINTOMA), [falta de ar](SINTOMA) ao realizar pequenas atividades,dores nas costas e peito"
+Rua perdigao de oliveira 194 parangaba,Rua perdigao de oliveira 194 parangaba
 Ainda não muito bem. Me sinto fadigado e com a garganta inflamada,Ainda não muito bem. Me sinto fadigado e com a garganta inflamada
 "Hoje pela manhã de 37,5","Hoje pela manhã de 37,5"
 "Aí senhor, isso tudo","Aí senhor, isso tudo"
@@ -6729,6 +6739,7 @@ Então devo ir ao posto de saude,Então devo ir ao posto de saude
 E o que devo tomar,E o que devo tomar
 "Diripona , paracetamol e dorflex","Diripona , paracetamol e dorflex"
 Faço sim,Faço sim
+Obg vc,Obg vc
 A 5 dias estou com dor de barriga e diareia,A 5 dias estou com [dor de](SINTOMA) barriga e diareia
 Hoje ja umas 10 bezes,Hoje ja umas 10 bezes
 É como uma colica forte no pé da bariga ai vou no banheiro e faco um pouco de coco ai alivia,É como uma colica forte no pé da bariga ai vou no banheiro e faco um pouco de coco ai alivia
@@ -6746,12 +6757,10 @@ Marrom escura lembra sangue,Marrom escura lembra sangue
 Cheiro lembra agua sanitaria,Cheiro lembra agua sanitaria
 N entrndi,N entrndi
 Mudou,Mudou
-Cesar carls,Cesar carls
 Mas nada vc pode dizee,Mas nada vc pode dizee
 Mim preoculpo,Mim preoculpo
 Seja mais claro por favor,Seja mais claro por favor
 Essa parte,Essa parte
-Covide,Covide
 Ta Tendo essa virose?,Ta Tendo essa virose?
 Deus abencoe,Deus abencoe
 E o proteja,E o proteja
@@ -6892,6 +6901,7 @@ Uma última pergunta era se realmente era proibido tomar ibuprofeno,Uma última 
 Devo parar de tomar esse então?,Devo parar de tomar esse então?
 "Ok, muito obrigada","Ok, muito obrigada"
 "Esse celular é do meu neto, mas qualquer coisa pode falar por aqui","Esse celular é do meu neto, mas qualquer coisa pode falar por aqui"
+Obrigado flor,Obrigado flor
 Obrigada mais uma vez e bom dia,Obrigada mais uma vez e bom dia
 "Feliz dia do trabalhador por ontem, vocês merecem","Feliz dia do trabalhador por ontem, vocês merecem"
 "Minha mãe tem 63 anos e está com um cansaço físico muito grande e com muitas dores nas articulações, não teve febre, teve dor de cabeça por dois dias, muito mal estar na barriga, querendo provocar a todo instante, porém não tem cansaço respiratório.","Minha mãe tem 63 anos e está com um [cansaço físico](SINTOMA) muito grande e com muitas dores nas articulações, não teve [febre](SINTOMA), teve [dor de cabeça](SINTOMA) por dois dias, muito [mal estar](SINTOMA) na barriga, querendo provocar a todo instante, porém não tem [cansaço](SINTOMA) respiratório."
@@ -7090,6 +7100,7 @@ ja senti mas passou,ja senti mas passou
 no peito e costas mas passou,no peito e costas mas passou
 garganta não inflamou só irritou,[garganta](SINTOMA) não inflamou só irritou
 a febre graças a Deus não passa disso,a [febre](SINTOMA) graças a Deus não passa disso
+nariz ta mto entupido,nariz ta mto entupido
 Preso mesmo,Preso mesmo
 estou agora oscilando entre 37.8° e 39°,estou agora oscilando entre 37.8° e 39°
 Não estou trabalhando estou em casa sem sair deste q começou a gripe,Não estou trabalhando estou em casa sem sair deste q começou a gripe
@@ -7273,7 +7284,6 @@ T,T
 Vou m esforçar,Vou m esforçar
 Tenho fé em DEUS q sim,Tenho fé em DEUS q sim
 Não moço. Muito obrigado mesmo,Não moço. Muito obrigado mesmo
-T bom,T bom
 Obrigado vc também,Obrigado vc também
 Bem só um ouço de mal estar,Bem só um ouço de [mal estar](SINTOMA)
 Um pouco de mal estar,Um pouco de [mal estar](SINTOMA)
@@ -7395,7 +7405,6 @@ Desde modo sem fazer exames como vou sabe,Desde modo sem fazer exames como vou s
 E essa informação procede,E essa informação procede
 Agradeço pelas orientações,Agradeço pelas orientações
 Não a princípio seriam essas minhas dúvidas.,Não a princípio seriam essas minhas dúvidas.
-Grato,Grato
 "Alguns dias atrás tive 2 dias de febre, depois disso fiquei sem sentir gosto e nem cheiro","Alguns dias atrás tive 2 dias de [febre](SINTOMA), depois disso fiquei sem sentir gosto e nem cheiro"
 Ontem comecei sentir umas dores forte nas costas,Ontem comecei sentir umas dores forte nas costas
 E hj estou com pouco de falta de ar mal consigo nem bosejar,E hj estou com pouco de [falta de ar](SINTOMA) mal consigo nem bosejar
@@ -7553,7 +7562,6 @@ Meu marido também está com tosse minha mãe também,Meu marido também está c
 Meu irmão teve tosse e febre,Meu irmão teve [tosse](SINTOMA) e [febre](SINTOMA)
 Só meu outro filho que até agora disse não sentir nada,Só meu outro filho que até agora disse não sentir nada
 Meu filho de 11 anos que aparentemente está bem,Meu filho de 11 anos que aparentemente está bem
-Oi Camila,Oi Camila
 "Assim, eu não acho que eu esteja com Corona","Assim, eu não acho que eu esteja com Corona"
 Eu estou com uma tosse,Eu estou com uma [tosse](SINTOMA)
 Há quase trinta dias,Há quase trinta dias
@@ -7666,6 +7674,7 @@ Preciso acabar com essa sensação de desmaio,Preciso acabar com essa sensação
 É horrível,É horrível
 "Tenho 4, 5x por dia","Tenho 4, 5x por dia"
 A pressão,A pressão
+Baixa,Baixa
 Vou ficando gelada,Vou ficando gelada
 Demais,Demais
 Uma sensação estranha no corpo,Uma sensação estranha no corpo
@@ -7930,6 +7939,7 @@ Tipo fraqueza,Tipo [fraqueza](SINTOMA)
 Não estão atendendo,Não estão atendendo
 "Não, obrigada!","Não, obrigada!"
 To começou de ontem pra hoje,To começou de ontem pra hoje
+Ta Bom,Ta Bom
 Estou com dificuldade pra respirar,Estou com dificuldade pra respirar
 Como se tivesse algum no meu peito,Como se tivesse algum no meu peito
 E estou mi cansando rápida mente,E estou mi cansando rápida mente
@@ -8009,10 +8019,8 @@ Avenida contorno oeste 1310 Bairro conjunto esperança,Avenida contorno oeste 13
 "Só estranhei febre hj de 37,5","Só estranhei [febre](SINTOMA) hj de 37,5"
 Tenho feito quarentena,Tenho feito quarentena
 Pius tenho idosa em casa,Pius tenho idosa em casa
-Ibuprofeno,Ibuprofeno
 É agora meio dia dipirona,É agora meio dia dipirona
 "Pela febre de 37,5","Pela [febre](SINTOMA) de 37,5"
-Christina d,Christina d
 Pela manhã não tinha,Pela manhã não tinha
 Mas os sintomas não aumentaram de coriza e tosse,Mas os sintomas não aumentaram de [coriza](SINTOMA) e [tosse](SINTOMA)
 Q eu saiba não. As vzs pressão alta,Q eu saiba não. As vzs pressão alta
@@ -8155,7 +8163,6 @@ Se pudesse mandar áudio ouviria como estou ofegante e estou sentado,Se pudesse 
 Estou em Fortaleza a família foi me buscar,Estou em Fortaleza a família foi me buscar
 Poderia,Poderia
 vou perguntar aqui a meu irmão,vou perguntar aqui a meu irmão
-UPA Itaperi,UPA Itaperi
 Agora lá está funcionando?,Agora lá está funcionando?
 "A Sra faz o encaminhamento, ou não precisa, é só ir até a UPA","A Sra faz o encaminhamento, ou não precisa, é só ir até a UPA"
 "Não, muito obrigado boa noite.","Não, muito obrigado boa noite."
@@ -8163,7 +8170,6 @@ pronto faz alguns dias que estou com coçeira no raiz chegou ai tupi mais tomei 
 so 3 diaa estou com fraco perdi muito pesso,so 3 diaa estou com fraco perdi muito pesso
 e estou com tontura,e estou com [tontura](SINTOMA)
 mais nao tive febre nehum momento cinto um coçeira no nariz principalmente do lado esquerdo,mais nao tive [febre](SINTOMA) nehum momento cinto um coçeira no nariz principalmente do lado esquerdo
-tenho 35,tenho 35
 a minha pela ta muito seca,a minha pela ta muito seca
 agora cinto desconforo no nariz principalmente quando vejo noticia rui,agora cinto desconforo no nariz principalmente quando vejo noticia rui
 mais nao tenho falta de ar nem dor no corpo,mais nao tenho [falta de ar](SINTOMA) nem dor no corpo
@@ -8244,6 +8250,7 @@ Canso bem rápido,Canso bem rápido
 Hoje não consegui lavar o cabelo,Hoje não consegui lavar o cabelo
 Tbm a garganta está seca constante,Tbm a [garganta](SINTOMA) está seca constante
 E a dor no peito?,E a [dor no peito](SINTOMA)?
+Tendi,Tendi
 Se o cansaso piorar?,Se o cansaso piorar?
 Com quem falei?,Com quem falei?
 Wilian obg pelo apoio,Wilian obg pelo apoio
@@ -8428,7 +8435,6 @@ Me ajude sou portadora de câncer só tenho um polmao,Me ajude sou portadora de 
 Estou com três dias com uma molesa no corpo,Estou com três dias com uma molesa no corpo
 Me dê um telefone seu pra eu ligar,Me dê um telefone seu pra eu ligar
 Não estou conseguindo digitar,Não estou conseguindo digitar
-Oi Rebeca,Oi Rebeca
 Foi atendida,Foi atendida
 Tá bom obrigada,Tá bom obrigada
 "A 5 dias venho sentindo dor de cabeça, dor no corpo e quando vou respirar sinto uma ardencia muito forte Hoje to pior quando respiro doi, a respiração ta ruim, e estou mim sentindo muito fraca","A 5 dias venho sentindo [dor de cabeça](SINTOMA), dor no corpo e quando vou respirar sinto uma ardencia muito forte Hoje to pior quando respiro doi, a respiração ta ruim, e estou mim sentindo muito fraca"
@@ -8458,7 +8464,6 @@ MUITO obrigado,MUITO obrigado
 Meu esposo está com falta de ar,Meu esposo está com [falta de ar](SINTOMA)
 Vez e outra,Vez e outra
 Ele parado,Ele parado
-Losartana,Losartana
 Para pressao,Para pressao
 Com dificuldades de respirar,Com dificuldades de respirar
 Já estamos indo,Já estamos indo
@@ -8693,6 +8698,7 @@ Como seria?,Como seria?
 "Sim, por favor","Sim, por favor"
 "Ok, eu quero!","Ok, eu quero!"
 "Ok, muito obrigada! Boa noite","Ok, muito obrigada! Boa noite"
+Oi Havila,Oi Havila
 Estou com tanto medo,Estou com tanto medo
 "Tenho idosos em casa, e um deles está com febre","Tenho idosos em casa, e um deles está com [febre](SINTOMA)"
 Isso ta me deixando beem nervosa,Isso ta me deixando beem nervosa
@@ -8737,7 +8743,6 @@ Ele passou meio durante a primeira semana,Ele passou meio durante a primeira sem
 "Não consigo relaxar com nada, checo minha temperatura a cada 2 minutos","Não consigo relaxar com nada, checo minha temperatura a cada 2 minutos"
 "Até disso eu tenho medo, de chegar perto de quem eu amo","Até disso eu tenho medo, de chegar perto de quem eu amo"
 Medo de estar assintomática e contaminar eles,Medo de estar assintomática e contaminar eles
-Ooi,Ooi
 Me tira só mais uma dúvida,Me tira só mais uma dúvida
 "tipo, em caso de pensamento suicida, eu volto a ir na emergência?","tipo, em caso de pensamento suicida, eu volto a ir na emergência?"
 "Barbara, na verdade eu queria tirar uma dúvida.  Tô tendo crise de ansiedade e pânico.  Hoje to sentindo um mal estar na barriga e um pouco de cólica, gostaria de saber se é sintoma de covid, pq to pirandooo","Barbara, na verdade eu queria tirar uma dúvida.  Tô tendo crise de [ansiedade](SINTOMA) e [pânico](SINTOMA).  Hoje to sentindo um [mal estar](SINTOMA) na barriga e um pouco de [cólica](SINTOMA), gostaria de saber se é sintoma de covid, pq to pirandooo"
@@ -8787,7 +8792,6 @@ A tosse nao é constante,A [tosse](SINTOMA) nao é constante
 É uma difildade q tenho q respirar forte pela boca p ajudar,É uma difildade q tenho q respirar forte pela boca p ajudar
 É como se minha respiração não completasse. Fosse só até o estômago,É como se minha respiração não completasse. Fosse só até o estômago
 To sim,To sim
-Moca,Moca
 "Se eu passar mal, para onde meu esposo pode me levar","Se eu passar mal, para onde meu esposo pode me levar"
 Gostaria de saber se preciso fazer exame e se tem?,Gostaria de saber se preciso fazer exame e se tem?
 Ontem senti muita muita muita dor no corpo e pouco depois percebi que fiquei sem sentir cheiro nem gosto de nada,Ontem senti muita muita muita [dor](SINTOMA) no corpo e pouco depois percebi que fiquei sem sentir cheiro nem gosto de nada
@@ -8906,6 +8910,7 @@ Sinto não,Sinto não
 Tenho medo de estar assintomática,Tenho medo de estar assintomática
 Tomo própolis com limão em jejum e minha vitamina C,Tomo própolis com limão em jejum e minha vitamina C
 Caso sinta dor de garganta,Caso sinta [dor de garganta](SINTOMA)
+Oi Felipe :),Oi Felipe :)
 Eu percebi que eu tenho dor de garganta desde hoje da manhã,Eu percebi que eu tenho [dor de garganta](SINTOMA) desde hoje da manhã
 Tenho um pouco de tosse também,Tenho um pouco de [tosse](SINTOMA) também
 Fora disso eu estou bem,Fora disso eu estou bem
@@ -9033,6 +9038,7 @@ Essa semana minha mãe e um sobrinha adoeceram foram ao posto de saúde e fora c
 Da hora que aninha sobrinha me avisou eu já comecei a se sentir mal,Da hora que aninha sobrinha me avisou eu já comecei a se sentir mal
 Daí daq com uma febres,Daí daq com uma [febres](SINTOMA)
 Comecei a ficar com medir e tal,Comecei a ficar com medir e tal
+Febres*,[Febres](SINTOMA)*
 Estou me cuidando,Estou me cuidando
 Mais então,Mais então
 Ontem foi que eu tive uma crise de ansiedade forte,Ontem foi que eu tive uma crise de [ansiedade](SINTOMA) forte
@@ -9223,6 +9229,7 @@ Se assim fizermos ficaremos curado,Se assim fizermos ficaremos curado
 Obrigada bom dia,Obrigada bom dia
 Estou angustia,Estou angustia
 Nao obrigada. Vou ler a palavra de Deus me faz entender os planos dele pra humanidade. Bom dia,Nao obrigada. Vou ler a palavra de Deus me faz entender os planos dele pra humanidade. Bom dia
+Obrigada vcs,Obrigada vcs
 Bom bom dia,Bom bom dia
 "Desde das 2da manhã estou sem febre ,fiquei tendo febre três dias. Agora estou com o corpo muido os músculos","Desde das 2da manhã estou sem [febre](SINTOMA) ,fiquei tendo [febre](SINTOMA) três dias. Agora estou com o corpo muido os músculos"
 Fiquei muito preocupada pois a febre persistia à três dias depois que tomei a injeção H1N1. Quando tomei estava com coriza e espirro,Fiquei muito preocupada pois a [febre](SINTOMA) persistia à três dias depois que tomei a injeção H1N1. Quando tomei estava com [coriza](SINTOMA) e espirro
@@ -9298,7 +9305,6 @@ Graças a Deus não pra todas as perguntas,Graças a Deus não pra todas as perg
 "Dipirona, Nimesulida e Benegripe","Dipirona, Nimesulida e Benegripe"
 Em relação a perca de paladar ou olfato,Em relação a perca de paladar ou olfato
 o que fazer?,o que fazer?
-meu jesus,meu jesus
 e sobre meu avô e minha mãe?,e sobre meu avô e minha mãe?
 "Ele é idoso, tem 90 anos","Ele é idoso, tem 90 anos"
 Morro de medo de tá com covid e passar pra eles,Morro de medo de tá com covid e passar pra eles
@@ -9806,6 +9812,7 @@ Estou ha 4 dias com uma febre que vem e vai. Estou tomando tylenol para baixar q
 Hoje estou com uma dor na costa na altura do pulmão que me deixa com falta de ar,Hoje estou com uma [dor](SINTOMA) na costa na altura do pulmão que me deixa com [falta de ar](SINTOMA)
 Entendi. Onde posso ser atendida?,Entendi. Onde posso ser atendida?
 UPA faz esse atendimento?,UPA faz esse atendimento?
+Bela vista,Bela vista
 A da autran nunes faz esse atendimento?,A da autran nunes faz esse atendimento?
 A que fica na senador fernandes Távora,A que fica na senador fernandes Távora
 Vou avisar ao meu filho da upa granha Lisboa,Vou avisar ao meu filho da upa granha Lisboa
@@ -9827,7 +9834,6 @@ Medi deu 38 mas no momento não estou com febre,Medi deu 38 mas no momento não 
 Pouco mas estou preocupado pois sou diabetico e hipertenso e fiz um cirurgia da prostata a 01 mes atras,Pouco mas estou preocupado pois sou diabetico e [hipertenso](SINTOMA) e fiz um cirurgia da prostata a 01 mes atras
 Estou sentindo um pouco de falta de ar a garganta desde semana passada ta irritada e um gosto amargo na boca.,Estou sentindo um pouco de [falta de ar](SINTOMA) a garganta desde semana passada ta irritada e um gosto amargo na boca.
 "No momento nao tenho febre, aqui acolá eu tusso, coriza muito pouco as vezes e sinto dor de cabeça a altura da testa","No momento nao tenho [febre](SINTOMA), aqui acolá eu tusso, coriza muito pouco as vezes e sinto [dor de cabeça](SINTOMA) a altura da testa"
-Nariz entopi,Nariz entopi
 "A garganta começou terça feira da semana passada,tive febre 02 vezes","A [garganta](SINTOMA) começou terça feira da semana passada,tive [febre](SINTOMA) 02 vezes"
 A ultima vez faz 24 horas,A ultima vez faz 24 horas
 Estou falando normal mas canso um pouco,Estou falando normal mas canso um pouco
@@ -9909,6 +9915,7 @@ Levaria pra onde então,Levaria pra onde então
 Pra não colocar mão na boca,Pra não colocar mão na boca
 Não tocar nas coisas,Não tocar nas coisas
 "Ok, agradeço","Ok, agradeço"
+Rua 12/348,Rua 12/348
 "Rua 124, n° 348","Rua 124, n° 348"
 "Desculpa, errei","Desculpa, errei"
 Ao digitar,Ao digitar
@@ -10011,6 +10018,7 @@ Onde faz ?,Onde faz ?
 Meu irmao morreu a 15 dias,Meu irmao morreu a 15 dias
 Sou grupo riscos,Sou grupo riscos
 Diab e hipert,Diab e hipert
+Obesa,Obesa
 "So uma anisedade grande Marido adoeceu, bb com estado febril e tussindo. Meu sogro com diagnostico recwnte de cacer de garganta na mesma casa. To meio aflita","So uma anisedade grande Marido adoeceu, bb com estado [febril](SINTOMA) e tussindo. Meu sogro com diagnostico recwnte de cacer de garganta na mesma casa. To meio aflita"
 "Diarreia,  suor frio, indisposta  Continuo sem paladar e sem olfato","Diarreia,  suor frio, indisposta  Continuo sem paladar e sem olfato"
 Estado febril  Dor de cabeça leve Ausencia de olfato e paladar e indisposta,Estado febril  [Dor de cabeça](SINTOMA) leve Ausencia de olfato e paladar e indisposta
@@ -10138,6 +10146,7 @@ Por favor uma duvida isso se classifica como sintoma de covid-19?,Por favor uma 
 Muito obrigada pela atenção e orientação de vcs,Muito obrigada pela atenção e orientação de vcs
 Boa noite Mariana ontem entrei em contato com vcs sobre possíveis sintomas do covid  Estava com a pressão alta e um mal estar intenso porém hoje me encontro so com um lá estar fadiga mais a pressão baixou um pouco Quero desde já agradecer a vcs pelo acompanhamento e orientação  prestada,Boa noite Mariana ontem entrei em contato com vcs sobre possíveis sintomas do covid  Estava com a pressão alta e um [mal estar](SINTOMA) intenso porém hoje me encontro so com um lá estar [fadiga](SINTOMA) mais a pressão baixou um pouco Quero desde já agradecer a vcs pelo acompanhamento e orientação  prestada
 Hoje não mais obrigada pela atenção de vcs,Hoje não mais obrigada pela atenção de vcs
+Obrigada Deus abençoe vcs!!,Obrigada Deus abençoe vcs!!
 Amém!!!,Amém!!!
 "Boa tarde, Ana Carla","Boa tarde, Ana Carla"
 Começou ontem a noite,Começou ontem a noite
@@ -10155,6 +10164,7 @@ Tô com a respiração um pouco ofegante,Tô com a respiração um pouco ofegant
 Sobe o peito.,Sobe o peito.
 Não Dra.,Não Dra.
 Dói mais a garganta,Dói mais a [garganta](SINTOMA)
+Qdo tusso,Qdo tusso
 "É,...","É,..."
 "Senti ontem minha cabeça muito quente,e tem horas q os olhos ardem,mão ñ é constante","Senti ontem minha cabeça muito quente,e tem horas q os olhos ardem,mão ñ é constante"
 """""Mas","""""Mas"
@@ -10543,6 +10553,7 @@ Tomei  benegripe e a febre já passou,Tomei  benegripe e a [febre](SINTOMA) já 
 Sinto o gosto das comidas mas não sinto cheiro,Sinto o gosto das comidas mas não sinto cheiro
 To na minha mãe,To na minha mãe
 Ela. Minha irmã e minha,Ela. Minha irmã e minha
+Filha,Filha
 Devo ir pra outro lugar,Devo ir pra outro lugar
 Ficar sozinha,Ficar sozinha
 Na minha casa?,Na minha casa?
@@ -10938,6 +10949,7 @@ O que posso tomar?,O que posso tomar?
 Respiração um pouco mais acelerada tb,Respiração um pouco mais acelerada tb
 Dor de cabeça - neosaldina,[Dor de cabeça](SINTOMA) - neosaldina
 Febre - dipirona,[Febre](SINTOMA) - dipirona
+N medi,N medi
 N tenho termômetro,N tenho termômetro
 N tenho alergia,N tenho [alergia](SINTOMA)
 Pode tomar o neosaldina?,Pode tomar o neosaldina?
@@ -11061,6 +11073,7 @@ Quando acabar meu isolamento,Quando acabar meu isolamento
 Pro vírus sair,Pro vírus sair
 Posso continuar dormindo nele neh?,Posso continuar dormindo nele neh?
 Na verdade não sai dele ainda,Na verdade não sai dele ainda
+Kkk,Kkk
 "Pronto, eram essas minhas dúvidas","Pronto, eram essas minhas dúvidas"
 Mutio obrigada,Mutio obrigada
 Já estou em isolamento,Já estou em isolamento
@@ -11450,6 +11463,7 @@ Meu pai está sentindo muito calafrio.,Meu pai está sentindo muito calafrio.
 Se treme todo.,Se treme todo.
 Ele está com moleza no corpo,Ele está com moleza no corpo
 Medi a temperatura está com 37.1,Medi a temperatura está com 37.1
+Ooii,Ooii
 No momento ele diz que está sentindo mal está e calafrios,No momento ele diz que está sentindo mal está e calafrios
 Ele tá se tremendo,Ele tá se [tremendo](SINTOMA)
 Agora mesmo,Agora mesmo
@@ -11506,6 +11520,7 @@ Ele está com dor de cabeça e mal está.,Ele está com [dor de cabeça](SINTOMA
 E eu estou com tosse e mal está.,E eu estou com [tosse](SINTOMA) e mal está.
 Não me tratei só em casa mesmo.,Não me tratei só em casa mesmo.
 Ja meu pai foi ontem. Mais só tomou medicamento para pressão.,Ja meu pai foi ontem. Mais só tomou medicamento para pressão.
+Klaudya Yara Terceiro Cavalcante,Klaudya Yara Terceiro Cavalcante
 Sentiu falta de ar hoje de manhã,Sentiu [falta de ar](SINTOMA) hoje de manhã
 Ele diz que foi muito forte.,Ele diz que foi muito forte.
 Aqui é a filha dele que tá falando.,Aqui é a filha dele que tá falando.
@@ -11688,6 +11703,7 @@ Sentir sábado  e domingo  Voltei a sentir ontem a noite de novo,Sentir sábado 
 Mais hoje estar sendo o pior de dia de febre,Mais hoje estar sendo o pior de dia de [febre](SINTOMA)
 Mais se por acaso eu não tiver febre pela manhã não preciso ir né.,Mais se por acaso eu não tiver [febre](SINTOMA) pela manhã não preciso ir né.
 Mais caso persista eu vou,Mais caso persista eu vou
+Obg Boa noite,Obg Boa noite
 Pq meu endereço ñ é esse,Pq meu endereço ñ é esse
 Passei errado,Passei errado
 Tive febre 3 dias e a garganta doendo,Tive [febre](SINTOMA) 3 dias e a [garganta](SINTOMA) doendo
@@ -11705,7 +11721,6 @@ Amoxicilina garganta  Dipirona pra febre,Amoxicilina [garganta](SINTOMA)  Dipiro
 E tomando suco de acerola e limão,E tomando suco de acerola e limão
 Então o q posso tomar sem q posso aí ao médico?,Então o q posso tomar sem q posso aí ao médico?
 Pode receitar?,Pode receitar?
-Olá Boa noite,Olá Boa noite
 "Desconforto na respiração com dores na costa altura do peito, meio tonto e garganta inflamada","Desconforto na respiração com dores na costa altura do peito, meio tonto e garganta inflamada"
 Sim tô assim nesse momento,Sim tô assim nesse momento
 Não tenho como ir agr,Não tenho como ir agr
@@ -11919,7 +11934,6 @@ Trabalhei,Trabalhei
 Hoje somente iddo,Hoje somente iddo
 Fico preocupada porque tenhi duas senhoras do grupi de risco,Fico preocupada porque tenhi duas senhoras do grupi de risco
 Nariz entupido mais a noite,[Nariz](SINTOMA) entupido mais a noite
-Obrigada Felipe,Obrigada Felipe
 eu to sentindo meu corpo mole,eu to sentindo meu corpo mole
 e uma dor de cabeça que dói mais na parte atrás dos olhos,e uma [dor de cabeça](SINTOMA) que dói mais na parte atrás dos olhos
 e ontem meu nariz estava escorrendo,e ontem meu nariz estava escorrendo
@@ -11931,7 +11945,6 @@ Des de ontem a noite já vinha sentido um pouco de febre e hoje a garganta,Des d
 Ou uma gripe,Ou uma gripe
 No caso na quinta levei uma chuva quente,No caso na quinta levei uma chuva quente
 Até o momento não,Até o momento não
-Esté,Esté
 Comecei toma ontem a noite,Comecei toma ontem a noite
 Mas com a passagem do efeito retorna,Mas com a passagem do efeito retorna
 Como prosseguir?,Como prosseguir?
@@ -11989,7 +12002,6 @@ Màs eu não tenho como medir minha temperatura,Màs eu não tenho como medir mi
 Tem 2 semanas,Tem 2 semanas
 Começou tudo junto,Começou tudo junto
 "Ah, e ia esquecendo de citar as tonturas.","Ah, e ia esquecendo de citar as tonturas."
-Rua sargento Barbosa 1001,Rua sargento Barbosa 1001
 Certo. Vou entrar em contato,Certo. Vou entrar em contato
 Celulae tinha travado,Celulae tinha travado
 Desde já grata,Desde já grata
@@ -12024,7 +12036,6 @@ Eu fiz minha frequência tenho 11 por minuto,Eu fiz minha frequência tenho 11 p
 "Eu tenho saído apenas para super e vou sempre protegido, mas não sei","Eu tenho saído apenas para super e vou sempre protegido, mas não sei"
 "Sim, me cansei um pouco, mas consigo sim","Sim, me cansei um pouco, mas consigo sim"
 "Ate agora To fazendo rotina normal, mas me cansei mais um pouco a subir a escada e fui arrumar minha cama e passar aspirador nos quartos e cansei","Ate agora To fazendo rotina normal, mas me cansei mais um pouco a subir a escada e fui arrumar minha cama e passar aspirador nos quartos e cansei"
-Tomei enxak,Tomei enxak
 "Melhorou a dor, mas tá aquele peso ainda.","Melhorou a dor, mas tá aquele peso ainda."
 Tb nao,Tb nao
 "Só esse incômodo na respiração, dor no tórax e hj a tarde for de cabeça","Só esse incômodo na respiração, dor no tórax e hj a tarde for de cabeça"
@@ -12209,7 +12220,6 @@ Pra q?,Pra q?
 Vcs vêm buscar ele aqui?,Vcs vêm buscar ele aqui?
 Venha não que hospital ta tá mais lotado s covid que na china,Venha não que hospital ta tá mais lotado s covid que na china
 Rua IV casa 237,Rua IV casa 237
-Quintino cunha,Quintino cunha
 Tá certo obrigada,Tá certo obrigada
 Mas temos plano,Mas temos plano
 É necessário procurar atendimento médico?,É necessário procurar atendimento médico?
@@ -12223,7 +12233,6 @@ Sem problema. Deve estar com muitas  pessoas.  Eu entendo,Sem problema. Deve est
 Não. Só  asma. Já  tive depressão. Mas me tratei  e hoje os sintomas são controláveis.,Não. Só  [asma](SINTOMA). Já  tive [depressão](SINTOMA). Mas me tratei  e hoje os sintomas são controláveis.
 Não preciso mais de remédio para depressão,Não preciso mais de remédio para [depressão](SINTOMA)
 Já senti dor no pulmão. Nesse tempo senti falta de ar. Mas tomei o remédio da asma,Já senti [dor](SINTOMA) no pulmão. Nesse tempo senti [falta de ar](SINTOMA). Mas tomei o remédio da [asma](SINTOMA)
-Tomo Alenia,Tomo Alenia
 Isso foi no começo. Á 2 dias atrás,Isso foi no começo. Á 2 dias atrás
 Depois que senti essa dor. Começei a sentir tudo,Depois que senti essa [dor](SINTOMA). Começei a sentir tudo
 Também acho. Vc acha que pode ser chinkunkunha?,Também acho. Vc acha que pode ser chinkunkunha?
@@ -12461,7 +12470,6 @@ Para ambos,Para ambos
 Tenho uma filha de 16 anos que tbm perdeu  o olfato  e paladar  e congestionada,Tenho uma filha de 16 anos que tbm perdeu  o olfato  e paladar  e congestionada
 Obg. Que Deus  abençoe  a todos  vcs,Obg. Que Deus  abençoe  a todos  vcs
 No momento  ñ,No momento  ñ
-Francisca  ?,Francisca  ?
 Passei a noite toda  em claro .coração  acelerado e tosse. Ancia  de  desmaio  suando frio.,Passei a noite toda  em claro .coração  acelerado e [tosse](SINTOMA). Ancia  de  [desmaio](SINTOMA)  suando frio.
 Ficar em casa. Só estão  atendendo se estiver sem oxigênio,Ficar em casa. Só estão  atendendo se estiver sem oxigênio
 Ñ  tenho como continuar  com está  tosse,Ñ  tenho como continuar  com está  [tosse](SINTOMA)
@@ -12726,6 +12734,7 @@ Foi o que pensei,Foi o que pensei
 ou devo procurar logo?,ou devo procurar logo?
 "tá certo, então","tá certo, então"
 obrigado mais uma vez,obrigado mais uma vez
+Oi Dr Ligia,Oi Dr Ligia
 "eu estava gripada antes da quarentena e qdo parei estava quase ficando Boa, comecei a limpar umas coisas na casa na parte de cima e voltou um pouco comecei a me cuidar, cuidando da alimentação, etc . Melhorei levei meus país q são idosos pra tomar vacina no rio mar e tomei também da gripe","eu estava gripada antes da quarentena e qdo parei estava quase ficando Boa, comecei a limpar umas coisas na casa na parte de cima e voltou um pouco comecei a me cuidar, cuidando da alimentação, etc . Melhorei levei meus país q são idosos pra tomar vacina no rio mar e tomei também da gripe"
 senti uma falta de ar leve uns dias atrás,senti uma [falta de ar](SINTOMA) leve uns dias atrás
 "passo Nick no peito , tomo suco de laranja com beterraba, tomo mta água","passo Nick no peito , tomo suco de laranja com beterraba, tomo mta água"
@@ -12744,6 +12753,7 @@ não tomei nenhum remédio,não tomei nenhum remédio
 no começo comprei benegripe e Coristina d por causa da gripe,no começo comprei benegripe e Coristina d por causa da gripe
 mas minha irmã disse q n podia tomar,mas minha irmã disse q n podia tomar
 medi mas acho q meu termômetro tá quebrado,medi mas acho q meu termômetro tá quebrado
+medi agora,medi agora
 ele é novo ñ sei,ele é novo ñ sei
 Ñ chega a 37,Ñ chega a 37
 ano passado tive problemas com minha menstruação irregular,ano passado tive problemas com minha menstruação irregular
@@ -13130,6 +13140,7 @@ E a falta de gosto e cheiro,E a falta de gosto e cheiro
 Dor nos olhos no corpo a dose maior ajuda ?,Dor nos olhos no corpo a dose maior ajuda ?
 Não só tive dois dias e passou,Não só tive dois dias e passou
 De 37,De 37
+Calafrios,[Calafrios](SINTOMA)
 Já estou com oito dias com os sintomas,Já estou com oito dias com os sintomas
 "Obrigada pela consulta, bom trabalho e bom dia muito grata","Obrigada pela consulta, bom trabalho e bom dia muito grata"
 No momento tá ótimo,No momento tá ótimo
@@ -13148,7 +13159,6 @@ Tive até ontem,Tive até ontem
 Sim Quinta Nao,Sim Quinta Nao
 E dor nos olhos,E [dor nos olhos](SINTOMA)
 a cerca de dois dias estou sentindo mal estar e pressao baixa,a cerca de dois dias estou sentindo [mal estar](SINTOMA) e pressao baixa
-tenho urticaria cronica expontanea,tenho urticaria cronica expontanea
 e utilizo alektos,e utilizo alektos
 "meu filho apresentou tosse, febre e nao sei se ele tem corona","meu filho apresentou [tosse](SINTOMA), [febre](SINTOMA) e nao sei se ele tem corona"
 aferi a 2 dias e deu 37 graus,aferi a 2 dias e deu 37 graus
@@ -13360,7 +13370,6 @@ Sabe aquele medo de olhar pra sua filhar e achar quebo fututo e incerto,Sabe aqu
 Estou neste momento,Estou neste momento
 "Tentando ser forte, mas o choro foi inevitável","Tentando ser forte, mas o choro foi inevitável"
 Fico com a boca seca!,Fico com a [boca seca](SINTOMA)!
-Inquieto,Inquieto
 Andando na casa,Andando na casa
 "Obrigado, Felipe!","Obrigado, Felipe!"
 Muito mesmo!,Muito mesmo!
@@ -13560,6 +13569,7 @@ Eu nao sei qual tomar,Eu nao sei qual tomar
 Vai demorar muito pra voltar a sentir cheiro,Vai demorar muito pra voltar a sentir cheiro
 Pq mesmo assim eu como bem,Pq mesmo assim eu como bem
 Obg viu,Obg viu
+Ta bom obg,Ta bom obg
 "Eu tive diarréia durante 2 dias, fiquei febril durante 2 dias, e dor nos olhos","Eu tive [diarréia](SINTOMA) durante 2 dias, fiquei febril durante 2 dias, e [dor nos olhos](SINTOMA)"
 Agora estou sem paladar e sem olfato,Agora estou sem paladar e sem olfato
 "Me sinto bem, porém, sem olfato e paladar","Me sinto bem, porém, sem olfato e paladar"
@@ -14028,7 +14038,6 @@ Oque é paladar e olfato,Oque é paladar e olfato
 Mais a febre e acaba quantos dias ?,Mais a [febre](SINTOMA) e acaba quantos dias ?
 "Agora minha febre está assim 37,5","Agora minha [febre](SINTOMA) está assim 37,5"
 Pode ser Dipirona,Pode ser Dipirona
-Vitor  27/11/1999,Vitor  27/11/1999
 Toda vida eu tiver 37 de febre posso beber remédio,Toda vida eu tiver 37 de [febre](SINTOMA) posso beber remédio
 Quando eu tiver assim eu posso neh,Quando eu tiver assim eu posso neh
 Queria saber que a febril 6 dias e normal?,Queria saber que a febril 6 dias e normal?
@@ -14104,6 +14113,7 @@ Tenho medo de ir a um lugar cheio de pessoas contaminadas,Tenho medo de ir a um 
 Eu penso que estaria tomando o lugar de pessoas graves,Eu penso que estaria tomando o lugar de pessoas graves
 Qual meu tempo de quarentena? Já que estou há mais de 15 dias?,Qual meu tempo de quarentena? Já que estou há mais de 15 dias?
 Eu posso piorar?,Eu posso piorar?
+Nossa,Nossa
 Eu tive febre só nos primeiros dias,Eu tive [febre](SINTOMA) só nos primeiros dias
 Eu posso sair?Quando necessário?,Eu posso sair?Quando necessário?
 Usar o álcool tbm,Usar o álcool tbm
@@ -14127,6 +14137,7 @@ não mais me sinto muito frio mal star não aguentou engolir nada,não mais me s
 tenho tosse e quando  respiro ficou puxando forçando pra respirar,tenho [tosse](SINTOMA) e quando  respiro ficou puxando forçando pra respirar
 dificuldade pra respira tosse seca,dificuldade pra respira [tosse seca](SINTOMA)
 a noite não durmo com as dores nas articulações e febre tosse aumenta a noite,a noite não durmo com as dores nas articulações e [febre](SINTOMA) [tosse](SINTOMA) aumenta a noite
+sou fumante,sou fumante
 só quando levanto ai dor nas Costa e puxo a respiração,só quando levanto ai dor nas Costa e puxo a respiração
 e ao tossi,e ao tossi
 piora,piora
@@ -14351,6 +14362,7 @@ Tomo o que para garganta,Tomo o que para [garganta](SINTOMA)
 Mal estar e a garganta ardendo,[Mal estar](SINTOMA) e a [garganta](SINTOMA) ardendo
 Água morna e vinagre,Água morna e vinagre
 A garganta não tá doendo sabe,A [garganta](SINTOMA) não tá doendo sabe
+Kd vc,Kd vc
 Sinusite e renite,[Sinusite](SINTOMA) e renite
 É crônica?,É crônica?
 Eu tenho isso ai,Eu tenho isso ai
@@ -14387,7 +14399,6 @@ Já tem uns 5 dias,Já tem uns 5 dias
 Ta sim,Ta sim
 O desconforto é  na barriga toda como se estivesse empachado,O desconforto é  na barriga toda como se estivesse empachado
 E nas costas,E nas costas
-Diabete Impertencao Coração,Diabete Impertencao Coração
 "Desconforto, só mim preocupa pq sinto todos meus órgão inchados","Desconforto, só mim preocupa pq sinto todos meus órgão inchados"
 Te ho uma sobrinha que é  minha vizinha está com crise de cansaço já tem 15 dias é febre tbm,Te ho uma sobrinha que é  minha vizinha está com crise de [cansaço](SINTOMA) já tem 15 dias é [febre](SINTOMA) tbm
 Mas infelizmente as upas estão tudo lotadas e a mãe dela não quer levar ela pro medico,Mas infelizmente as upas estão tudo lotadas e a mãe dela não quer levar ela pro medico
@@ -14589,8 +14600,10 @@ Tenho medo de levá-lo e ele contrair caso não tenha nada,Tenho medo de levá-l
 Deus,Deus
 Desde terça,Desde terça
 Vc está falando com Júlio César,Vc está falando com Júlio César
+Companheiro do Francisco,Companheiro do Francisco
 Eu tenho outros sintomas,Eu tenho outros sintomas
 Voz manhosa,Voz manhosa
+Boz fanhosa,Boz fanhosa
 Voz,Voz
 E gripe desde terça,E gripe desde terça
 Mas os sintomas da gripe estão mais fortes agora,Mas os sintomas da gripe estão mais fortes agora
@@ -14870,7 +14883,6 @@ Depois eu falou viu eu vou cuidar da minha bebe,Depois eu falou viu eu vou cuida
 Boa tarde estou com não estou sentindo cheiro nem paladar a 10 dias e hoje estou com falta de ar pode ser corona posso fazer o teste?,Boa tarde estou com não estou sentindo cheiro nem paladar a 10 dias e hoje estou com [falta de ar](SINTOMA) pode ser corona posso fazer o teste?
 Sim que dizer que so quando a pessoa tinver grave ai vcs fazem alguma coisa?,Sim que dizer que so quando a pessoa tinver grave ai vcs fazem alguma coisa?
 Ta certo Obrigada pela a ajuda,Ta certo Obrigada pela a ajuda
-Boa Tarde Moça,Boa Tarde Moça
 Eu na terça Tomei a vacina da Gripe,Eu na terça Tomei a vacina da Gripe
 "Tô sentido dor no corpo, uma Moleza mesmo.  Dor na Garganta, com um pouco de febre (36,7) Dor de cabeça e nos olhos","Tô sentido [dor](SINTOMA) no corpo, uma Moleza mesmo.  [Dor](SINTOMA) na [Garganta](SINTOMA), com um pouco de [febre](SINTOMA) (36,7) [Dor de cabeça](SINTOMA) e nos olhos"
 Apenas isso,Apenas isso
@@ -15175,6 +15187,7 @@ So saio de casa para compra alimentos  e remédio,So saio de casa para compra al
 Não  não,Não  não
 Ta certo  obrigada,Ta certo  obrigada
 Ta certo  Muito  obrigada,Ta certo  Muito  obrigada
+Oi Thaysa,Oi Thaysa
 "Já tem uns 2 a 4 dias que estou meio febril, nariz entupido, corizando as vezes, perdi o paladar e o olfato e hoje senti um pouco de falta de ar.","Já tem uns 2 a 4 dias que estou meio febril, [nariz](SINTOMA) entupido, corizando as vezes, perdi o paladar e o olfato e hoje senti um pouco de [falta de ar](SINTOMA)."
 Uso losartana potassica e hidroclorotiazida,Uso losartana potassica e hidroclorotiazida
 3* *4 dias,3* *4 dias
@@ -15220,7 +15233,6 @@ O isolamento e com a gente?,O isolamento e com a gente?
 Não tenho com quem deixar,Não tenho com quem deixar
 Estou com alguns sintomas de febre dor na cabeça,Estou com alguns sintomas de [febre](SINTOMA) dor na cabeça
 Ñ sinto gosto é nem cheiro,Ñ sinto gosto é nem cheiro
-Cabeça quente,Cabeça quente
 Hoje só corpo doendo é cabeça,Hoje só corpo doendo é cabeça
 Dor de garganta sim e nariz ardendo,[Dor de garganta](SINTOMA) sim e nariz ardendo
 Não sinto gosto é nem cheiro de nada,Não sinto gosto é nem cheiro de nada
@@ -15275,7 +15287,6 @@ Aqui são 3 suítes,Aqui são 3 suítes
 Se tiver pioras,Se tiver pioras
 Aí eu entro em Contato,Aí eu entro em Contato
 Febre acima de 37,[Febre](SINTOMA) acima de 37
-Paladar normal,Paladar normal
 Febre começou hj as 9 hrs. Agora está voltando . Tomei dipirona as 10,[Febre](SINTOMA) começou hj as 9 hrs. Agora está voltando . Tomei dipirona as 10
 Falta de ar . Graças a Deus não,[Falta de ar](SINTOMA) . Graças a Deus não
 Minha garganta agora q está voltando um Pouco o incômodo. Mas mesmo assim mais leve q ontem,Minha [garganta](SINTOMA) agora q está voltando um Pouco o incômodo. Mas mesmo assim mais leve q ontem
@@ -15552,7 +15563,6 @@ Sao gases.,Sao gases.
 Quando eu arroto alivia a sensaçao de falta de ar,Quando eu arroto alivia a sensaçao de [falta de ar](SINTOMA)
 Como se eu tivesse com refluxo,Como se eu tivesse com refluxo
 So indo ao medico para diagnosticar,So indo ao medico para diagnosticar
-Obrigado Tamires,Obrigado Tamires
 Por hora era isso,Por hora era isso
 Eu tomei um Chá,Eu tomei um Chá
 Obrigado pela atençao.,Obrigado pela atençao.
@@ -15661,7 +15671,6 @@ Tô com falta de ar,Tô com [falta de ar](SINTOMA)
 Ontem pela manhã,Ontem pela manhã
 Com frequência ontem a noite,Com frequência ontem a noite
 As vezes preciso parar pra descansar,As vezes preciso parar pra descansar
-Sinto tontura,Sinto [tontura](SINTOMA)
 Tire febre mais no momento não estou mais,Tire [febre](SINTOMA) mais no momento não estou mais
 "Tenho espiro, tosse","Tenho espiro, [tosse](SINTOMA)"
 Qual UPA mais próxima que posso estar procurando ?,Qual UPA mais próxima que posso estar procurando ?
@@ -15720,6 +15729,7 @@ tomo um medicamento pra labirintite,tomo um medicamento pra [labirintite](SINTOM
 falta de paladar e o olfato dor corpo nas articulações,falta de paladar e o olfato dor corpo nas articulações
 tenho que que ficar afastada do meu trabalho ?,tenho que que ficar afastada do meu trabalho ?
 a indo trabalhar todos os dias,a indo trabalhar todos os dias
+rua padre mororó centro,rua padre mororó centro
 queria saber quais os medicamentos posso tomar,queria saber quais os medicamentos posso tomar
 para aliviar os sintomas,para aliviar os sintomas
 dor no corpo dor de cabeça fraqueza falta de paladar,dor no corpo [dor de cabeça](SINTOMA) fraqueza falta de paladar
@@ -15756,7 +15766,6 @@ só passa quando tomo algum remédio,só passa quando tomo algum remédio
 a falta vem sempre de uma tossi e fico com certo piado na garganta,a falta vem sempre de uma tossi e fico com certo piado na [garganta](SINTOMA)
 tomei um comprimido loratadina e me sinto bem melhor,tomei um comprimido loratadina e me sinto bem melhor
 mais ainda to com um pouco do chiado,mais ainda to com um pouco do [chiado](SINTOMA)
-quinta feira da semana passada,quinta feira da semana passada
 fora isso me sinto melhor,fora isso me sinto melhor
 sim só fui ontem no posto porque precisava de um atestado pra apresentar no meu trabalho foi o único dia que sai desde os primeiros sintomas,sim só fui ontem no posto porque precisava de um atestado pra apresentar no meu trabalho foi o único dia que sai desde os primeiros sintomas
 eu  sou  a terceira pessoa a apresentar sintomas na empresa na mesma semana  por isso estou totalmente ensolada até meu filho que e asmático tirei daqui,eu  sou  a terceira pessoa a apresentar sintomas na empresa na mesma semana  por isso estou totalmente ensolada até meu filho que e [asmático](SINTOMA) tirei daqui
@@ -16141,7 +16150,6 @@ O q faco?,O q faco?
 E o q eu tomo???,E o q eu tomo???
 Estou sem paladar,Estou sem paladar
 Me ajude,Me ajude
-Oie,Oie
 Como disse tô gripada,Como disse tô gripada
 Nariz escorrendo,[Nariz escorrendo](SINTOMA)
 Preiculpada,Preiculpada
@@ -16375,7 +16383,6 @@ Duas vezes,Duas vezes
 "Moro no Planalto Pico, próximo a Embrapa","Moro no Planalto Pico, próximo a Embrapa"
 "Rua Santo Amaro , N 55 altos","Rua Santo Amaro , N 55 altos"
 Bairro Planalto Pici,Bairro Planalto Pici
-Mister Hull,Mister Hull
 Hoje eu devo procurar o posto?,Hoje eu devo procurar o posto?
 Hoje devo procurar o Posto?,Hoje devo procurar o Posto?
 Hoje estou mais disposta.,Hoje estou mais disposta.
@@ -16513,7 +16520,6 @@ Ela disse que é só a dificuldade de respirar com a sensação que vai passar m
 Completa no final do ano,Completa no final do ano
 E o mal estar,E o [mal estar](SINTOMA)
 O que eu posso fazer então?,O que eu posso fazer então?
-Curió,Curió
 Acho que não funciona hj,Acho que não funciona hj
 O que eu posso fazer em casa?,O que eu posso fazer em casa?
 Ela já tomou dipirona,Ela já tomou dipirona
@@ -16524,6 +16530,7 @@ Alguma medicação?,Alguma medicação?
 "Mais alguma coisa , alguma recomendação?","Mais alguma coisa , alguma recomendação?"
 "Tá bom pode deixar, muito obrigado","Tá bom pode deixar, muito obrigado"
 Só posto mesmo,Só posto mesmo
+Oi Ana carla,Oi Ana carla
 "Uma sensação de cansaço,sinto as pernas fracas","Uma sensação de [cansaço](SINTOMA),sinto as pernas fracas"
 Muito frio,Muito frio
 Mais não tenho febre,Mais não tenho [febre](SINTOMA)
@@ -17093,7 +17100,6 @@ E essa angústia,E essa angústia
 Mais não é começou de avc não né,Mais não é começou de [avc](SINTOMA) não né
 Desculpa tá,Desculpa tá
 E pq eu tô muito preocupado,E pq eu tô muito preocupado
-Oi Clara,Oi Clara
 Sem poblemas,Sem poblemas
 Eu quero uma ajuda,Eu quero uma ajuda
 Tô sentindo uma fermigamento na testa,Tô sentindo uma fermigamento na testa
@@ -17340,6 +17346,7 @@ Mas ele se recusou a atender,Mas ele se recusou a atender
 Pq disse que n tinha enfermeira,Pq disse que n tinha enfermeira
 "O posto fecha às 19:00, tem médico, mas ele se recusou a me atender mesmo encaminhada por vcs aqui","O posto fecha às 19:00, tem médico, mas ele se recusou a me atender mesmo encaminhada por vcs aqui"
 E com falta de ar,E com [falta de ar](SINTOMA)
+Uaps Airton Monte,Uaps Airton Monte
 "Me orientar onde denuncio isso, se possível.","Me orientar onde denuncio isso, se possível."
 "Pq lá já vi que n vou ser atendida, vou ter que ir pra uma Upa","Pq lá já vi que n vou ser atendida, vou ter que ir pra uma Upa"
 "O médico se recusou literalmente! A moça da recepção foi falar pra ele me atender e ele disse que n ia pq n tinha enfermeira, mesmo eu explicando a situação toda.","O médico se recusou literalmente! A moça da recepção foi falar pra ele me atender e ele disse que n ia pq n tinha enfermeira, mesmo eu explicando a situação toda."
@@ -17411,6 +17418,7 @@ Está com 4 dias,Está com 4 dias
 As vezes quando desço a escada,As vezes quando desço a escada
 Mais sou asmática,Mais sou asmática
 Aerosol,Aerosol
+Alivia,Alivia
 Pq  como sofro de asma  e só estou com esse sintoma,Pq  como sofro de [asma](SINTOMA)  e só estou com esse sintoma
 Achei melhor não ir,Achei melhor não ir
 Bom dia Miriã. A minha mãe e meu padrasto estão se sentindo mal e não sei se pode ser o coronavírus.,Bom dia Miriã. A minha mãe e meu padrasto estão se sentindo mal e não sei se pode ser o coronavírus.
@@ -17841,12 +17849,14 @@ Desde sábado e não aferi a febre.,Desde sábado e não aferi a [febre](SINTOMA
 Mas a febre não é constante,Mas a [febre](SINTOMA) não é constante
 "Muito obrigado. Quando sentir febre, é aconselhável tomar alguma medicação.","Muito obrigado. Quando sentir [febre](SINTOMA), é aconselhável tomar alguma medicação."
 "Caso necessite,  qual unidade de saúde mais indicada?","Caso necessite,  qual unidade de saúde mais indicada?"
+Rua LO 2 Bom Jardim,Rua LO 2 Bom Jardim
 Meus sintomas estão  leve mas gostaria de saber se tem alguma precaução,Meus sintomas estão  leve mas gostaria de saber se tem alguma precaução
 Pois faz pouco tempo que tomo medicamentos para pressão arterial,Pois faz pouco tempo que tomo medicamentos para pressão arterial
 Dor de garganta  dores no corpo  e dor de cabeça  a febre e fraca,[Dor de garganta](SINTOMA)  dores no corpo  e [dor de cabeça](SINTOMA)  a [febre](SINTOMA) e fraca
 Ao isso mesmo,Ao isso mesmo
 Boa noite Naiara estou com tosse a 3 Dias e estou tomando loratadina,Boa noite Naiara estou com [tosse](SINTOMA) a 3 Dias e estou tomando loratadina
 Estou no momento com corpo mole,Estou no momento com corpo mole
+Tenho Tamiram,Tenho Tamiram
 Deu 36.8,Deu 36.8
 Tomei aspirina,Tomei aspirina
 Consigo sentir,Consigo sentir
@@ -18077,7 +18087,6 @@ Muito calafrio o corpo muito quente,Muito calafrio o corpo muito quente
 Ok já estou tomando essa medicação já estou acabando a segunda cartela,Ok já estou tomando essa medicação já estou acabando a segunda cartela
 Febre mal está falta de apetite falta de ar,[Febre](SINTOMA) mal está falta de apetite [falta de ar](SINTOMA)
 Mal- estar,Mal- estar
-Boa noitefabiana,Boa noitefabiana
 Estou sem paladar e olfato,Estou sem paladar e olfato
 "Dor no corpo, febre  .","Dor no corpo, [febre](SINTOMA)  ."
 Está com 7 dias,Está com 7 dias
@@ -18098,6 +18107,7 @@ Agradeço suas orientações e me coloco inteiramente disponível para outras av
 Tenho rezado por todos vocês da linha de frente do combate à essa pandemia!,Tenho rezado por todos vocês da linha de frente do combate à essa pandemia!
 Deus os abençoe e os livre de todo mal!,Deus os abençoe e os livre de todo mal!
 Idem.,Idem.
+Tchau!,Tchau!
 Saiu a febre e a dor de cabeça.,Saiu a [febre](SINTOMA) e a [dor de cabeça](SINTOMA).
 Ontem a noite eu vomitei.,Ontem a noite eu vomitei.
 Hoje estou me sentindo meio fraca. Estou com uma coceira na garganta tipo pigarro.,Hoje estou me sentindo meio fraca. Estou com uma [coceira na garganta](SINTOMA) tipo pigarro.
@@ -18394,7 +18404,6 @@ Eu falei isso na UPA,Eu falei isso na UPA
 E mesmo assim o enfermeiro nos mandou embora,E mesmo assim o enfermeiro nos mandou embora
 Eu vou ligar,Eu vou ligar
 Para a ambulância então,Para a ambulância então
-Dr.,Dr.
 Depois de quanto tempo a pessoa corre riscos de vida,Depois de quanto tempo a pessoa corre riscos de vida
 Pq ele teve uma leve melhora com a azitromicina,Pq ele teve uma leve melhora com a azitromicina
 Eu concordo,Eu concordo
@@ -18687,7 +18696,6 @@ E vitamina ',E vitamina '
 Por ser diabético e hipertenso tem uma outra medida a ser tomada,Por ser [diabético](SINTOMA) e [hipertenso](SINTOMA) tem uma outra medida a ser tomada
 Qual remédio tomo caso a febre persista,Qual remédio tomo caso a [febre](SINTOMA) persista
 "HJ ESTOU TOSSINDO, TOSSE COM CATARRO E FEBRIL. COMECEI OS SINTOMAS ONTEM.NAO FUI AO MEDICO.N FIZ TESTE","HJ ESTOU [TOSSINDO](SINTOMA), [TOSSE](SINTOMA) COM [CATARRO](SINTOMA) E FEBRIL. COMECEI OS SINTOMAS ONTEM.NAO FUI AO MEDICO.N FIZ TESTE"
-MAXIMO DE 37.2,MAXIMO DE 37.2
 TA CERTO,TA CERTO
 ME DIGA UMA COISA,ME DIGA UMA COISA
 ESSA TOSSE COM CATARRO,ESSA [TOSSE](SINTOMA) COM [CATARRO](SINTOMA)
@@ -18718,6 +18726,7 @@ O QUE E ESSA PROSTACAO,O QUE E ESSA PROSTACAO
 NAO SINTO ISSO NAO,NAO SINTO ISSO NAO
 COMO LHE DISSE ACHEI Q A COVID N APRESENTAVA CATARRO,COMO LHE DISSE ACHEI Q A COVID N APRESENTAVA [CATARRO](SINTOMA)
 ESTOU COM BASTANTE SECRECAO,ESTOU COM BASTANTE SECRECAO
+N SINTO FALTA DE APETITE,N SINTO FALTA DE APETITE
 CERTO,CERTO
 "GRAVIDADE MAIOR E A FEBRE, FALTA DE AR E PROSTACAO NAO E ISSO","GRAVIDADE MAIOR E A [FEBRE](SINTOMA), [FALTA DE AR](SINTOMA) E PROSTACAO NAO E ISSO"
 GRACAS A DEUS N TENHO FEBRE,GRACAS A DEUS N TENHO [FEBRE](SINTOMA)
@@ -18908,7 +18917,6 @@ Mas nesse final de semana até deu para fazer sabe. N sentia muito cansaso,Mas n
 Igual quinta feira,Igual quinta feira
 Só a dipirona para febre. E arrisquei a tomar loratadina.,Só a dipirona para [febre](SINTOMA). E arrisquei a tomar loratadina.
 Mas foi só uma vez.,Mas foi só uma vez.
-Xarope,Xarope
 Só com a respiração cansada,Só com a respiração cansada
 Mas é pouca,Mas é pouca
 Tem alguma coisa para tomar.,Tem alguma coisa para tomar.
@@ -19007,6 +19015,7 @@ Ou em posto de saúde,Ou em posto de saúde
 Quais os horários de atendimento do messejana,Quais os horários de atendimento do messejana
 Casa Verde né,Casa Verde né
 Tem médico pra atender lá,Tem médico pra atender lá
+Rua Duarte da costa n 636,Rua Duarte da costa n 636
 Tá certo obrigada pela informações,Tá certo obrigada pela informações
 Creio em nome de Jesus irei ficar boa logo,Creio em nome de Jesus irei ficar boa logo
 "É porque faz 5 dias que eu to sentindo um cansaço, falta de ar como se meu peito estivesse com secreção e um pouco de dor de cabeça que é constante, mas não é forte, e ontem começou uma tosse q não é forte e nem constante","É porque faz 5 dias que eu to sentindo um [cansaço](SINTOMA), [falta de ar](SINTOMA) como se meu peito estivesse com secreção e um pouco de [dor de cabeça](SINTOMA) que é constante, mas não é forte, e ontem começou uma [tosse](SINTOMA) q não é forte e nem constante"
@@ -19212,7 +19221,6 @@ Dor Nas Costas,Dor Nas Costas
 Na Farmácia,Na Farmácia
 Só Isso,Só Isso
 Só Dor de cabeça,Só [Dor de cabeça](SINTOMA)
-Tomei Dipirona,Tomei Dipirona
 Posso tomar alguma coisa Pra Dor Nas Costas,Posso tomar alguma coisa Pra [Dor](SINTOMA) Nas Costas
 Tá Bom,Tá Bom
 Não Obrigado,Não Obrigado
@@ -19309,6 +19317,7 @@ Seki,Seki
 Dipirona em gotas,Dipirona em gotas
 Liquidos,Liquidos
 Água sucos,Água sucos
+Água de coco,Água de coco
 Fui pra uma consulta,Fui pra uma consulta
 Paga,Paga
 Fica em casa,Fica em casa
@@ -19377,7 +19386,6 @@ tosse com secreção as vezes,[tosse](SINTOMA) com secreção as vezes
 Oi gabriela,Oi gabriela
 Estou com dores de cabeca a regiao do nariz ta ardendo e  dores no corpo,Estou com dores de cabeca a regiao do nariz ta ardendo e  [dores](SINTOMA) no corpo
 Sim tenho toc e tomo sertralina mirtazapina e aldol,Sim tenho toc e tomo sertralina mirtazapina e aldol
-Camila,Camila
 Muito obrigada gabriela,Muito obrigada gabriela
 Ta deixa so eu te pergunta uma coisa o fato de eu toma esses remedios todo fico com a imunidade baixa?,Ta deixa so eu te pergunta uma coisa o fato de eu toma esses remedios todo fico com a imunidade baixa?
 Oi pode me chama de camila,Oi pode me chama de camila
@@ -19452,7 +19460,6 @@ Pelo que descrevi vc qcha q pode ser o Covid,Pelo que descrevi vc qcha q pode se
 Continuo dando paracetamol?,Continuo dando paracetamol?
 Ahhh ela também  se queixa q o nariz ta entupido,Ahhh ela também  se queixa q o [nariz](SINTOMA) ta entupido
 "Muita dor de cabeca,febre e dor no corpo","Muita dor de cabeca,[febre](SINTOMA) e [dor](SINTOMA) no corpo"
-Ola  aroline,Ola  aroline
 Cariline*,Cariline*
 Tive falta de ar,Tive [falta de ar](SINTOMA)
 Agora a pouco,Agora a pouco
@@ -19463,7 +19470,6 @@ To na duvida se devo ir ao posto de saude,To na duvida se devo ir ao posto de sa
 Nao medir ...mas baixa,Nao medir ...mas baixa
 Porem por uns 6 dias,Porem por uns 6 dias
 Sim ...mas sempre me exercito encasa nunca fiquei assim,Sim ...mas sempre me exercito encasa nunca fiquei assim
-Situaçao ruim,Situaçao ruim
 To enfrente ao posto de saude agora ...mas nao sei se devo entrar,To enfrente ao posto de saude agora ...mas nao sei se devo entrar
 Tem muita gente,Tem muita gente
 Se voltar a sentir sem fazer o exercicio oqui devo fazer???,Se voltar a sentir sem fazer o exercicio oqui devo fazer???
@@ -19611,6 +19617,7 @@ Faço,Faço
 Posso tomar 2 dose d Dipirona d 500 ml,Posso tomar 2 dose d Dipirona d 500 ml
 N sei n medi,N sei n medi
 Já tá passando tomei naldecom é dipirona,Já tá passando tomei naldecom é dipirona
+Tomei banho,Tomei banho
 Falta d ar ela da com a tose ou pode da sem tose,Falta d ar ela da com a tose ou pode da sem tose
 Minha tose acho q foi embora,Minha tose acho q foi embora
 N tuso mais,N tuso mais
@@ -19652,7 +19659,6 @@ Não diária,Não diária
 Amanheci com dor de cabeça,Amanheci com [dor de cabeça](SINTOMA)
 Só pode tomar isso,Só pode tomar isso
 Trimedal,Trimedal
-Compriido,Compriido
 Não tem perigo essas coisas que estou sentindo,Não tem perigo essas coisas que estou sentindo
 Eu sou muito.nervosa e tenho meus netinhos que tem problemas de asma por isso que estou preocupada tenho medo.de morrer,Eu sou muito.nervosa e tenho meus netinhos que tem problemas de [asma](SINTOMA) por isso que estou preocupada tenho medo.de morrer
 O Dipirona de um 1g dar p febre também,O Dipirona de um 1g dar p [febre](SINTOMA) também
@@ -19668,6 +19674,7 @@ Eu tenho uma bebê de 1 ano e 3 mês,Eu tenho uma bebê de 1 ano e 3 mês
 E ela mama,E ela mama
 O que que eu faço?,O que que eu faço?
 "Tô sentindo muita dor de cabeça ,meus olhos ardem muito","Tô sentindo muita [dor de cabeça](SINTOMA) ,meus olhos ardem muito"
+Ss,Ss
 Comprei dipirona,Comprei dipirona
 Passa a febre,Passa a [febre](SINTOMA)
 Mais volta,Mais volta
@@ -19770,7 +19777,6 @@ Percebi pela manhã,Percebi pela manhã
 "Quarta feira tive febre e ontem febre de 38 Hoje eu não consegui fazer nada com a respiração mais intensa.  Agora ,não está com uma hora eu senti meu ar faltar Inspirei e não veio ar. Uma dor no meu peito direito   Dra. Eu estava puxando o ar e ele não vinha,  Me desesperei por isso tô aqui nesse canal","Quarta feira tive [febre](SINTOMA) e ontem [febre](SINTOMA) de 38 Hoje eu não consegui fazer nada com a respiração mais intensa.  Agora ,não está com uma hora eu senti meu ar faltar Inspirei e não veio ar. Uma dor no meu peito direito   Dra. Eu estava puxando o ar e ele não vinha,  Me desesperei por isso tô aqui nesse canal"
 "Sim, eu cheguei a parar e deixar de fazer o que estava fazendo","Sim, eu cheguei a parar e deixar de fazer o que estava fazendo"
 "Tenho que deitar com dois travesseiros altos, pra não sentir falta de ar","Tenho que deitar com dois travesseiros altos, pra não sentir [falta de ar](SINTOMA)"
-Oi Dra,Oi Dra
 Tá bom Dra Juliana  Obga  Se ela ficar mais intensa eu irei na UPa,Tá bom Dra Juliana  Obga  Se ela ficar mais intensa eu irei na UPa
 "Tudo bem,moro do lado de um posto de saude que na verdade é Uaps","Tudo bem,moro do lado de um posto de saude que na verdade é Uaps"
 "Ola, Boa noite","Ola, Boa noite"
@@ -19994,7 +20000,6 @@ já fico pensando que algo no pulmão,já fico pensando que algo no pulmão
 e hoje com dor de cabeça e garganta,e hoje com [dor de cabeça](SINTOMA) e [garganta](SINTOMA)
 "acho que não, obrigado.","acho que não, obrigado."
 "estou no 3o dia sentindo incômodo na garganta, dor de cabeça e no corpo","estou no 3o dia sentindo incômodo na [garganta](SINTOMA), [dor de cabeça](SINTOMA) e no corpo"
-sinto melhorq,sinto melhorq
 devo continuar?,devo continuar?
 "sim, glifage, vitamina d e 1 pro colesterol","sim, glifage, vitamina d e 1 pro colesterol"
 mas já está no 3o dia e não cede,mas já está no 3o dia e não cede
@@ -20063,6 +20068,7 @@ O mínimo era 80,O mínimo era 80
 "gostaria de saber onde posso fazer o exame da covid   teve febre, dor de cabeça, e nas costas, vômito mais esses sintomas já passou, agora do tenho tosse bem gordinhas e alguns espirros","gostaria de saber onde posso fazer o exame da covid   teve [febre](SINTOMA), [dor de cabeça](SINTOMA), e nas costas, [vômito](SINTOMA) mais esses sintomas já passou, agora do tenho [tosse](SINTOMA) bem gordinhas e alguns [espirros](SINTOMA)"
 onde posso fazer o exame da covid?,onde posso fazer o exame da covid?
 "segunda feira senti febre e abaixava e voltava, senti febre até na terça feira tomei ibrufeno e antes disso tomei paracetamol, e passou as dores de cabeça e a febre, quarta feira comecei com a tosse gorda, com catarro, e hj estou espirrando, hj eu tomei coristina D","segunda feira senti [febre](SINTOMA) e abaixava e voltava, senti [febre](SINTOMA) até na terça feira tomei ibrufeno e antes disso tomei paracetamol, e passou as [dores de cabeça](SINTOMA) e a [febre](SINTOMA), quarta feira comecei com a [tosse](SINTOMA) gorda, com [catarro](SINTOMA), e hj estou espirrando, hj eu tomei coristina D"
+posso tomar cimegripe?,posso tomar cimegripe?
 "tenho paracetamol, Dipirona a última vez que tomei dismaei desde então evito tomar, aqui em casa tenho paracetamol e cimegripe","tenho paracetamol, Dipirona a última vez que tomei dismaei desde então evito tomar, aqui em casa tenho paracetamol e cimegripe"
 última pergunta por quantos dias devo tomar paracetamol?,última pergunta por quantos dias devo tomar paracetamol?
 "mais não sinto mais nada, agora só estou com a tosse e com espirro","mais não sinto mais nada, agora só estou com a [tosse](SINTOMA) e com espirro"
@@ -20096,7 +20102,6 @@ Só persiste a falta de paladar e olfato e a leve queimação no nariz,Só persi
 "Tenho diagnóstico de arritmia e sopro inocente, mas recebi alta na adolescencia","Tenho diagnóstico de [arritmia](SINTOMA) e sopro inocente, mas recebi alta na adolescencia"
 Nunca tomei medicamento,Nunca tomei medicamento
 Rua Capitão Gustavo 3686,Rua Capitão Gustavo 3686
-São João do tauape,São João do tauape
 "Tudo bem, Mayra","Tudo bem, Mayra"
 Eu falei com as pessoas do número da secretaria da saúde e pediram pra  ficar em casa,Eu falei com as pessoas do número da secretaria da saúde e pediram pra  ficar em casa
 Tô confuso,Tô confuso
@@ -20146,6 +20151,7 @@ Amigo dele,Amigo dele
 Já A caminho do hospital,Já A caminho do hospital
 "Sim, posso","Sim, posso"
 Hoje são 9 dias,Hoje são 9 dias
+Gastroclinica,Gastroclinica
 Ser atendido,Ser atendido
 Qual UPA seria a mais adequada?,Qual UPA seria a mais adequada?
 Porque o Convênio foi feito a pouco tempo,Porque o Convênio foi feito a pouco tempo
@@ -20243,6 +20249,7 @@ Esse link e pra que,Esse link e pra que
 Estou preocupada pois tenho uma bebe em casa,Estou preocupada pois tenho uma bebe em casa
 Com dor nos olhos,Com [dor nos olhos](SINTOMA)
 Nariz escorrendo hj! Mais já faz uma semana q estou com tosse,[Nariz escorrendo](SINTOMA) hj! Mais já faz uma semana q estou com [tosse](SINTOMA)
+Nn,Nn
 8 meses,8 meses
 Eu 25anos,Eu 25anos
 Começamos hj,Começamos hj
@@ -20450,6 +20457,7 @@ Alergias alimentares e alguns reemedios,Alergias alimentares e alguns reemedios
 Sou aplv,Sou aplv
 "Uso so loratadina, noex para o nariz","Uso so loratadina, noex para o nariz"
 E tomo um ansiolitico,E tomo um ansiolitico
+Paroxetina,Paroxetina
 Comorbidades? O que seria?,Comorbidades? O que seria?
 Vc acha que posso vir apresentar sintomas mais graves?,Vc acha que posso vir apresentar sintomas mais graves?
 Esse é o nosso medo,Esse é o nosso medo
@@ -20523,7 +20531,6 @@ Essa é a minha medicaçao,Essa é a minha medicaçao
 Ainda nao comprei o xarope,Ainda nao comprei o xarope
 Nao nao. Muito obrigada pela assitencia,Nao nao. Muito obrigada pela assitencia
 Nos sentimos mais aliviados,Nos sentimos mais aliviados
-Amen,Amen
 Estou preocupada porque eu sofro com ansiedade devido ha alguns problemas adquiridos de saude,Estou preocupada porque eu sofro com [ansiedade](SINTOMA) devido ha alguns problemas adquiridos de saude
 Elas me causaram sintomas de ansiedade onde preciso fazer uso de ansiolitico,Elas me causaram sintomas de [ansiedade](SINTOMA) onde preciso fazer uso de ansiolitico
 Mas por apresentar a 6 dias alguns sitomas do covid fico sem saber como diferenciar a falta de ar da ansiedade para,Mas por apresentar a 6 dias alguns sitomas do covid fico sem saber como diferenciar a [falta de ar](SINTOMA) da [ansiedade](SINTOMA) para
@@ -20533,7 +20540,6 @@ Sinceramente nao,Sinceramente nao
 "Fiquei assim porque vi meu marido dizendo que estava com muita dor nas costas, ele conseguiu relaxar e dormir eu fiquei com a falta de ar e não dormi","Fiquei assim porque vi meu marido dizendo que estava com muita [dor](SINTOMA) nas costas, ele conseguiu relaxar e dormir eu fiquei com a [falta de ar](SINTOMA) e não dormi"
 Ele sofre com síndrome do panico e eu tenho que fingir que sou forte mesmo sentindo coisas tbm,Ele sofre com síndrome do panico e eu tenho que fingir que sou forte mesmo sentindo coisas tbm
 Estou fazendo ja,Estou fazendo ja
-Si,Si
 Me tire 1 duvida,Me tire 1 duvida
 Dui encaminhada para fazer o teste rapido,Dui encaminhada para fazer o teste rapido
 No 8 dia de sintomas,No 8 dia de sintomas
@@ -20890,7 +20896,6 @@ Ontem me falaram isso,Ontem me falaram isso
 "Porém, eu estava com 37.7","Porém, eu estava com 37.7"
 Me indicaram está febril,Me indicaram está febril
 E com isso eu tomasse a Dipirona,E com isso eu tomasse a Dipirona
-Tomei,Tomei
 Mas  agora,Mas  agora
 Só se tiver acima de 37.8,Só se tiver acima de 37.8
 Obrigada  pela atenção,Obrigada  pela atenção
@@ -21203,7 +21208,6 @@ Hoje faz 10 dias,Hoje faz 10 dias
 Que comecou o primeiro sintoma,Que comecou o primeiro sintoma
 Mais como vou sabe se teve ou não  essa doença?,Mais como vou sabe se teve ou não  essa doença?
 Se meu palada o alfato  nao volta  mesmo assim ja to boa?,Se meu palada o alfato  nao volta  mesmo assim ja to boa?
-Ta bom bom,Ta bom bom
 Mais isso em me não  e gripe tava gripe estranha  parecia rinite mais quando eu tinha era 5 dias 6 mais assim tanto tempo assim,Mais isso em me não  e gripe tava gripe estranha  parecia rinite mais quando eu tinha era 5 dias 6 mais assim tanto tempo assim
 E nao era parecido com uma gripe que teve a muitos anos,E nao era parecido com uma gripe que teve a muitos anos
 Um gosto na boa de metal,Um gosto na boa de metal
@@ -21480,6 +21484,7 @@ As informações,As informações
 Eu ja falei com vocês antes.  15/07/87,Eu ja falei com vocês antes.  15/07/87
 Me mandaram msg uma vez depois pararam,Me mandaram msg uma vez depois pararam
 No momento é so.,No momento é so.
+Franciliene de sousa Torres,Franciliene de sousa Torres
 "Agora a noite a garganta doeu, olhei e ela ta com placas","Agora a noite a [garganta](SINTOMA) doeu, olhei e ela ta com placas"
 Hoje nao,Hoje nao
 "Tive febre na terca feira, quando iniciei um tosse e o nariz congestionado","Tive [febre](SINTOMA) na terca feira, quando iniciei um [tosse](SINTOMA) e o nariz congestionado"
@@ -21509,7 +21514,6 @@ Tô lavando o nariz com soro,Tô lavando o nariz com soro
 As vezes quando desentope um pouco fico com a sensação q está com anestesia o nariz,As vezes quando desentope um pouco fico com a sensação q está com anestesia o nariz
 Comecei a ficar febril ontem sábado,Comecei a ficar febril ontem sábado
 Se continuar com febre amanhã devo ir no hospital,Se continuar com [febre](SINTOMA) amanhã devo ir no hospital
-Garganta ardendo,[Garganta](SINTOMA) ardendo
 Ainda n fui no hospital,Ainda n fui no hospital
 Hoje amanheci sem febre,Hoje amanheci sem [febre](SINTOMA)
 Mas com a garganta ardendo e sem olfato e paladar,Mas com a [garganta](SINTOMA) ardendo e sem olfato e paladar
@@ -22289,6 +22293,7 @@ Bom trabalho!!!,Bom trabalho!!!
 "E também hoje comecei a tossir um pouco mais carregado, mas foi só umas duas vezes pela manhã","E também hoje comecei a tossir um pouco mais carregado, mas foi só umas duas vezes pela manhã"
 "No dia 20,21 e 22 tive contato com uma pessoa q foi confirmado mas não sabia","No dia 20,21 e 22 tive contato com uma pessoa q foi confirmado mas não sabia"
 Dois dias depois comecei a sentir os sintomas,Dois dias depois comecei a sentir os sintomas
+Errei,Errei
 "Na verdade foi dia 17,18 e 19","Na verdade foi dia 17,18 e 19"
 Dia 21 que comecei a sentir os sintomas,Dia 21 que comecei a sentir os sintomas
 E todos as pessoas que estavam na casa pegaram,E todos as pessoas que estavam na casa pegaram
@@ -22545,11 +22550,11 @@ Obg ótimo dia pra voce,Obg ótimo dia pra voce
 Só estou com dor fe cabeça,Só estou com dor fe cabeça
 Enjoada desde ontem,Enjoada desde ontem
 Mais teria algume medicamento q eu posso tamos para essa dor de cabeça,Mais teria algume medicamento q eu posso tamos para essa [dor de cabeça](SINTOMA)
+Tomar,Tomar
 Se mais nao passa,Se mais nao passa
 Ja tomei e continua,Ja tomei e continua
 Só passa na quele momento e volta de novo,Só passa na quele momento e volta de novo
 E se pesisti essa dor de cabeça o q devo fazer,E se pesisti essa [dor de cabeça](SINTOMA) o q devo fazer
-Boa taede,Boa taede
 Onte eu passei aqui q estava com dor de cabeça mais hoje graças a seus não seintir mais,Onte eu passei aqui q estava com [dor de cabeça](SINTOMA) mais hoje graças a seus não seintir mais
 Só q sentir um incômodo na garganta e fui olha no espelho e vir q ta avermelhada,Só q sentir um incômodo na [garganta](SINTOMA) e fui olha no espelho e vir q ta avermelhada
 Mas não dói maus sinto como se ticesse arranhando alguma coisa quando engulo,Mas não dói maus sinto como se ticesse arranhando alguma coisa quando engulo
@@ -22595,6 +22600,7 @@ Qual é seu nome?,Qual é seu nome?
 É a Juliana?,É a Juliana?
 Olá Mariany! Obrigada desde já!,Olá Mariany! Obrigada desde já!
 Obrigada! Vai dar certo! Que Deus te proteja e Nossa Senhora te guarde com seu manto protetor te livrando de todo mal!,Obrigada! Vai dar certo! Que Deus te proteja e Nossa Senhora te guarde com seu manto protetor te livrando de todo mal!
+Sou Sobrinha do Leoncio,Sou Sobrinha do Leoncio
 ele vem apresentando febre por mais ou menos 1 semana,ele vem apresentando [febre](SINTOMA) por mais ou menos 1 semana
 buscou atendimento na rede publica e não conseguiu ser atendido,buscou atendimento na rede publica e não conseguiu ser atendido
 apresenta cansaço importante,apresenta [cansaço](SINTOMA) importante
@@ -22752,6 +22758,7 @@ Não trabalho com atendimento,Não trabalho com atendimento
 e não tenho contado com outras pessoas,e não tenho contado com outras pessoas
 somente no deslocamento de casa para o trabalho,somente no deslocamento de casa para o trabalho
 "Isso, no meu caso.  No caso dela é Febre, Tosse, e dor no corpo","Isso, no meu caso.  No caso dela é [Febre](SINTOMA), [Tosse](SINTOMA), e [dor](SINTOMA) no corpo"
+Anemia Pressão Alta Colesterol,[Anemia](SINTOMA) Pressão Alta Colesterol
 "a febre dela vem medindo 37,5 , 38,7 ja faz uns 5 dias","a [febre](SINTOMA) dela vem medindo 37,5 , 38,7 ja faz uns 5 dias"
 "ela sentiu uma falta de ar durante 2 dias, mas não relatou mais","ela sentiu uma [falta de ar](SINTOMA) durante 2 dias, mas não relatou mais"
 ficou em descanso e a falta de ar não veio mais,ficou em descanso e a [falta de ar](SINTOMA) não veio mais
@@ -22876,7 +22883,6 @@ Tenho não mais é pq estava cansada,Tenho não mais é pq estava cansada
 Só tomei uma vez mesmo a bombinha,Só tomei uma vez mesmo a bombinha
 "É pq aqui no posto perto de casa não tem médico só enfermeira, no posto Roberto Bruno","É pq aqui no posto perto de casa não tem médico só enfermeira, no posto Roberto Bruno"
 Mais quando entro em crise de tosse,Mais quando entro em crise de [tosse](SINTOMA)
-Rua Bartolomeu de Gusmão 1188,Rua Bartolomeu de Gusmão 1188
 Medi agora a temperatura da sempre assim,Medi agora a temperatura da sempre assim
 "Pois é, isso que eu também tenho","Pois é, isso que eu também tenho"
 Aqui é bairro de Fátima,Aqui é bairro de Fátima
@@ -22898,6 +22904,7 @@ Fomos para o hospital São Raimundo,Fomos para o hospital São Raimundo
 Em torno de uma semana após a alta dele eu e comecei a sentir tosse seca,Em torno de uma semana após a alta dele eu e comecei a sentir [tosse seca](SINTOMA)
 "E uma moleza no corpo que de início foi controlável,","E uma moleza no corpo que de início foi controlável,"
 Mas de ontem pra pra hoje eu tô com muita febre,Mas de ontem pra pra hoje eu tô com muita [febre](SINTOMA)
+Tossi mto,Tossi mto
 E minha cabeça tá doendo mto,E minha cabeça tá doendo mto
 Com a febre intensa,Com a [febre](SINTOMA) intensa
 Vai fez 24 horas,Vai fez 24 horas
@@ -23042,6 +23049,7 @@ Sim e a falta de paladar e olfato dor de cabeça veio agora a 4 dias,Sim e a fal
 Devo procurar hospital pra tomar alguma medicação?,Devo procurar hospital pra tomar alguma medicação?
 Posso tomar remédio pra resfriado caso sentir?,Posso tomar remédio pra resfriado caso sentir?
 Vitamina c pode?,Vitamina c pode?
+Oi Pricila,Oi Pricila
 "Meu pai desde ontem tá apresentando febre, tosse e dor de cabeça e no corpo.","Meu pai desde ontem tá apresentando [febre](SINTOMA), [tosse](SINTOMA) e [dor de cabeça](SINTOMA) e no corpo."
 Existe um medicamento indicado?,Existe um medicamento indicado?
 Não sente falta de ar.,Não sente [falta de ar](SINTOMA).
@@ -23133,6 +23141,7 @@ Me receitou esse remédio dizendo que eu poderia esta com a infecção na gargan
 "Voltei para a casa e tomei o remédio a dor na garganta melhorou bastante, mas continuo me sentindo febril sempre com a msm temperatura 37.4","Voltei para a casa e tomei o remédio a dor na [garganta](SINTOMA) melhorou bastante, mas continuo me sentindo febril sempre com a msm temperatura 37.4"
 Tenho um oxímetro aqui em casa q eu estou olhando durante o dia como está o oxigênio já q eu vi q esse aparelho é importante,Tenho um oxímetro aqui em casa q eu estou olhando durante o dia como está o oxigênio já q eu vi q esse aparelho é importante
 Medicamento,Medicamento
+Amoxicilina+ clavulanato,Amoxicilina+ clavulanato
 Só que durante a semana perdi meu olfato e paladar.,Só que durante a semana perdi meu olfato e paladar.
 Um colega meu q é médico me disse pra eu fazer esses três exames de sangue pq era importante.,Um colega meu q é médico me disse pra eu fazer esses três exames de sangue pq era importante.
 "A minha dúvida é, pelos números do oxímetro dá pra saber se meu pulmão está comprometido ou algo do tipo?","A minha dúvida é, pelos números do oxímetro dá pra saber se meu pulmão está comprometido ou algo do tipo?"
@@ -23267,6 +23276,7 @@ Quando eu for a um desses locais como devo buscar atendimento?,Quando eu for a u
 OK. Muito Obrigado,OK. Muito Obrigado
 Obrigada. Boa tarde,Obrigada. Boa tarde
 Quantos dia fica bom,Quantos dia fica bom
+Tossi leve,Tossi leve
 Não  sinto mais febre,Não  sinto mais [febre](SINTOMA)
 Fico indisposta as vezes,Fico indisposta as vezes
 Não  sinto cheiro nem paladar,Não  sinto cheiro nem paladar
@@ -23416,6 +23426,7 @@ Desde segunda feira estou com mal está intenso e moleza no corpo e dor de cabe�
 Neste instante tá 36,Neste instante tá 36
 Moleza no corpo más a temperatura tá 36,Moleza no corpo más a temperatura tá 36
 Não tive tosse seca no inicio da semana.,Não tive [tosse seca](SINTOMA) no inicio da semana.
+Ipertenso,Ipertenso
 Hipertenso,[Hipertenso](SINTOMA)
 Minha esposa tbm está com sintoma e onte a noite esteve com 38,Minha esposa tbm está com sintoma e onte a noite esteve com 38
 E sentiu falta de ar,E sentiu [falta de ar](SINTOMA)
@@ -23465,6 +23476,7 @@ Aí quando foi no outro dia eu procurei a OAB aí a enfermeira disse e quando eu
 Obrigadaa,Obrigadaa
 "Estou melhor, porém com dor em muscular, na pele","Estou melhor, porém com dor em muscular, na pele"
 E moleza,E moleza
+Siiim,Siiim
 Somente febre,Somente [febre](SINTOMA)
 "Obrigada, vocês têm um ótimo atendimento","Obrigada, vocês têm um ótimo atendimento"
 "Boa Noite, Érika! Há dois dias estou com sintomas de gripe, com dor na garganta e hoje, com dor de cabeça. Tenho alergia farmacológica como alguns antibióticos, antinflamatório, Dipirona, corantes, aromatizantes...!","Boa Noite, Érika! Há dois dias estou com sintomas de gripe, com dor na [garganta](SINTOMA) e hoje, com [dor de cabeça](SINTOMA). Tenho [alergia](SINTOMA) farmacológica como alguns antibióticos, antinflamatório, Dipirona, corantes, aromatizantes...!"
@@ -23946,6 +23958,7 @@ Mas não seria bom fazer o teste pra saber se estou com covid-19 ou descartar?,M
 "Obrigada pela sua ajuda, que Deus abençoe vocês nessa luta","Obrigada pela sua ajuda, que Deus abençoe vocês nessa luta"
 "Olá, bom dia Estou melhorando a cada dia Ainda sinto dores nas juntas(joelhos, cotovelos, mãos), e o olfato ainda tá pouco","Olá, bom dia Estou melhorando a cada dia Ainda sinto dores nas juntas(joelhos, cotovelos, mãos), e o olfato ainda tá pouco"
 "Sim, desde que doeci não saí de casa","Sim, desde que doeci não saí de casa"
+Adoeci,Adoeci
 "Ok, obrigada por me ajudar","Ok, obrigada por me ajudar"
 "Estou há 3 dias sentindo muita dor no corpo, dor de cabeça,  congestão nasal, moleza no corpo","Estou há 3 dias sentindo muita dor no corpo, [dor de cabeça](SINTOMA),  [congestão nasal](SINTOMA), moleza no corpo"
 No primeiro dia meus olhos incharam mas passou,No primeiro dia meus olhos incharam mas passou
@@ -23993,6 +24006,7 @@ Eles fazem o teste?,Eles fazem o teste?
 Amanhã não pq é sábado estão fechados,Amanhã não pq é sábado estão fechados
 Só na segunda.,Só na segunda.
 Edilmar botões,Edilmar botões
+Edilmar noroes,Edilmar noroes
 Fica n bairro parque dois irmão,Fica n bairro parque dois irmão
 Já estou em isolamento só sai mesmo pra tomar a vacina.,Já estou em isolamento só sai mesmo pra tomar a vacina.
 Pode ser sim obrigada.,Pode ser sim obrigada.
@@ -24002,7 +24016,6 @@ meu Deus.,meu Deus.
 Então no caso de contaminação esses sintomas duram um período de 7 a 14 dias?,Então no caso de contaminação esses sintomas duram um período de 7 a 14 dias?
 Vou procurar o posto de saúde.,Vou procurar o posto de saúde.
 "Tá bom, vou procurar sim.","Tá bom, vou procurar sim."
-Oi Júlia,Oi Júlia
 "Estou a 10 dias gripada, mas desde sábado vem piorado com dores n corpo e nos joelhos, já até falei com vcs mas pediram p mim não ir ao hospital apenas ficar em casa","Estou a 10 dias gripada, mas desde sábado vem piorado com dores n corpo e nos joelhos, já até falei com vcs mas pediram p mim não ir ao hospital apenas ficar em casa"
 Mas essa dor tá insuportável,Mas essa [dor](SINTOMA) tá insuportável
 Tive outra noite de febre,Tive outra noite de [febre](SINTOMA)
@@ -24058,7 +24071,6 @@ Tenho contado com pessoas,Tenho contado com pessoas
 Mesmo de máscara,Mesmo de máscara
 Usando álcool e limpado as coisas,Usando álcool e limpado as coisas
 eu começei a espirrar no outro dia minha garganta ta doendo e dor na cabeça ai começei a tomar amoxilina em 8/8 horas hoje melhorei da garganta,eu começei a [espirrar](SINTOMA) no outro dia minha [garganta](SINTOMA) ta doendo e dor na cabeça ai começei a tomar amoxilina em 8/8 horas hoje melhorei da [garganta](SINTOMA)
-quinta a noite,quinta a noite
 nao cheguei a ir pro medico,nao cheguei a ir pro medico
 hoje eu to com mal estar e to meio puxando o ar,hoje eu to com [mal estar](SINTOMA) e to meio puxando o ar
 provoquei e diarreia,provoquei e diarreia
@@ -24280,6 +24292,7 @@ Estou com dúvidas se estou com corona,Estou com dúvidas se estou com corona
 Se devo procurar o hospital,Se devo procurar o hospital
 Tive febre leve. Estou com mal estar. Pouco olfato,Tive [febre](SINTOMA) leve. Estou com [mal estar](SINTOMA). Pouco olfato
 Sim. Dor Flex,Sim. Dor Flex
+Cimegripe 8h,Cimegripe 8h
 Tbm estava dor cabeça,Tbm estava dor cabeça
 Estou com moleza corpo,Estou com moleza corpo
 Meu filho está febril. Olhos avermelhados. Nariz entupido,Meu filho está febril. Olhos avermelhados. Nariz entupido
@@ -24775,7 +24788,6 @@ Eu creio,Eu creio
 Estou muito ansioda,Estou muito ansioda
 Estou com sintomas leves de gripe,Estou com sintomas leves de gripe
 Já falei na centrak,Já falei na centrak
-Central,Central
 Mas isso está me enlouquecendo,Mas isso está me enlouquecendo
 Mas eu já falei na central,Mas eu já falei na central
 Disseram pra não ir,Disseram pra não ir
@@ -24824,7 +24836,6 @@ Sinto um leve desconforto nas costas,Sinto um leve desconforto nas costas
 Em casa direto,Em casa direto
 Eu devo ir num posto de saúde?,Eu devo ir num posto de saúde?
 Ou em hospital?,Ou em hospital?
-Oi Ermelinda,Oi Ermelinda
 Está com alguns dias que iniciei um quadro gripal,Está com alguns dias que iniciei um quadro gripal
 Nariz congestionado Dor de cabeça Febre e moleza no corpo,Nariz congestionado [Dor de cabeça](SINTOMA) Febre e moleza no corpo
 Muito parecido com uma sinusite,Muito parecido com uma [sinusite](SINTOMA)
@@ -24939,6 +24950,7 @@ Mais a empresa nao compreende,Mais a empresa nao compreende
 Se ele nao for os 14 dias vai ser descontado,Se ele nao for os 14 dias vai ser descontado
 O do meu bairro nao tem atendimento,O do meu bairro nao tem atendimento
 Eles so atende se tiver febre alta,Eles so atende se tiver [febre](SINTOMA) alta
+Presidente kennedy,Presidente kennedy
 Hj falei ate com a agente de saude disse q quando tem medico  o medico so atende febre alta e falta de ar,Hj falei ate com a agente de saude disse q quando tem medico  o medico so atende [febre](SINTOMA) alta e [falta de ar](SINTOMA)
 Os sintomas dele e leve mais fico preocupada de levar ele pra upas,Os sintomas dele e leve mais fico preocupada de levar ele pra upas
 Isso ele teve febre so no domingo,Isso ele teve [febre](SINTOMA) so no domingo
@@ -24981,6 +24993,7 @@ Eu axo q seja isso,Eu axo q seja isso
 Tava preocupado,Tava preocupado
 Tomo alguma coisa pra essas coisas,Tomo alguma coisa pra essas coisas
 E tipo uma exaqueca,E tipo uma exaqueca
+Cabeça dolorida,Cabeça dolorida
 Tem algum remedio pra tipo aperto no peito,Tem algum remedio pra tipo aperto no peito
 Minha esposa me deu um dramim,Minha esposa me deu um dramim
 Dormi bastante,Dormi bastante
@@ -25128,6 +25141,7 @@ Desde o dia 30 estou com moleza no corpo e sinto o corpo febril tive só um dia 
 Tive dor na garganta mais passou e estou sem senti cheiro mas não tô com nariz entupido e sem espirros,Tive dor na garganta mais passou e estou sem senti cheiro mas não tô com [nariz](SINTOMA) entupido e sem [espirros](SINTOMA)
 Tô sentindo só uma dorzinha nas costas,Tô sentindo só uma dorzinha nas costas
 Só uso anticoncepcional. Desosgestrel,Só uso anticoncepcional. Desosgestrel
+Suspeito,Suspeito
 Com essa pessoa todos os dias,Com essa pessoa todos os dias
 Não fez porque não tem como fazer,Não fez porque não tem como fazer
 Só no posto,Só no posto
@@ -25302,6 +25316,7 @@ entendi tudo bem,entendi tudo bem
 "não, tudo bem obrigada!","não, tudo bem obrigada!"
 "Obrigada, você também","Obrigada, você também"
 Sábado iniciou dores na garganta só que não tenho mais fores,Sábado iniciou dores na [garganta](SINTOMA) só que não tenho mais fores
+Dores,[Dores](SINTOMA)
 Segunda pra cá sem paladar e olfato,Segunda pra cá sem paladar e olfato
 Continuo sem paladar e olfato,Continuo sem paladar e olfato
 "Benegripe e chá de limão, alho e eucalipto","Benegripe e chá de limão, alho e eucalipto"
@@ -25577,6 +25592,7 @@ A dor na garganta é mais pela manhã,A dor na [garganta](SINTOMA) é mais pela 
 Falta de ar as vezes é quando faço esforço da uma piorada,[Falta de ar](SINTOMA) as vezes é quando faço esforço da uma piorada
 Febre não Só a moleza no corpo no começo dos sintomas,[Febre](SINTOMA) não Só a moleza no corpo no começo dos sintomas
 "Falta de ar ainda sinto, mas estou grávida. Aí penso que seja da gravidez tbm Não sei","[Falta de ar](SINTOMA) ainda sinto, mas estou grávida. Aí penso que seja da gravidez tbm Não sei"
+Tomaraaaa,Tomaraaaa
 Estou seguindo  A maior dificuldade aqui é o isolamento da casa. Pois eu que faço o almoço,Estou seguindo  A maior dificuldade aqui é o isolamento da casa. Pois eu que faço o almoço
 Tenho dois filhos,Tenho dois filhos
 Uma de 04 anos q depende de mim,Uma de 04 anos q depende de mim
@@ -25617,6 +25633,7 @@ Perdi paladar e olfato e estou com nariz congestionado,Perdi paladar e olfato e 
 Auxiliar de enfermagem,Auxiliar de enfermagem
 Hoje estou com urticária,Hoje estou com [urticária](SINTOMA)
 Tipo fisgadas,Tipo fisgadas
+Tronco,Tronco
 Coça e passa,Coça e passa
 "Não fica vermelho, pois evito coçar muito","Não fica vermelho, pois evito coçar muito"
 Minhas costas estar um pouco dolorida,Minhas costas estar um pouco dolorida
@@ -25751,7 +25768,6 @@ Ela disse q sente bastante dor no corpo,Ela disse q sente bastante [dor](SINTOMA
 Vou tentar providenciar um táxi,Vou tentar providenciar um táxi
 Tentarei o táxi,Tentarei o táxi
 "Tá reclamando dizendo q n quer, mas eu vou levá-la a upa mesmo","Tá reclamando dizendo q n quer, mas eu vou levá-la a upa mesmo"
-Obrigado Eduardo,Obrigado Eduardo
 Só dor de cabeça,Só [dor de cabeça](SINTOMA)
 Uma perturbação na cabeça,Uma perturbação na cabeça
 Tem uma dias já,Tem uma dias já
@@ -25800,7 +25816,6 @@ Mais já estou com febre,Mais já estou com [febre](SINTOMA)
 Só fica intenso quando vou ao banheiro,Só fica intenso quando vou ao banheiro
 Tomei o dipirona,Tomei o dipirona
 No momento estou conseguindo,No momento estou conseguindo
-Mim avaliar,Mim avaliar
 Com aerossol,Com aerossol
 Tomava bombinha,Tomava bombinha
 Mais tive alguns desconfortos e parei pelo médico,Mais tive alguns desconfortos e parei pelo médico
@@ -25925,7 +25940,6 @@ Ou fazer qualquer esforço até indo ao banheiro,Ou fazer qualquer esforço até
 Logo no início eu sentia palpitação fortes no peito,Logo no início eu sentia palpitação fortes no peito
 Perdi paladar e voltou com 24 hs,Perdi paladar e voltou com 24 hs
 Foram sintomas iniciais,Foram sintomas iniciais
-Brinquite asmática,Brinquite asmática
 "Quando sinto falta de ar,tomo o aerosol e melhoro um pouco","Quando sinto [falta de ar](SINTOMA),tomo o aerosol e melhoro um pouco"
 Melhoro,Melhoro
 Mais tomei e não está passando,Mais tomei e não está passando
@@ -25956,7 +25970,6 @@ Mais se caso eu não aguentar eu vou sim,Mais se caso eu não aguentar eu vou si
 Se eu pegar na testa sinto tontura,Se eu pegar na testa sinto [tontura](SINTOMA)
 Saberia mim responder,Saberia mim responder
 Quando eu pego na minha testa fico tonta,Quando eu pego na minha testa fico tonta
-Caroline,Caroline
 Estou muito tonta,Estou muito tonta
 Mais frias,Mais frias
 E pés gelados,E pés gelados
@@ -25978,6 +25991,7 @@ Sou muito alergica,Sou muito alergica
 Ano passado,Ano passado
 Tive H1N1,Tive H1N1
 Quando eu estou assim,Quando eu estou assim
+Boa pergunta,Boa pergunta
 Tomo Pool vitamínico,Tomo Pool vitamínico
 Para imunidade,Para imunidade
 Estou com suspeita,Estou com suspeita
@@ -26058,6 +26072,7 @@ O cansaço e a dor na cabeça,O [cansaço](SINTOMA) e a dor na cabeça
 Estou somente um pouco indisposta,Estou somente um pouco indisposta
 Paracetamol e ibuprofeno,Paracetamol e ibuprofeno
 Que o médico do USB receitou,Que o médico do USB receitou
+Ik,Ik
 Bom dia. Acordei com nariz entupido e estava com febre 38.5 mas tomei dipirona e já está em 37,Bom dia. Acordei com nariz entupido e estava com [febre](SINTOMA) 38.5 mas tomei dipirona e já está em 37
 Dores pelo corpo,[Dores](SINTOMA) pelo corpo
 De cabeça,De cabeça
@@ -26212,7 +26227,6 @@ E os meus sintomas é covid,E os meus sintomas é covid
 Com vontade de vomitar e sem apetite,Com vontade de [vomitar](SINTOMA) e [sem apetite](SINTOMA)
 "Não,senti fome fui comer não consegui aí fiquei com ânsia de vomito","Não,senti fome fui comer não consegui aí fiquei com ânsia de vomito"
 Eu já tô ótima,Eu já tô ótima
-Gua,Gua
 Só queria saber se funcionava mesmo,Só queria saber se funcionava mesmo
 "Boa tarde, já tem alguns dias que estou tendo muito cansaço, estou sem fôlego, tudo que faço me canso, e tendo que forçar a respiração. Ontem comecei a sentir umas dores nas articulações, nas costas também e meu olho arde","Boa tarde, já tem alguns dias que estou tendo muito [cansaço](SINTOMA), estou sem fôlego, tudo que faço me canso, e tendo que forçar a respiração. Ontem comecei a sentir umas dores nas articulações, nas costas também e meu olho arde"
 "Quando vou tomar banho, ajeitar alguma coisa, até o mínimo esforço me cansa","Quando vou tomar banho, ajeitar alguma coisa, até o mínimo esforço me cansa"
@@ -26667,7 +26681,6 @@ Prá não Deus me livre precisar de internação Deus me livre,Prá não Deus me
 Só tô sentindo isso,Só tô sentindo isso
 Onde é mais perto?,Onde é mais perto?
 Veja prá mim aí,Veja prá mim aí
-Viriato ribeiro 1483,Viriato ribeiro 1483
 Esse vírus muito rápido,Esse vírus muito rápido
 Tá funcionando hoje?,Tá funcionando hoje?
 Será que dá pra ir pé,Será que dá pra ir pé

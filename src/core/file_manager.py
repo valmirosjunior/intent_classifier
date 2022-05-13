@@ -33,7 +33,7 @@ def read_dataframes_of_dir(dir_path):
     return pd.concat(data_frames)
 
 
-def read_multiple_files(filenames: list[str]) -> pd.DataFrame:
+def read_multiple_files(filenames):
     return pd.concat(Parallel(n_jobs=-1)(delayed(read_json_file)(file_path) for file_path in filenames),
                      ignore_index=True)
 
