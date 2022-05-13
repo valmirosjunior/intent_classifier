@@ -5,6 +5,18 @@ from scipy.spatial import distance
 from .data_helper import DataHelper
 
 
+def clustering(k, X):
+    np.random.seed(ClusteringHelper.DEFAULT_RANDOM_SEED)
+
+    model = KMeans(
+        n_clusters=k, mode='cosine', verbose=0
+    )
+
+    labels = model.fit_predict(X)
+
+    return labels, model
+
+
 class ClusteringHelper:
     DEFAULT_RANDOM_SEED = 42
 
@@ -18,13 +30,9 @@ class ClusteringHelper:
         self.clustering_data()
 
     def clustering_data(self):
-        np.random.seed(self.random_seed)
-
-        self.model = KMeans(n_clusters=self.n_clusters, mode='cosine', verbose=0)
-
         embeddings = DataHelper.get_embeddings_as_torch(self.data_helper.df)
 
-        self.labels = self.model.fit_predict(embeddings.float())
+        self.labels, self.model = clustering(self.n_clusters, embeddings)
 
     def get_centroids(self):
         return self.model.centroids.cpu().detach().numpy()

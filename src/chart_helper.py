@@ -2,7 +2,7 @@ import plotly.express as px
 
 
 def plot_charts(df_plot, y_column, title, xaxis_title=None, color='model', yaxis_title=None):
-    chart = px.line(df_plot, x="n_clusters", y=y_column, color=color, title=title)
+    chart = px.line(df_plot, x="k", y=y_column, color=color, title=title)
 
     if xaxis_title and yaxis_title:
         chart.update_layout(xaxis_title=xaxis_title, yaxis_title=yaxis_title)
