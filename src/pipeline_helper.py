@@ -1,5 +1,7 @@
 from pathlib import Path
 
+from src.core import file_manager as fm
+
 from .chart_helper import plot_distance_charts
 from .clustering_helper import ClusteringHelper
 from .data_helper import DataHelper
@@ -75,7 +77,7 @@ class PipelineHelper:
         print('dropping unnecessary columns.....')
         self.annotated_df = self.annotated_df.drop(['embeddings'], axis=1)
 
-        output_dir = Path(f'{DataHelper.DATA_DIR}/output/patient/{self.sub_folder_k}/{self.embedding_name}')
+        output_dir = fm.filename_from_data_dir(f'output/patient/{self.sub_folder_k}/{self.embedding_name}')
 
         output_dir.mkdir(parents=True, exist_ok=True)
 

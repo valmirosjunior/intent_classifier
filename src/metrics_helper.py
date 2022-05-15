@@ -7,21 +7,10 @@ from joblib import Parallel, delayed
 from sklearn.metrics import silhouette_score, davies_bouldin_score
 from tqdm.notebook import tqdm
 
-from src.core import file_manager
+from src.core import file_manager as fm
 from src.embeddings.constants import EMBEDDING_MODELS_TRANSLATION
 from .chart_helper import *
 from .clustering_helper import clustering
-
-
-def read_file(path):
-    return pd.read_json(path, orient='records', dtype={
-        'txt': str,
-        'embeddings': np.array
-    }, lines=True)
-
-
-def read_multiple_files(paths):
-    return pd.concat(Parallel(n_jobs=-1)(delayed(read_file)(i) for i in paths), ignore_index=True)
 
 
 def make_plot_df(arr, model):
@@ -46,7 +35,7 @@ class MetricHelperBase:
     def __init__(self, actor):
         self.actor = actor
 
-        self.metrics_path = file_manager.filename_from_data_dir(f'embeddings/{self.actor}_metrics.csv')
+        self.metrics_path = fm.filename_from_data_dir(f'embeddings/{self.actor}_metrics.csv')
 
 
 class MetricHelperGenerator(MetricHelperBase):
@@ -61,11 +50,11 @@ class MetricHelperGenerator(MetricHelperBase):
         )
 
     def get_embeddings(self, embedding_model):
-        embedding_dir = file_manager.filename_from_data_dir(f'embeddings/{embedding_model}')
+        embedding_dir = fm.filename_from_data_dir(f'embeddings/{embedding_model}')
 
         filenames = glob(f'{embedding_dir}/text_emb_{self.actor}.json/*.json')
 
-        df = read_multiple_files(filenames)
+        df = fm.read_multiple_files(filenames)
         arr = np.array(df['embeddings'].map(lambda x: np.array(x[0])).to_list())
 
         embeddings = torch.from_numpy(arr)
