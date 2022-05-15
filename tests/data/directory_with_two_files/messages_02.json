@@ -1,0 +1,26 @@
+{
+  "txt": {
+    "0": "|2| - Oi bom dia",
+    "1": "|2| - olá, como vai?",
+    "2": "|2| - Estou bem e vc?",
+    "3": "|2| - òtimo, obrigado",
+    "4": "|2| - gostaria de tirar uma dúvida",
+    "5": "|2| - Pois não",
+    "6": "|2| - Estou sentindo febre e não estou sentindo gosto, pode ser covid?",
+    "7": "|2| - Sente mais alguma coisa?",
+    "8": "|2| - Tem vezes que tenho dor de cabeça também",
+    "9": "|2| - Olha recomendo que procure a UPA mais próxima, para realizar exames"
+  },
+  "ori": {
+    "0": "patient_02",
+    "1": "human_02",
+    "2": "patient_02",
+    "3": "human_02",
+    "4": "patient_02",
+    "5": "human_02",
+    "6": "patient_02",
+    "7": "human_02",
+    "8": "patient_02",
+    "9": "human_02"
+  }
+}
