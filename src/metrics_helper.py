@@ -50,11 +50,10 @@ class MetricHelperGenerator(MetricHelperBase):
         )
 
     def get_embeddings(self, embedding_model):
-        embedding_dir = fm.filename_from_data_dir(f'embeddings/{embedding_model}')
+        df = fm.read_json_of_dir(
+             fm.filename_from_data_dir(f'embeddings/{embedding_model}/text_emb_{self.actor}.json')
+        )
 
-        filenames = glob(f'{embedding_dir}/text_emb_{self.actor}.json/*.json')
-
-        df = fm.read_multiple_files(filenames)
         arr = np.array(df['embeddings'].map(lambda x: np.array(x[0])).to_list())
 
         embeddings = torch.from_numpy(arr)

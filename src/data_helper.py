@@ -1,5 +1,3 @@
-from glob import glob
-
 import numpy as np
 import torch
 
@@ -15,7 +13,9 @@ class DataHelper:
         self.initialize_df(remove_empty_embeddings)
 
     def initialize_df(self, remove_empty_embeddings):
-        self.df = fm.read_multiple_files(self.__get_file_data_paths())
+        self.df = fm.read_json_of_dir(
+            fm.filename_from_data_dir(f'embeddings/{self.embedding_name}/text_emb_{self.actor}.json')
+        )
 
         self.original_df = self.df
 
@@ -63,8 +63,3 @@ class DataHelper:
         embeddings_torch = torch.from_numpy(embeddings_np)
 
         return embeddings_torch
-
-    def __get_file_data_paths(self, ):
-        paths = glob(fm.filename_from_data_dir(f'embeddings/{self.embedding_name}/text_emb_{self.actor}.json/*.json'))
-
-        return paths

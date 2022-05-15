@@ -86,7 +86,7 @@ def __describe_dataset(dataset):
 
 def run_pipeline(input_dir):
     print('reading the data...')
-    df = fm.read_dataframes_of_dir(input_dir)
+    df = fm.read_json_of_dir(input_dir)
 
     print('Getting the better conversations...')
     better_conversations = __find_better_conversations(df)
