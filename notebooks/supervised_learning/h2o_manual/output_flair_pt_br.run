@@ -1,0 +1,88 @@
+/home/valmir/dev/python/intent_classifier/venv/lib/python3.9/site-packages/IPython/core/interactiveshell.py:2468: UserWarning: You executed the system command !pip which may not work as expected. Try the IPython magic %pip instead.
+  warnings.warn(
+pip 22.0.4 from /home/valmir/dev/python/intent_classifier/venv/lib/python3.9/site-packages/pip (python 3.9)
+/home/valmir/dev/python/intent_classifier
+There were deleted 17 rows
+Checking whether there is an H2O instance running at http://localhost:54321 ..... not found.
+Attempting to start a local H2O server...
+  Java Version: openjdk version "11.0.15" 2022-04-19; OpenJDK Runtime Environment (build 11.0.15+10-Ubuntu-0ubuntu0.22.04.1); OpenJDK 64-Bit Server VM (build 11.0.15+10-Ubuntu-0ubuntu0.22.04.1, mixed mode, sharing)
+  Starting server from /home/valmir/dev/python/intent_classifier/venv/lib/python3.9/site-packages/h2o/backend/bin/h2o.jar
+  Ice root: /tmp/tmp7b4idz25
+  JVM stdout: /tmp/tmp7b4idz25/h2o_valmir_started_from_python.out
+  JVM stderr: /tmp/tmp7b4idz25/h2o_valmir_started_from_python.err
+  Server is running at http://127.0.0.1:54321
+Connecting to H2O server at http://127.0.0.1:54321 ... successful.
+--------------------------  -----------------------------
+H2O_cluster_uptime:         01 secs
+H2O_cluster_timezone:       America/Fortaleza
+H2O_data_parsing_timezone:  UTC
+H2O_cluster_version:        3.36.1.1
+H2O_cluster_version_age:    23 days
+H2O_cluster_name:           H2O_from_python_valmir_fqqs2q
+H2O_cluster_total_nodes:    1
+H2O_cluster_free_memory:    7.777 Gb
+H2O_cluster_total_cores:    16
+H2O_cluster_allowed_cores:  16
+H2O_cluster_status:         locked, healthy
+H2O_connection_url:         http://127.0.0.1:54321
+H2O_connection_proxy:       {"http": null, "https": null}
+H2O_internal_security:      False
+Python_version:             3.9.12 final
+--------------------------  -----------------------------
+training model...
+Parse progress: |████████████████████████████████████████████████████████████████████████████████████ (done)| 100%
+AutoML progress: |                                                                                   |   0%
+16:42:31.852: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |████                                                                               |   5%
+16:43:12.869: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |█████████████████████████████████████                                              |  44%
+16:47:15.129: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |██████████████████████████████████████████████▉                                    |  56%
+16:49:40.9: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |████████████████████████████████████████████████                                   |  57%
+16:50:20.910: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |██████████████████████████████████████████████████▋                                |  61%
+16:51:04.348: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |████████████████████████████████████████████████████████████▏                      |  72%
+16:54:14.515: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |████████████████████████████████████████████████████████████████████▊              |  83%
+16:57:46.791: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |███████████████████████████████████████████████████████████████████████████▎       |  90%
+17:01:57.880: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |███████████████████████████████████████████████████████████████████████████▌       |  91%
+17:02:42.389: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |████████████████████████████████████████████████████████████████████████████▍      |  92%
+17:03:27.577: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |██████████████████████████████████████████████████████████████████████████████▊    |  95%
+17:07:17.401: _train param, Dropping bad and constant columns: [V_3252, V_2130]
+
+AutoML progress: |██████████████████████████████████████████████████████████████████████████████████▊|  99%
+17:18:02.829: _train param, Dropping unused columns: [V_3252, V_2130]
+
+AutoML progress: |██████████████████████████████████████████████████████████████████████████████████▊|  99%
+17:18:05.730: _train param, Dropping unused columns: [V_3252, V_2130]
+
+AutoML progress: |███████████████████████████████████████████████████████████████████████████████████ (done)| 100%
+testing model...
+Parse progress: |████████████████████████████████████████████████████████████████████████████████████ (done)| 100%
+stackedensemble prediction progress: |███████████████████████████████████████████████████████████████ (done)| 100%
+The accuracy of model was:  0.83
+saving model...
+The model was saved at: /home/valmir/dev/python/intent_classifier/data/output/h2o/models/classified_manual/flair_pt_br, with name: StackedEnsemble_BestOfFamily_1_AutoML_1_20220506_164231
+predicting labels...
+Parse progress: |████████████████████████████████████████████████████████████████████████████████████ (done)| 100%
+stackedensemble prediction progress: |███████████████████████████████████████████████████████████████ (done)| 100%
+saving data...
+Closing connection _sid_9b11 at exit
+H2O session _sid_9b11 closed.

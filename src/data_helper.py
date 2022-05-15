@@ -52,6 +52,7 @@ class DataHelper:
             lambda row: row['distance'] <= distance_distribution_by_label[row['label']].med, axis=1
         )]
 
+    @deprecation.deprecated(details='Use src.core.file_manager.filename_from_project_dir')
     @staticmethod
     def generate_filename_from_data_dir(filename):
         return fm.filename_from_data_dir(f'{filename}')
