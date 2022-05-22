@@ -40,6 +40,8 @@ class PipelineHelper:
 
         self.data_helper.generate_distances_from_centroid(self.clustering_helper.get_centroids_as_numpy())
 
+        self.data_helper.sync_dataframes()
+
     def visualize_distance_distribution(self):
         plot_distance_charts(self.data_helper.df)
 
@@ -82,3 +84,21 @@ class PipelineHelper:
         self.annotated_df.to_csv(f'{output_dir}/annotated_sentences.csv', index=False)
 
         self.annotated_df.head(2)
+
+    def annotate_data_without_outliers(self, sub_folder_k, dict_intents):
+        self.sub_folder_k = sub_folder_k
+
+        self.data_helper.reset_df()
+
+        self.data_helper.remove_outlier_sentences()
+
+        self.annotate_data(dict_intents)
+
+    def annotate_data_without_sentences_higher_than_median(self, sub_folder_k, dict_intents):
+        self.sub_folder_k = sub_folder_k
+
+        self.data_helper.reset_df()
+
+        self.data_helper.remove_higher_than_median_sentences()
+
+        self.annotate_data(dict_intents)

@@ -33,6 +33,9 @@ class DataHelper:
 
         return df
 
+    def sync_dataframes(self):
+        self.original_df = self.df
+
     def reset_df(self):
         self.df = self.original_df
 
@@ -54,9 +57,9 @@ class DataHelper:
     def get_distance_distribution_by_label(self):
         labels = self.get_unique_labels()
 
-        return [
-            get_distribution_data(self.df[self.df['label'] == label]['distance']) for label in labels
-        ]
+        return {
+            label: get_distribution_data(self.df[self.df['label'] == label]['distance']) for label in labels
+        }
 
     def remove_empty_embeddings(self):
         self.df = self.df[self.df.apply(lambda row: not np.all(np.array(row['embeddings'][0]) == 0), axis=1)]
