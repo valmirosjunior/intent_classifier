@@ -45,7 +45,7 @@ pipeline:
   - name: ResponseSelector
     model_confidence: linear_norm
     constrain_similarities: true
-    epochs: 10
+    epochs: 100
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/
@@ -64,7 +64,7 @@ policies:
    - name: MemoizationPolicy
    - name: TEDPolicy
      max_history: 5
-     epochs: 10
+     epochs: 100
      model_confidence: linear_norm
      constrain_similarities: true
    - name: RulePolicy
