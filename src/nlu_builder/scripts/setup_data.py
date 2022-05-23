@@ -20,12 +20,6 @@ def split_data(path_data):
 
     df_train, df_test = train_test_split(df, test_size=0.2, random_state=42)
 
-    train_filename = add_suffix_name(path_data, 'train_')
-    test_filename = add_suffix_name(path_data, 'test_')
-
-    df_train.to_csv(train_filename, index=False)
-    df_test.to_csv(test_filename, index=False)
-
     return df_train, df_test
 
 
@@ -66,7 +60,7 @@ def convert_to_nlu_format(df):
 
             lines.append(f'    - {fixed_example}')
 
-        print(f'The intent: {intent}, has {len(data[intent])} ecamples')
+        print(f'The intent: {intent}, has {len(data[intent])} examples')
 
     return lines
 
