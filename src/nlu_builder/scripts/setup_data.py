@@ -94,15 +94,13 @@ def run_pipeline(actor, subfolder):
         print('\n')
 
 
-# setup_data.run_pipeline( actor='patient', subfolder='k100')
-
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Process some integers.')
-    parser.add_argument('-a', '--actor', help='The actor to generate de nlu.yml data', required=True)
-    parser.add_argument('-s', '--subfolder', help='The subfolder to generate de nlu.yml data', required=True)
-
-    args = parser.parse_args()
-
-    run_pipeline(actor=args.actor, subfolder=args.subfolder)
+# if __name__ == '__main__':
+#     parser = argparse.ArgumentParser(description='Process some integers.')
+#     parser.add_argument('-a', '--actor', help='The actor to generate de nlu.yml data', required=True)
+#     parser.add_argument('-s', '--subfolder', help='The subfolder to generate de nlu.yml data', required=True)
+#
+#     args = parser.parse_args()
+#
+#     run_pipeline(actor=args.actor, subfolder=args.subfolder)
 
 
