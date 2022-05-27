@@ -1,0 +1,7 @@
+embedding,intents,variation,silhouette,davies_bouldin
+flair_pt,all_intents,all,0.03931437364812399,3.236591984385178
+flair_pt,all_intents,not_outliers,0.042278344829271924,3.20297953855412
+flair_pt,all_intents,not_median,0.09446094634459302,2.652542084157481
+flair_pt,without_others,all,0.05320026615911793,3.1550518986461715
+flair_pt,without_others,not_outliers,0.05630184616143189,3.1235637391804087
+flair_pt,without_others,not_median,0.11009429436494013,2.5986020194383306

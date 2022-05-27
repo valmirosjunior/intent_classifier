@@ -5,10 +5,10 @@ from joblib import Parallel, delayed
 from sklearn.metrics import silhouette_score, davies_bouldin_score
 from tqdm.notebook import tqdm
 
-from src.core import file_manager as fm
-from src.embeddings.constants import EMBEDDING_MODELS_TRANSLATION
-from src.core.chart_helper import *
 from src.clustering.clustering_helper import ClusteringHelper
+from src.core import file_manager as fm
+from src.core.chart_helper import *
+from src.embeddings.constants import EMBEDDING_MODELS_TRANSLATION
 
 
 def make_plot_df(arr, model):
@@ -23,10 +23,14 @@ def make_plot_df(arr, model):
     return df
 
 
+def get_clustering_metrics(labels, embeddings):
+    return silhouette_score(embeddings, labels, metric='cosine'), davies_bouldin_score(embeddings, labels)
+
+
 def make_trains_apply_metrics(k, embeddings):
     labels = ClusteringHelper(n_clusters=k, embeddings=embeddings).get_labels_as_numpy()
 
-    return [k, silhouette_score(embeddings, labels, metric='cosine'), davies_bouldin_score(embeddings, labels)]
+    return [k, *get_clustering_metrics(labels=labels, embeddings=embeddings)]
 
 
 class MetricHelperBase:
@@ -49,7 +53,7 @@ class MetricHelperGenerator(MetricHelperBase):
 
     def get_embeddings(self, embedding_model):
         df = fm.read_json_of_dir(
-             fm.filename_from_data_dir(f'embeddings/{embedding_model}/text_emb_{self.actor}.json')
+            fm.filename_from_data_dir(f'embeddings/{embedding_model}/text_emb_{self.actor}.json')
         )
 
         arr = np.array(df['embeddings'].map(lambda x: np.array(x[0])).to_list())
@@ -87,9 +91,10 @@ class MetricHelperPresenter(MetricHelperBase):
         self.df = pd.read_csv(self.metrics_path)
 
     def show_davies_bouldin_score(self):
-        plot_charts(
+        plot_line_chart(
             self.df,
-            y_column='davies_bouldin',
+            x='k',
+            y='davies_bouldin',
             title='',
             color='modelo',
             xaxis_title='K',
@@ -97,9 +102,10 @@ class MetricHelperPresenter(MetricHelperBase):
         )
 
     def show_silhouette_score(self):
-        plot_charts(
+        plot_line_chart(
             self.df,
-            y_column='silhouette',
+            x='k',
+            y='silhouette',
             title='',
             color='modelo',
             xaxis_title='K',

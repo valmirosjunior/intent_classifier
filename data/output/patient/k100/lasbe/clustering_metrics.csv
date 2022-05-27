@@ -1,0 +1,7 @@
+embedding,intents,variation,silhouette,davies_bouldin
+lasbe,all_intents,all,0.068839549973381,3.58249166041932
+lasbe,all_intents,not_outliers,0.0701619206419308,3.5508516596492963
+lasbe,all_intents,not_median,0.12944233768889443,2.7977708479623558
+lasbe,without_others,all,0.08853739522524302,3.411115477930043
+lasbe,without_others,not_outliers,0.08977214868412886,3.38827962784054
+lasbe,without_others,not_median,0.15629066986698034,2.657654239583456

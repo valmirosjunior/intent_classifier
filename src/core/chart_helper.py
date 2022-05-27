@@ -1,8 +1,8 @@
 import plotly.express as px
 
 
-def plot_charts(df_plot, y_column, title, xaxis_title=None, color='model', yaxis_title=None):
-    chart = px.line(df_plot, x="k", y=y_column, color=color, title=title)
+def plot_line_chart(df_plot, x, y, title, color, xaxis_title=None, yaxis_title=None):
+    chart = px.line(df_plot, x=x, y=y, color=color, title=title)
 
     if xaxis_title and yaxis_title:
         chart.update_layout(xaxis_title=xaxis_title, yaxis_title=yaxis_title)

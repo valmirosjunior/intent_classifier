@@ -9,3 +9,8 @@ using the [nlu_builder.ipynb](notebooks/nlu_builder.ipynb).
 ./build_nlu.sh `pwd`/data/nlu_models/patient/k100/bert_pt
 ```
 
+- With the update:
+```shell
+time ./build_nlu.sh `pwd`/data/nlu_models/patient/without_others_intent
+```
+
