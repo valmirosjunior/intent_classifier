@@ -34,10 +34,10 @@ class DataHelper:
         return df
 
     def sync_dataframes(self):
-        self.original_df = self.df
+        self.original_df = self.df.copy(deep=True)
 
     def reset_df(self):
-        self.df = self.original_df
+        self.df = self.original_df.copy(deep=True)
 
     def get_embeddings(self):
         embeddings = np.array(self.df['embeddings'].map(lambda x: np.array(x[0])).to_list())

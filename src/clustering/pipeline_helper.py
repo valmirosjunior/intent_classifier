@@ -9,22 +9,9 @@ from src.core import file_manager as fm
 from src.core.chart_helper import plot_distance_charts
 
 
-def describe_intents(dict_intents, df):
-    index_intents = defaultdict(list)
-
-    for index, intent in dict_intents.items():
-        index_intents[intent].append(index)
-
-    for intent in index_intents:
-        intent_clusters = index_intents[intent]
-        intent_sentences = df[df['label'].isin(index_intents[intent])]
-
-        print(f'{intent}, has {len(intent_clusters)} clusters, and {len(intent_sentences)} sentences')
-
-
 class PipelineHelper:
-
     def __init__(self, embedding_name, actor, k, sub_folder_k=None):
+        self.annotated_df = None
         self.clustering_helper = None
         self.actor = actor
         self.embedding_name = embedding_name
@@ -42,6 +29,21 @@ class PipelineHelper:
 
         self.data_helper.sync_dataframes()
 
+    def describe_intents(self, dict_intents):
+        df = self.data_helper.df
+        index_intents = defaultdict(list)
+
+        print(f'The total of sentences is: {df.txt.count()}')
+
+        for index, intent in dict_intents.items():
+            index_intents[intent].append(index)
+
+        for intent in index_intents:
+            intent_clusters = index_intents[intent]
+            intent_sentences = df[df['label'].isin(index_intents[intent])]
+
+            print(f'{intent}, has {len(intent_clusters)} clusters, and {len(intent_sentences)} sentences')
+
     def visualize_distance_distribution(self):
         plot_distance_charts(self.data_helper.df)
 
@@ -58,30 +60,20 @@ class PipelineHelper:
         fig.show()
 
     def annotate_data(self, dict_intents):
-        self.annotated_df = self.data_helper.df[['txt', 'annotated_txt']]
+        self.annotated_df = self.data_helper.df.loc[:, ['txt', 'annotated_txt']]
 
         print('applying map intents.....')
-        self.annotated_df['intent'] = self.data_helper.df['label'].map(dict_intents)
-
-        count_before = self.annotated_df['txt'].count()
-
-        print(f'Before dropping nan values: {count_before}')
-        print('dropping nan intents.....')
-        # remove nan intents
-        self.annotated_df = self.annotated_df.dropna()
-
-        count_after = self.annotated_df['txt'].count()
-
-        print(f'After dropping nan values: {count_after}')
-        print(f'The total of data dropped was {count_before - count_after} rows')
+        self.annotated_df['intent'] = self.data_helper.df.loc[:, 'label'].map(dict_intents)
 
         output_dir = Path(fm.filename_from_data_dir(f'output/patient/{self.sub_folder_k}/{self.embedding_name}'))
-
         output_dir.mkdir(parents=True, exist_ok=True)
+        output_file = f'{output_dir}/annotated_sentences.csv'
 
-        print('saving data')
+        print(f'saving data at: {output_file}')
+        self.annotated_df.to_csv(output_file, index=False)
 
-        self.annotated_df.to_csv(f'{output_dir}/annotated_sentences.csv', index=False)
+        print('Describing data...')
+        self.describe_intents(dict_intents)
 
         self.annotated_df.head(2)
 
