@@ -19,14 +19,19 @@ class PipelineHelper:
             self.path_annotated_sentences
         ).select('txt')
 
-    def apply_embeddings(self, stages, output_columns, embedding_name):
+    def apply_embeddings(self, stages, output_columns, embedding_name, aliases=[]):
         use_clf_pipeline = Pipeline(stages=stages)
 
         print('training ....')
-        use_pipeline_model = use_clf_pipeline.fit(self.spark.createDataFrame([[""]]).toDF("txt"))
+        use_pipeline_model = use_clf_pipeline.fit(self.spark.createDataFrame([[""]]).toDF("txt"))        
 
         print('applying pipeline ....')
-        df_embeddings = use_pipeline_model.transform(self.annotated_sentences).select(output_columns)
+        df_embeddings = use_pipeline_model.transform(self.annotated_sentences)
+
+        for alias in aliases:
+            output_columns.append(df_embeddings[alias].alias(aliases[alias]),)
+        
+        df_embeddings = df_embeddings.select(output_columns)
 
         output_file = file_manager.filename_from_data_dir(
             f'embeddings/{embedding_name}/text_emb_{self.actor}.json'
@@ -53,11 +58,16 @@ class PipelineHelper:
             'sentence_embeddings').setPoolingStrategy('AVERAGE')
 
         stages = [documentAssembler, sentence_detector, tokenizer, word_embedding, embeddings_sentenses]
+        
+        output_columns = ['txt', 'sentence_embeddings.embeddings']
+
+        aliases = {'token.result': 'tokens', 'embeddings.embeddings': 'word_embeddings'}
 
         self.apply_embeddings(
             stages=stages,
-            output_columns=['txt', 'sentence_embeddings.embeddings'],
-            embedding_name=embedding_name
+            output_columns=output_columns,
+            embedding_name=embedding_name,
+            aliases=aliases
         )
 
     def generate_embedding_lasbe(self):
@@ -72,25 +82,28 @@ class PipelineHelper:
 
         self.apply_sentence_embeddings(embedding_annotator=embedding_annotator, embedding_name='use')
 
+
     def generate_embedding_glove(self):
-        documentAssembler = DocumentAssembler().setInputCol("txt").setOutputCol("document")
-        sentence_detector = SentenceDetector().setInputCols(["document"]).setOutputCol("sentence")
-        tokenizer = Tokenizer().setInputCols(["sentence"]).setOutputCol("token")
+        # documentAssembler = DocumentAssembler().setInputCol("txt").setOutputCol("document")
+        # sentence_detector = SentenceDetector().setInputCols(["document"]).setOutputCol("sentence")
+        # tokenizer = Tokenizer().setInputCols(["sentence"]).setOutputCol("token")
 
         embeddings = WordEmbeddingsModel().pretrained("glove_6B_300", "xx") \
             .setInputCols("document", "token") \
             .setOutputCol("embeddings")
 
-        embeddings_sentenses = SentenceEmbeddings().setInputCols(['document', 'embeddings']).setOutputCol(
-            'sentence_embeddings').setPoolingStrategy('AVERAGE')
+        # embeddings_sentenses = SentenceEmbeddings().setInputCols(['document', 'embeddings']).setOutputCol(
+        #     'sentence_embeddings').setPoolingStrategy('AVERAGE')
 
-        stages = [documentAssembler, sentence_detector, tokenizer, embeddings, embeddings_sentenses]
+        # stages = [documentAssembler, sentence_detector, tokenizer, embeddings, embeddings_sentenses]
 
-        self.apply_embeddings(
-            stages=stages,
-            output_columns=['txt', 'sentence_embeddings.embeddings'],
-            embedding_name='glove'
-        )
+        # self.apply_embeddings(
+        #     stages=stages,
+        #     output_columns=['txt', 'sentence_embeddings.embeddings'],
+        #     embedding_name='glove'
+        # )
+
+        self.apply_word_embeddings(word_embedding=embeddings, embedding_name='glove')
 
     def generate_embedding_bert_pt(self):
         bert_embeddings = BertEmbeddings.pretrained("bert_portuguese_base_cased", "pt") \

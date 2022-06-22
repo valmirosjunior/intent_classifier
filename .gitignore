@@ -4,5 +4,6 @@ __pycache__
 venv*
 data/models
 data/nlu_models
+data/output/lstm_models
 embeddings
 old_notebooks
