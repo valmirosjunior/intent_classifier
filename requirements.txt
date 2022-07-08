@@ -4,6 +4,7 @@ argon2-cffi-bindings==21.2.0
 asttokens==2.0.5
 astunparse==1.6.3
 attrs==21.4.0
+autopep8==1.6.0
 backcall==0.2.0
 beautifulsoup4==4.11.1
 bleach==5.0.0
@@ -115,6 +116,7 @@ pure-eval==0.2.2
 py4j==0.10.9.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
+pycodestyle==2.8.0
 pycparser==2.21
 pydantic==1.8.2
 Pygments==2.12.0
@@ -159,6 +161,8 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.8.2
 tensorflow-estimator==2.8.0
+tensorflow-gpu==2.8.2
+tensorflow-hub==0.12.0
 tensorflow-io-gcs-filesystem==0.26.0
 termcolor==1.1.0
 terminado==0.13.3
@@ -167,6 +171,7 @@ threadpoolctl==3.1.0
 tifffile==2022.5.4
 tinycss2==1.1.1
 tokenizers==0.12.1
+toml==0.10.2
 torch==1.11.0+cu113
 torchaudio==0.11.0+cu113
 torchvision==0.12.0+cu113
