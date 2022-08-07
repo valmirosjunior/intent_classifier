@@ -1,0 +1,1001 @@
+txt,intent
+Foi sim,others
+Vou Fazer Isso,others
+Na verdade tô falando como se fosse minha mãe ela mim pediu,others
+"Ontem tive picos de 35,3 a 36,9",others
+Se eu precisar amanhã volto a procurar vcs,others
+Tem algum remedio pra tipo aperto no peito,request_inform
+Mais estava evitando ir em alguma emergência,others
+Mas qnd tiro a temperatura da 36:30,others
+já fico pensando que algo no pulmão,others
+Cansada,inform_symptoms
+N tenho termomentro,others
+Nunca mais tive desde então,others
+Meu marido voltou a trabalhar dia 27/04,others
+Aí  continuo tonando de 6 em 6 horas,inform_medicine
+E agora a noite por volta das 19,others
+Onde posso fzr,request_inform
+"Na UPA, na porta o segurança avisa, só quem está com falta de ar",others
+Mais ñ está piorando ñ,others
+"Sim, mas nessa pandemia, isolamento piorou 500%",others
+Mas no caso estou indo trabalhar normal,others
+Tem alguma previsão de quando tudo isso irá acabar,others
+tava falando c professor desculpa,others
+"Fraqueza,  não estar, falta de at",inform_symptoms
+*Amaralina,inform_medicine
+Todos os días pela manhã,others
+Tenho 46 anos,others
+Vcs Irão falar comigo primeiro e com ele depois ?,request_inform
+Depois que ele terminou o tratamento ele ficou assim,others
+então resumindo :,others
+"a tosse tem aumentado bastante,",inform_symptoms
+"Mas minha mãe saiu pq ela trabalha em casa de família, e na casa q ela trabalhava foi confirmado pessoas com corona",others
+Ele se sente cansado,inform_symptoms
+Tanta coisa,others
+"Qualquer coisa, procuro vcs!",others
+Ele ou eu,others
+Hoje tomei doralgina pra dor de cabeça,inform_medicine
+Particular,others
+"Não fica vermelho, pois evito coçar muito",others
+Foi muito bom falar com vc,greeting
+"Olá Dayanne, prazer meu nome é kaline sou filha do Francisco.",others
+Boa noite! Eu estou me sentindo mal há 7 dias e queria me informar sobre o covid,inform_symptoms
+Só semana passada. Essa semana não,others
+Qdo cuspi,others
+Ontem piorou só a falta de ar mas os demais sintomas melhoraram.,inform_symptoms
+Fez pelo plano particular,others
+Estou precisando puchar mais o ar,inform_symptoms
+Tô comendo tudo leve,others
+Ela tem IPM....mas os hospitais que atendem estão cheios também,others
+Hoje fazem 10 dias,others
+Dr vocês teriam atendimento piscologico?,request_inform
+Eu penso,others
+vamos nós,others
+Vou tentar dormir,others
+Desde quarta,others
+Vai sim em nome de Jesus.,others
+A falta de ar começou na segunda feira,inform_symptoms
+Minha oxigenação deu 94%,others
+Saiu a febre e a dor de cabeça.,inform_symptoms
+"Mas posso ser atendido em Fortaleza, não te  importância pra gente",others
+Daí 28 de abril,others
+Todo dia é tratamento,others
+Basta assistir a televisão  com os resultados,others
+"Hoje é fechado, só segunda",others
+Vou ser atendido,others
+Febre 37.7 eu tomo dipirona aí cai pra 36,inform_medicine
+Sim Dr,others
+"E nos picos de febre de 37,5...38... dizendo estar sentindo falta de ar.",inform_symptoms
+Usando máscara,others
+Esta com 39.1,others
+domingo dia 26,others
+E no sábado ela estava tendo alguma tosse.,inform_symptoms
+Já estamos separadas,others
+Somente para mim,others
+Tá difícil,others
+Só vitamina c,inform_medicine
+Eu passei,others
+Meu pai esta com febre  e passou a.noite expirando,inform_symptoms
+estou agora oscilando entre 37.8° e 39°,others
+Eu sou meio hipersecretivo desde que tive pneumonia no meio do ano passado,inform_symptoms
+"Acho que só será produtivo se fizéssemos o teste para o Corona, caso contrário poderemos nos arriscar",others
+Pois levaram meu avô e não o atenderam,others
+Tenho medo pelos meus filhos,others
+dqles*,others
+de meia em meia hora vejo a temperatura,others
+Se continuar alta por Qua nto tempo?,request_inform
+É sobre o acompanhamento q vcs vem fazendo cmg,others
+Ainda fraco,others
+Essa é a questão mais complicada,others
+Vc pode tira uma dúvida do meu namorado,request_inform
+Agr de manhã eu medi dnv tá dando 37.3,others
+Posso lavar as lousas de luvas?,request_inform
+foi bom conversar com vocês,others
+Vou dar uma pesquisada,others
+Então preciso pausar,others
+Cwrt,others
+Vão contaminar outros,others
+Apenas 37,others
+"As upas aqui próximo, estão lotadas",others
+"Ah, e ia esquecendo de citar as tonturas.",inform_symptoms
+Estou em isolamento,others
+Pelo zap ou por aqui,others
+Tem não! Foi difícil eu até fazer o controle no velório,others
+Ele ja ta melhor sentindo cheiro e sentindo gosto,inform_symptoms
+E os sintomas dos efeitos colaterais me deixam mais apavorada,others
+E um pouco de fraqueza quando vou fazer minhas atividades diarias,others
+Acho que quase isso,others
+Tinha os 2,others
+Tem um posto ao lado do terminal lagoa,others
+Sentindo *,others
+Isso ele teve febre so no domingo,inform_symptoms
+Tenho ficado em repouso.,others
+minha esposa teve dor de cabeça,inform_symptoms
+Recebi essas orientações,others
+Aí tá agora quase 38 dinovo,others
+"Febre diminuiu, mais paladar e olfato, continuou sem",inform_symptoms
+DEUS tenha misericórdia de nós pq saúde pública não existe mais por isso se alastrou,others
+As upas batem raiox?,request_inform
+De nervoso,others
+Gripe,inform_symptoms
+"Tem não, tá tudo na paz aqui",others
+está se recuperando em casa,others
+"Porque meus filhos, já tem problema demais e não quero preocupada eles com os meus",others
+Leve,others
+Nem fadiga nada,others
+Aí vai voltando ao normal,others
+Regional 3,others
+É esse mal estar que ela sentiu pela manhã,inform_symptoms
+Vai fazer 2 semanas,others
+Uma última pergunta era se realmente era proibido tomar ibuprofeno,request_inform
+"Está no oxigênio,tomando antibiótico",inform_medicine
+Referente a febre fica indo e voltando é normal ?,request_inform
+Foi o q me informaram,others
+Eu ja evito bastante,others
+Somente Obrigda,greeting
+Vou ja entrar na sala da enfermeira,others
+Talvez tenha sido mesmo os exercicios,others
+Mandarao ficar em casa e tomar antitermico,inform_medicine
+Me ajudou,others
+Há 6 dias,others
+Eletro,others
+Se caso isso aconteça procuro UPa ou hospital municipal?,request_inform
+Nao sai,others
+To medindo a temperatura dele,others
+"Rua Vitoria Régia,  340Pq Santa Rosa cep 60763012",others
+Sim tenho,others
+No dia 21  ela passou mas continuei com mal estar,inform_symptoms
+ME diz um local,others
+sou até ruim pra tomar so tomo nas último caso guando vejo que não aguento mais,others
+"Obrigada, qualquer outra dúvida entro em contato",greeting
+E como a pessoa vai saber quem ta ou n se n apresenta sintomas,request_inform
+Neste momento,others
+Nimesulida não,inform_medicine
+"Não,apenas quando sentia dores na coluna.",others
+Então hj a tarde,others
+sim umpouco,others
+Dando erro,others
+"Mas, eu agendei para terça feira ,",others
+Nenhum me atendeu,others
+Estou assim desde de sábado,others
+Pq mesmo assim eu como bem,others
+"Fora isso, medo da incerteza dos tempos atuais, temo pela saúde de todos, os empregos, tudo",others
+Tem.mais algum proximo na Washington Soares,others
+Que maravilha,others
+E nem precisei ir pra nem uma unidade médica,others
+Mas no caso de Corona posso piorar,request_inform
+Nunca fiz exames,others
+Da convid 19,others
+Domingo passado,others
+Ea pro medico ninguém quis ir comigo,others
+ainda não estou indo agora au ospital,others
+Ta bem...há eu fiz um teste de dengue no posto    essa semana vai sair o resultado,others
+Eu tenho conversado muito com voces,others
+Nesse momento não,others
+Eu sei vou esperar segunda é ir na minha consulta do clínico geral q eu marquei apenas para ele de o veredito.,others
+Ontem à noite também fiz xixi mais vezes.,inform_symptoms
+"Ele tem 15 anos,se chama William",others
+Meus lábios estão um pouco roxo,inform_symptoms
+obrigda,greeting
+Pq moro com meus pais e são idosos,others
+Brigadaa,greeting
+Leve mas sim.,others
+Vai dar certo,others
+Ta na uti no sao carlos,others
+38  Não   Não   Sexta   Não,others
+Ontem levei pra um sítio da família. Lá não há ninguém,others
+Pras 2 perguntas,others
+Não  tem mais fezes,others
+To na minha mãe,others
+Desde 2012.,others
+Aqui  é  A mae da Letícia,others
+"Quase todo dia, mas não é toda hora",others
+100%,others
+faço tratamento para tag,inform_medicine
+Muitíssimo,others
+Nada profissional,others
+Convi mulher,others
+Melhorei da do dicabeca,others
+saber,others
+José Erivaldo Félix Alves 890.701.193-15 22/05/1981 (085) 991464516 Fortaleza-CE.,others
+Antes disso tudo acontecer,others
+Correto,others
+Explicou que eu tinha que ficar em casa e esperar 14 dias,others
+"Não tem aparelho de medir, aí não consigo te falar com precisao",others
+Nao sai nada,others
+No momento não Obrigada,greeting
+Depois q fui ao hospital melhorei mais,others
+No laboratório,others
+E moro com uma  pessoa do grupo de risco,others
+"Acabei de ver de novo, ela tá com 38,2",others
+Estava conversando por audio,others
+"Na minha casa tem 8 pessoas, eu já sou a Quinta tem sintomas",inform_symptoms
+Me tratei apenas em casa mesmo,others
+quase todos.,others
+Combinado,others
+E  tada no mesmos nível que começou,others
+Tudo começou dia 26,others
+Não piorou,others
+"Desculpa, a Net caiu",others
+e pouco longe mas tá bom,others
+1 semana atrás a gnt tava com uma tosse horrível,inform_symptoms
+E uma tia minha de 62 anos,others
+"Pq estou em isolamento, já fiz até meu atendimento",others
+Mais ja parei,others
+Começou ontem à noite,others
+"É comprimido ,talvez agora eu durma",inform_medicine
+"Olha.. explicar eu até posso fazer isso, agora eles entender é outra história",others
+3 dias atrás,others
+"Quando levanto fico suando frio,fico gelada",inform_symptoms
+Tomar,others
+do mes passado,others
+assim que receber eu passo para voces,others
+"Se fosse preciso, sim.",others
+Pode me chamar de wilker,others
+"Desde esse horário estou monitorando, estava em 37.7, depois subiu pra 38.7, e agora está em 38.0",others
+Pensa q era algo sério,others
+Lentamente,others
+Eu vivo deitada no celular,others
+P passar alguma coisa p coriza?,request_inform
+E o Piemonte posso ou não tomar .,request_inform
+Já tentei ligar pra farmácia 24 horas só que o número que eu ligo chama e ninguém atende,others
+Hoje dei um aerosol só com soro,inform_medicine
+No momento estamos sem medidor,others
+Na primeira vez que fui ao hospital,others
+Ela tem 71 anos,others
+Ela não usa tem apenas 1 7 meses,others
+Hoje ta 36.5  a 37,others
+"Dá pra controlar, pela manhã ele quase não tosse.",inform_symptoms
+existe testes,others
+Houve piora,others
+Vou trabalhar de bicicleta,others
+Bom fds para você também,greeting
+Com quantos  dias eu já posso  voltar minhas atividades,request_inform
+Próximo ao rim,others
+peito**,others
+Me ajuda a relaxar,others
+Ou troco,others
+eu sou fumante,others
+Iniciou em 2013,others
+Infelizmente,others
+Obg só isso msm qualquer coisa entro em contato novamente,greeting
+Mas nunca tive crise assim,inform_symptoms
+vizinho o hospital da mulher,others
+Sim até pra tomar banho eu canso,inform_symptoms
+"Sim, eu fui em um atendimento particular",others
+Essa sensações que vou morrer faz tempo já,others
+Não assisto jornal,others
+Tá amanhã irei ligar,others
+"Aqui na minha casa eu, minha mãe e meu pai estamos desse jeito",others
+Mais volta,others
+Ele a dois dias,others
+Quero,others
+A última atendente deu informações errada,others
+Tem dia de plantão 24h,others
+Ok e devo dizer quais informações?,request_inform
+Por causa minha reniti,inform_symptoms
+Pelo mesmo motivo,others
+"Mas está aqui do meu lado, minha bombinha",inform_medicine
+Sempre dando dipirona de 6/6horas e o azitromicina 01x ao dia.,inform_medicine
+De disco,others
+3* *4 dias,others
+Tem algum lugar onde eu possa ver,request_inform
+Que as cobranças continuam,others
+Estou aguardando,others
+Só essa tua atenção ja me melhorou bastante,others
+Uso duas ou três por plantão,others
+Ficou tá com 3 Dias,others
+Sei sim,others
+Com certeza !,others
+Que bom saber,greeting
+Tudo ogd pela atençao,greeting
+Prefiro ficar c elas só p mim,others
+"Algumas horas atrás era de 37,7***",others
+Quantos dias de isolamento?,request_inform
+Então irei fazer,others
+O que já fiquei boa,others
+Me acalma,others
+Ontem fui ao banheiro umas 4 vezes e hoje já fui 2,others
+Esse último,others
+Fiz raio x,others
+Desde sábado a respiração,others
+A maioria dos moradores estão assim,others
+Sou grata,greeting
+"Ele toma banho frio, normalmente",others
+De fazer minhas coisas,others
+Eu sou diabética e hipertensa. Faço uso insulina Lantus 30 ui pela manhã. Tomo 1 comp. de 20 mg Maleato Enalapril + 1 Novalo de 5 mg. No almoço 1 Glifage RX de 500 mg. + 1 AAS. 1 Enalapril 20 mg + 1 Glifage RX de 500 mg.,inform_symptoms
+Mas sempre sinti isso,inform_symptoms
+Caso eu more com os meus familiares posso toma esse mesmos cuidados né isso ?,request_inform
+Há 10 dias,others
+Quando dou uma melhorada da febre consigo fazer um chá ou algo rápido,inform_symptoms
+Sim... Mas não o tempo inteiro,others
+Conversar,others
+Sim meus olhos estão todos doloridos parece que levei foi muro,inform_symptoms
+Trabalho em uma distribuidora de produtos hospitalares,others
+Minha gravidez é de risco,others
+qual o melhor remédio caseiro chá ou suco nós ajude por favor,others
+"Nao porque me informaram que esta muito cheio la para essa triagem, que hoje foi o dia que mais teve pessoas procurando,",others
+Meu esposo ta com sitomas,others
+FICO OFEGANTE SE FALO,inform_symptoms
+Até,others
+Caso piore,others
+"Há 8.ou 10 dias de febre, c dor de cabeça",inform_symptoms
+"Sim 37,9",others
+Aqui em casa todos também adoeceram,others
+Vou falar pra ele,others
+Vc nao pode nem eviar por email ou uma foto pq la na empresa pede a xerox do atestado,others
+Sintino mal está,others
+Com quem estou falando?,request_inform
+Isso foi sexta passada,others
+Pras flores no corpo pode ser paracetol d 500 mg?,request_inform
+Upa ou hospital,others
+"Tem o Rebouças Macambira, relativamente perto",others
+Chega da desespero diante dessa moleza,inform_symptoms
+Está 38.2,others
+E quando realmente eu precisar não vai fazer efeito!,others
+"Aí preparo aerosol e tomo, as vezes funciona",inform_medicine
+Hoje pela manhã ele foi no posto de saúde.,others
+Hj 38.00,others
+Eles mandaram eu retorna pra casa e cuida da Saúde.,others
+Vou novamente no São Camilo então,others
+Então amanhã posso trabalhar normal,others
+"Sim, irei hj a tarde",others
+Nunca mais vou recuperar o sono,others
+Vou a upa da Leste Oeste?,request_inform
+"Tem que tomar direto ,mesmo que não esteja doendo muito.",others
+consigo ficar de pe nao muito mais me levanto,others
+eu disse pra ele ir porque ele ta se entupindo de remedio sem saber,others
+6/6 horas,others
+Não durma faz muito tempo,others
+MAIS 3 pessoa da minha família estão assim,others
+Porque ele não foi mas no posto tirar a glicemia,inform_medicine
+E ela tem 70 anos,others
+Rinites n,inform_medicine
+Certo  Estou ficando.   Saí quarta pois tinha que levar meu pai a uma consulta,others
+Melhorei do  dia 25 até 28,others
+De pronto atendimento,others
+Volta,others
+A consulta vai começar,others
+Hj q começou com 38,others
+Por todas as informações e orientação,others
+Minha maior complicaçap foi falta de ar em alguns momentos,inform_symptoms
+To usando sorine pra limpar,inform_medicine
+Quando tava de folga treinava a noite.. quando ia trabalhar treinava de manhã,others
+Ontem a noite,others
+Vamos para lá,others
+Uso bastante celular,others
+Piora,others
+Última vez deu 37º,others
+A febre mesmo baixa tem q persistir por 48h?,request_inform
+Creio que seja isso,others
+Faz uns 2 meses que não a vejo,others
+"Sim ,dores",inform_symptoms
+Por conta do contato.,others
+Agora Não estou,others
+Imaginei tbm que fosse preciso,others
+Tudo que precisamos pedimos por entrega  Não saímos de casa,others
+uns 5 dias,others
+nenhum,others
+Vir os casos confirmado da doença na página da minha cidade e fiquei mais angustiada,others
+E estar assim desde de domingo,others
+Onde é o melhor lugar pra procurar atestado médico?,request_inform
+Hoje que vou precisar sair pra pegar atestado no posto,others
+Fico preocupada pq posso contaminar sei lá!,others
+Já mim ajudou muito estou muito grata de coração,others
+Enche o pulmão de ar,others
+Qual Upa tá  atendendo,others
+Perdi isso,others
+Pra você me indicar,others
+Normal 12/8,others
+Estamos com mascaras,others
+Faço uso do cleniu,others
+Mais no meu trabalho algumas pessoas tiveram o covid19,others
+Gosto ainda tenho,others
+Aí procurei uma obstetra por telemedicina,others
+E sou a única pessoa q sai de casa para resolver alguma coisa fora,others
+antes de começa a tomar a remedio tava 20.14,others
+Estou gestante de 23 semanas,others
+Liguei umas 20vezes nao atenderao,others
+Vi que tem pessoa q morrem em casa é pq?,request_inform
+Vejo q preciso,others
+Eu ja falei com vocês antes.  15/07/87,others
+Sou bariátrica,inform_symptoms
+So nao entendo pq as cobranças so vem pra mim,others
+Mais se for o melhor eu dou um jeito,others
+as vezes boa,others
+Ou se volta antes eu dou,others
+To sem termômetro,others
+Tá vou na upa,others
+"Tá bom, vou procurar sim.",others
+Vomitei hj de manha,inform_symptoms
+so  agradecer pelo atenção de vcs ontem fui ao hospital fui atendido na urgência fiz exames,others
+Já tive,others
+Ontem eu achei q ele tava ofegante!,inform_symptoms
+Janumet 50/1000mg,inform_medicine
+Estou d mascara direto,others
+Quando eu voltar quero sim conversar. Ais.,others
+Agora sim,others
+Assis Wesley santos da Rocha,others
+Sim. Acho que comi algo mais gorduroso.,others
+Que dificultasse,others
+Não fique  continue tomando mesmo sem ter mais febre,inform_symptoms
+no começo sim agora não,others
+"Hj naum pude conferir pq estou sem termômetro no momento,",others
+Assisto series,others
+Regiane Patrício dos Santos  CPF 92076548300 26/03/1982 85991812765 Pacatuba CE,others
+Moramos. Bela vista,others
+A uns 4 dias atrás,others
+Ele sente sempre calafrios,inform_symptoms
+Não tem como deixar de ter contato,others
+Percebo q eletem ódio banheiro mas vezes,others
+Às vezes do nada me dá uma vontade tao forte de chorar,inform_symptoms
+"ok, vou tentar ficar mais relaxada",others
+"Máximo q da 36,5",others
+Cheguei cedo pra nao pegar lotacao,others
+Ela tem plano,others
+O Sr conseguiu ouvir o audio,others
+Acho que eu n vou aguentar,others
+A quarentena dela termina antes da minha net?,request_inform
+sim totalmente,others
+Tenho q procura um médico,others
+Pan americano,others
+Mais  tenho q ir até lá é?,request_inform
+Tava até gostando,others
+"Eu consegui pegar um outro medidor, acabei de medir deu 37.8",others
+Estou sim. Suco de acerola,inform_medicine
+Porém ele foi na upa e não tinha médico..,others
+Uma pressão forte nos olhos,others
+Acordei hoje por volta de 09:30 me sentindo indisposto.,others
+Sim tava 38.2,others
+"Tô bem. Tô com fadiga, encomodo na cabeça, olhos enxados, nariz entupido.",inform_symptoms
+Não melhorou,others
+Vou ver se ela consegue,others
+Queria faz o exame mais como eu nao to com sintoma ai eu nao foi,others
+na hora de dornir,others
+Sou filho dela e trabalho em hospital.,others
+Nesse momento,others
+Ok Valeska.,others
+Os sintomas estão sumindo aos poucos,others
+Já falei com uma pessoa hoje agora a pouco ela já me ajudou ta certo   mas obrigado,greeting
+Sim melhorou,others
+Vou seguir com ele,others
+Estou deitada no lado esquerdo,others
+Alongamentos simples por exemplo,others
+mais não chegou a fazer exame.,others
+Com suor,others
+As orientações foram esclarecedoras. Obrigada,greeting
+Hoje 3,others
+N uso nenhum remedi,others
+Opa vai descarregar o celular q pena,others
+Estou falando pelo o meu pai,others
+Vejo passar na televisão que não tem vaga,others
+"Boa tarde, meu vizinho está com falta de ar e pressão baixa desse ontem",inform_symptoms
+Hj tirei a pressão deu 12 8,others
+ajudou muitoooo,greeting
+Já faz 8 dias,others
+Demora quanto tempo,request_inform
+Hoje às 16:00 horas,others
+Não tão rápido,others
+Passou logo,others
+Não dá pra ouvir só de respirar? Por exemplo eu mesma ouvir,others
+De eu está sem saber e acabar passando para meu filho.,others
+Ja faz 4 dias que estou assim,others
+Na verdade a gente estava numa casa de praia em família,others
+Estou tossindo com bastante frequência,inform_symptoms
+O que sai CAPS?,others
+Pra ver se fico mais calma,others
+"Sim, ao levantar ou caminhar",others
+Minhas pernas estavam pensando quando eu andava,others
+"Minha localização é: [-3.7718024,-38.6163014]",others
+Ele ta dizendo aqui que amanha entra em.contato pra ajuda psicologica,others
+Estou evitando o máximo,others
+Qual alimentacao e sucos,others
+"Sim, máximo que deu foi 38.0",others
+A upa mais próximo é a do Conjunto ceará mas lá está tão lotado que nem sei se vão me atender,others
+Eu moro sozinha,others
+"Entrei novamente dia 10, tinha saído dele um tempo atrás e voltei dia 10 agr",others
+Todos tem muito contato comigo,others
+Meu já tá com mais d 15 dias,others
+Verdade,others
+Eh bom falar,others
+"Kiara, pode encerrar o atendimento",others
+Muito obrigada a vc e a equipe do Camilo Santana,greeting
+Obrigada mais uma vez por esse atendimento maravilhoso,greeting
+"Mas, sempre os dois juntos",others
+Saiu,others
+Então tenho que ficar em caso,others
+Casso venha piora quando pocediamento  devo toma,others
+Sempre,others
+sou profissional da saude,others
+Eu vou tentar agora,others
+Os dois têm 70 anos,others
+Faz 4 dias,others
+Pq ele é doente mental,inform_symptoms
+Suo muito,others
+"Boca,não é direto.",others
+No sábado normal,others
+"Pois tbm não passa de 37,7",others
+O.meu termômetro é aqueles digital de farmácia,others
+Conversando,others
+Mas vc pode me dizer,request_inform
+"Umas pessoas pegam w parecem nem ta doente! Outras pegam, ficam internadas e morrem",others
+Ou devo ter cuidado mais posso fazer minhas coisas que eu pode,others
+"Continuo com diarreia, as pintas vermelhas no rosto diminuíram",inform_symptoms
+Preocupada. Não dormir ainda. Estou com meu esposo e 2 filhos _ 18 e 3  anos _ todos dormindo,others
+ramos,others
+N estou consigo buceja,others
+"O que mais incomoda é o nariz entupindo, parece que tá fechando, tenho que colocar sorine direto",inform_symptoms
+"E um leve peso na cabeça! Medi a temperatura a pouco deu 37,8",inform_symptoms
+Mais a UPA não estão atendendo,others
+Só q nenhuma apresentou nada,others
+Se vc puder ouvir eu gravo a tosse pra vc,inform_symptoms
+"Compreendo, Mais ñ consigo lhe dar com essas situações",others
+Eu fiz minha frequência tenho 11 por minuto,others
+Mais não fiz nenhuma exame,others
+"Mas, quero prevenir logo.",others
+"Ontem  acordou cansada, pela manhã,  dei um lambedor  caseiro, melhorou  do cansaço, hj voltou a cansar, tem secreção no peito",inform_medicine
+Ajudou só em ter alguém pra ouvir,others
+É acima de 37.8?,others
+Eu estou tentando fazer minha parte so sai hoje porque eles la nao aceitaram daqui o que vcs disseram,others
+Fiz tomografia e deu pneumonia comprometendo 25% dos pulmões,inform_symptoms
+Depois senti a perda do ofalto,inform_symptoms
+Minha mãe é do grupo de risco,others
+To preocupada,others
+N consigo sem vontade,others
+Sim hj de madrugada,others
+"Ontem realizei uma faxina, na qual tive contato com bastante morfo.",others
+Eu faço meditacao,others
+Mas só na sexta e no sábado,others
+Só estou indo formando Marina,others
+E já é o quarto dia de diarréia,inform_symptoms
+Já estou a 3 dias,others
+"Porém, sem fosse.",inform_symptoms
+"3 dias, desde que os sintomas começaram",others
+Só consigo tomar água de coco e suco,inform_symptoms
+Já estamos indo,others
+Ha quase duas semanas,others
+"Rua alameda girassol, Vila Velha",others
+Qualquer coisa eu entro em contato,others
+"A upa Mais próxima da minha casa é a do autran Nunes, e tá lotada!",others
+Pq minha neta mora comigo,others
+Por favor me desculpe,others
+Começou no dia 1 de maio a noite.,others
+No decorrer do dia vai aumentando,others
+Nos primeiros dias... Tive ...sim,others
+Antes eu fazia orações Mas agora não consigo me concentrar,others
+Estava pré,others
+Fui sim,others
+E ser recompensado dos dias,others
+Não sei te informar,others
+E acabei de dar Buscopan pra dor agora,inform_medicine
+Nesse tempo tenho dias que espirro muito,inform_symptoms
+Aqui em casa aparentemente ninguém tem,others
+Acho que dar certo né,others
+Até agora não coloquei o termômetro agora,others
+Nesses monumentos,others
+Hereditária,others
+Na verdade eu sou o filho dela.,others
+Daqui a pouco ja estou ruim de novo,others
+Ardendo,others
+Mais se eu passar mal,others
+Mas so foi um dia,others
+Saturação 96,others
+É agora meio dia dipirona,inform_medicine
+Tenho uma filha de 9 anos,others
+no peito e costas mas passou,inform_symptoms
+Vou tentar marcar,others
+Seria com soro,inform_medicine
+Só fiquei mais nervosa por pensa que fosse do covid,others
+No caminhão,others
+Vou olhar,others
+Dessa vez está mais difícil,others
+Minha irmã na casa dela que é no andar de cima,others
+Eu trabalho a noite ... 12/36,others
+Respiracao mais rápida  aue o normal,inform_symptoms
+Posso solicitar uma ambulância,others
+Bom saber disso,others
+Nenhum dos dois!,others
+Acordei melhor,others
+Preciso de ajuda nesse sentido,others
+Hj faz 15 dias,others
+"Não somos casados no papel, apenas nos juntamos",others
+À vista deve está pesada,others
+"Quando a temperatura passa de 36,5 aí começa umas crises de falta de ar",inform_symptoms
+Fica em qual bairro,others
+11hrs,others
+Area da grande Messejana,others
+Batimentos 60,others
+Ou posso confiar na máscara de tecido,others
+Em relação a lavagem de roupas,others
+Mais como falei nunca tinha perdido o paladar e nem sentido esse tipo de pressão na minha cabeça,inform_symptoms
+Todos os dias eu apresento aquela temperatura q eu te disse,others
+Uma médica me disse ontem,others
+Estável,others
+Estou esperando melhorar,others
+Começou com meu pai no sábado,others
+Ele tem 50 anos,others
+Moro sozinha,others
+82 anos toma pra pressão,others
+2 A 3 vezes,others
+Não funciona nos finais de semana,others
+As vezes nos ombros,others
+Obrigado por está ajudando a população nesse momento difícil,greeting
+"Dela ficar sozinha, ja que nao pode entrar acompanhante e além disso confusa",others
+Estou cumprindo,others
+permaneceu por 3 dias,others
+Já tem umas 5 dias,others
+Uns 8 dias,others
+Mais do lado direito,others
+Ele foi o primeiro,others
+Já tive câncer de mama,inform_symptoms
+Na minha casa tem 3 pessoas gripadas e 1 pessoa com suspeita de dengue,inform_symptoms
+Só no meu quarto,others
+Padre Cícero 1581,others
+Fico no aguardo,others
+tosse*,inform_symptoms
+Tenho loratadina aqui em minha casa,inform_medicine
+"Tive dor abdominal, moleza",inform_symptoms
+confirmado,others
+De vez em quando fico com o corpo mole,inform_symptoms
+Sim! Sim,others
+No dia 29,others
+Tá bom. Eu vou comprar o soro amanhã  Porque estou sem soro em ksa,inform_medicine
+Sim. Venho medindo a temperatura o máximo que deu foi 36.1,others
+37.8 agora a pouco,others
+Acontece,others
+"Tomei hoje, dipirona pela manha e agora as 17:00",inform_medicine
+Não tem as consultas pelo posto estão todas canceladas sem previsão.,others
+no hospital  otoclinica,others
+Ele tem 51 anos,others
+Nem de fica em pé,others
+Só mora eu e ela,others
+Agora não estou tive pela manhã,others
+Eu continuo espirrando,inform_symptoms
+Fiquei costurando com elas pra ganhar um real por dia,others
+O porque desse cala frios?,request_inform
+Sabe se essas coisas estão ajudando ?,request_inform
+Pouco abaixo das costelas nas costas de um lado só,inform_symptoms
+Eu tenho hiportireide.  Descobri quando fui atrás de um psicólogo.  Eu vivia cansada sem animo sem gosto por nada.,inform_symptoms
+A ultima vez faz 24 horas,others
+Eu concordo,others
+Tudo bme,others
+Dói,others
+Do exame covid,others
+"Tomei,depois fui novamente a farmácia deu normal aí parei.",inform_medicine
+36 e meio,others
+Agora to cansada pq acabei de ajeitar a janta,others
+Já fui medicada,others
+Tou dando redoxson pra ele . Tem algum problema?,request_inform
+Andor e só do lado esquerdo próximo ao olho,others
+Medi minha temperatura agora,others
+"Sim, moro só",others
+Agora que ele tomou dipirona pra dor de cabeça,inform_medicine
+Já irei de agora,others
+Por que trabalho em mercantil,others
+Pra onde seria melhor?,request_inform
+O tempo todo,others
+Descarta suspeita de dengue também,others
+Vou tentar comer alguma coisa e vou ao hospital,others
+Exercícios físicos,others
+Nariz escorrendo que nao estava.,inform_symptoms
+E no domingo comecei a me sentir mal,inform_symptoms
+Ainda tô sem paladar,inform_symptoms
+Citaram o Ceará,others
+"Meu esposo está com indisposição, fraco, cabeça pesada, agonia na cabeca",inform_symptoms
+Erva doce tbm è bom?,request_inform
+Porque acho arriscado em ir pro posto tenho medo,others
+Levanto e o mundo roda em torno de mim.,others
+Vendo agora,others
+"Ele tem 14 anos, é portador de cardite grave",inform_symptoms
+"Mesacol (Mesalazina) de 800g, duas vezes ao dia",inform_medicine
+Foi o que pessoa orientou,others
+só se for alguem assintomatico mesmo,others
+Os outros já estava tomando alguns dias,others
+To preocupada se passei para a família,others
+"Não ,tem uma upa",others
+Eu tô buscando ajuda,others
+Isso quer dizer o que esse nivel,others
+Mãos *,others
+aí dá vontade,others
+Tem horas que eu preciso puxar o ar bem fundo,inform_symptoms
+"Sem puder ir. Posto de saúde fica difícil, ainda b que tem vcs",others
+Mas não fui.,others
+Vou m esforçar,others
+Eu só queria conseguir ir em algum canto que me atendesse passe remédio pra essa tosse e pra esse cansaço,request_inform
+Eu e uma das idosas estávamos cuidando da pessoa que está infectada,others
+Normal sempre 36°,others
+A ta certo,others
+Eu e meu esposo no caso,others
+"Iam assinar minha carteira,  mas não assinaram",others
+Ouvi dizer que tem farmácia fazendo,others
+Eu tive a maioria desses sintomas Dor de barriga Ansia de vomito Queda de pressão Queda de temperatura tambem,inform_symptoms
+Me Ajudou muito,greeting
+Eita,others
+Ou convid 19,others
+De meia noite até agora,others
+Moro no José Walter,others
+áudio,others
+"Eu acordo , como alguma coisa , tiro 20 minutos pra ver as noticias , faço exercicios ,",others
+Brigado,greeting
+pelo pior,others
+Vou procurar um posto amanhã.,others
+"Sinto direto, fazendo qualquer coisa",others
+Tô de olho nela,others
+Tentando ficar deitado assistindo,others
+"acabei sendo irresponsável, recebi pessoas na minha casa e participei de uma aglomeração no fds.",others
+Se poder me indicar agradeço,request_inform
+No posto,others
+Vou me arrumar pra ir,others
+Tô sentada,others
+Na verdade em ambas as situações,others
+Diabetes tipo 2,inform_symptoms
+Gosta de ajudar outras pessoas,others
+Meu pai teve um AVC e faz tratamento para depressão. Ele tem 79 anos,inform_symptoms
+Lembrei,others
+Sim 37.9,others
+Moro no centro,others
+Dar dor na costa mas acho q deve ser gases ou pq tô acima do peso,inform_symptoms
+Segunda feira a noite fui no medico,others
+Eu tive contato com ela,others
+Estou trabalhando on line,others
+Também tô muito preocupada com meus pais e irmãos no interior,others
+"Sim, sim, entendo!",others
+Vó conseguir aqui,others
+Estou trabalhando e tenho esses cuidados,others
+12 dias hj,others
+Porém estou cm mais 3 pessoas em casa com os Sintomas mais fortes,inform_symptoms
+estou bem do nada pioro,others
+Fará uma semana amanha,others
+Na sexta durante não senti mais nada.,others
+Sim amo.,others
+"obrigado pelas informaçoes e atendimento,vou seguir as orientaçoes",greeting
+Graças a Deus não foi o meu caso,greeting
+"Um pouco de febre , mal star...",inform_symptoms
+De mim levantar,others
+Corro bem,others
+Os dados são dela,others
+Mas levanto por meus filhos,others
+Eles n deram nenhum diagnostico ainda,others
+E o q mas tenho medo,others
+ou de ter um AVC Oi parada cardíaca,others
+Sexta muito ruim. Sabado deu uma aliviada,others
+Olá hoje ele está bem melhor Glória a Deus Ñ precisou ir pra médico ñ.,greeting
+Eu fico de máscara direto tenho todos os cuidados,others
+Principalmente minha filha de 4 anos,others
+Ainda n,others
+Amanhã de manhã eu vou,others
+"Estou amamentando, e tenho que levar meus filhos comigo",others
+1 m aproximadamente,others
+Estamos isolados,others
+Verifiquei pressao aqui em kda,others
+Não  só rezar para ficar boa.,others
+Também acho me arrisquei saindo de casa ate o hospital São José e nada,others
+De demaio,others
+tem 50,others
+Mas apartir de ontem comecei a trabalhar em casa,others
+E hipotireoidismo uso levou 75mg,others
+38.9° hoje,others
+Faço isso,others
+Isso inicou durante a noite,others
+Necessito de isolamento durante quanto tempo?,request_inform
+Mas vou fazer isso e observar,others
+"Agora final da tarde, um febre leve.",inform_symptoms
+Mais eu agradeço,greeting
+Mae e 4 irmãos sendo 3 homens,others
+Consigo pelo zap dela,others
+Como vamos  comer bem  se ñ  TEMMMM,others
+Perguntav,others
+Dei um cházinho de hortelã a ele.,inform_medicine
+"Nós primeiros dias tive perda de olfato e paladar, mas já voltou ao normal",inform_symptoms
+Agora tô numa reunião on LINE.pode ser daqui a uma hora?,others
+Eu tirei agora 37.5,others
+Quando ela quer mama,others
+de*,others
+Cariline*,others
+N tô mais assistindo TV,others
+Moro com meus pais e eles estão dentro da zona de risco,others
+"Sim, tava dando 38.3",others
+*realmente,others
+Tenho sim,others
+No caso para meu avô neh?!,others
+Hoje ja umas 10 bezes,others
+"No sábado amanheci com garganta inflamada , tomei nimesulida e comi Romã, melhorei da garganta",inform_symptoms
+"Ok, então melhor deixá-la em casa",others
+Seki,others
+"Lavar uma louça, varrer uma casa, uma besterinha",others
+A garganta já tem 2 ou 3 dias,others
+Eu perguntei a ela e ela diz que não,others
+Mais vou levar de novo,others
+Tipo como se o meu coração acelerace e fico sufocada,inform_symptoms
+Três dias já,others
+Desca,others
+Deu não reagente,others
+Marcar pra amanhã já.,others
+Vitamina c,inform_medicine
+Mas o bairro é Vicente Pinzon,others
+No começo parecia muito mais uma gripe,inform_symptoms
+Do msm jeito,others
+Estava me.sentindo bem... Aí quando fui verificar deu isso.,others
+Nunca,others
+Que eu saiba não,others
+Mas desde momento que fiquei muito nervoso,others
+N fui ao medico,others
+Fui em uma farmácia que tem um clínico geral atendendo e ele que passou,others
+Meu nome é Irem Baykal,others
+Vc acha que seria o caso de fazer o isolamento domiciliar,others
+Se alimentou normal,others
+"Desculpas doutora não é pra mim, é pra minha filha",others
+Tenho plano de saúde,others
+Espero que nao seja preciso. Boa Noite,greeting
+Covid obrigatoriamentente  apresenta esse sintoma?,request_inform
+Vitamina D,inform_medicine
+Se ele nao for os 14 dias vai ser descontado,others
+Um q é digital,others
+Esse tipo de pergunta fica vindo uma atrás da outra,others
+Tem 3 anos,others
+Me tratei em casa,others
+Não.qualquer coisa volto a falar,others
+"Mais tenho medo,pois hovi falar em pneumonia  silenciosa",others
+Estou vendo aqui pra onde vou.,others
+Será necessário eu realizar isolamento dos meus demais familiares em casa?,request_inform
+Desde então ficquei em casa so ontem fui na igreja,others
+Nem sei como lhe agradecer,greeting
+Eu vou ligar para a ambulância,others
+Amanhã completa 8 dias,others
+Uns 8,others
+Eu queria ação mais não tem..,others
+Sim consigo,others
+Tou apavorado,others
+Estou satisfeita,others
+Teria como falar diretamente com ela?,request_inform
+Não! Muito obrigada pelas respostas,greeting
+Meu filho,others
+Sim fui hj ao médico,others
+86 minha avo,others
+"Oi Bárbara, sou o filho dela.",others
+VC acha que pode mudar,others
+Eu estava fazendo o tratamento do hipotireoidismo tive nódulo Benigno mas fico com medo que vire maligno,inform_symptoms
+Doi mai quando puxa fundo,others
+Fez foi piorar de segu,others
+Aqui em fortaleza,others
+OBG,greeting
+Pq foi receitado por 5 dias,others
+quais sao,others
+Sou a mãe da Ana Cecília,others
+Ja tenho,others
+Ela piorar quando a dor chegar,others
+"Vomitou, e passa a mão direito na cabeça",inform_symptoms
+Estou assim,others
+"Hj ela quase não anda hj, acordou com muita dor.",inform_symptoms
+"Pensei em levá‐lo ao médico, uma clinica particular como a multiclinic",others
+"Ela está se alimentando bem, tá esperta",others
+prazer,others
+Os batimentos cardíacos dele deu 102,others
+Está com mal estar! (Corpo mole),inform_symptoms
+Domingo por volta das 17 horas.,others
+Ela precisa de atendimento em casa,others
+Aqui pra mim ir,others
+Ele já é de idade.,others
+"não, pois trabalho",others
+Há 7 dias,others
+Pius tenho idosa em casa,others
+Quase nu vem o ar,others
+Particular mesmo,others
+Tentei comprar nimesulida mas não consegui contato com a garganta,others
+"Cabeça, olhos, no corpo",others
+Estamos isolando-o.,others
+Sofro com as coisas q ainda nem aconteceu,others
+Ele está com estes sintomas aí descritos no áudio!,others
+Eu creio,others
+"Ela comeu chocolate ontem,depois ela começou a falar que estava com essas dores",inform_symptoms
+Pra vocês aí também,others
+"Joelho, cotovelo, quadril",others
+Eles atendem aos sábados?,request_inform
+Com frequência ontem a noite,others
+Mas qual é a de Fortaleza também,others
+O banho já dei,others
+Faz 5 dias ou 6,others
+dia 30 de Abril,others
+Voltar lá,others
+A da autran nunes faz esse atendimento?,request_inform
+A gente precisa dormir separado,others
+Medicação*,others
+Ah ta certo porque tenho uma mae que tem problema de coracao e minha irma esta gravida como devo faser,others
+E esses dias percebi algo estranho,others
+Casa,others
+"Fui no Edson Queiroz, estava sem febre apenas cansada",inform_symptoms
+As duas crianças da casa não pegaram ainda Graças a Deus,others
+Meu filho tem 7 anos,others
+Não fomos,others
+"Mas, ninguém testou eles ,",others
+Gostaria,others
+eu assim meio puxando meu,others
+Dela,others
+As vezes quando e leve um joguinho de logica me ajuda,others
+Foi ótimo o atendimento.,greeting
+Tem uma família todinha amiga minha e acho que estão todos contaminados,others
+E dia 7 eu tenho meu vôo pra voltar no meu país porque sou turista aqui,others
+"Ok, estou no aguardo",others
+Trabalho em mercatil,others
+Sim eu fico de máscara direto e ela também,others
+Dor de cabeça - neosaldina,others
+Hoje faz 12 dias que estou com isso,others
+Não eu não fui,others
+Sabe informar se lá tem telefone?,request_inform
+no momento não dor,others
+Upas Pedro Celestino não está aberto,others
+Faço o almoço de máscara,others
+já faz mais de uma semana q estou assim,others
+Coloração da coriza é transparente,inform_symptoms
+Temo também a saúde da minha mãe,others
+Eu moro perto da upa do José Walter,others
+Posto não tem medico,others
+"Vou tentar, tem um posto próximo aqui de casa",others
+Ele é idoso tem 70 ano,others
+Já estamos sim,others
+como varrer casa,others
+Velório q falo,others
+Estou igual,others
+Desde sexta feira que venho me sentido mal,inform_symptoms
+Sim! Todas em dia.,others
+"Tudo bem, vou fazer dessa forma então.",others
+Por quanto tempo,others
+Mais por aqui,others
+Estamos tds agora usando máscara,others
+Mas nasceu em mim.,others
+Meu esposo sente as mesmas coisas mas com febre,inform_symptoms
+Meu filho vai nascer em breve,others
+Quarta da semana passada,others
+4 dias hoje,others
+Meu filho de 4 anos e meu esposo,others
+as vezes alta as vezes baixa,others
+Fazem 2 dias,others
+Mas oq despertou em.mim.a dúvida foi q n sinto.cheiro de nada,inform_symptoms
+Sandra Moreira e Flávio Marcílio,others
+Tenho em casa,others
+Vou pedir um termômetro,others
+Posso lavar aqui,others
+Voi recomendação médica.,others
+Banhei,others
+"É pq aqui no posto perto de casa não tem médico só enfermeira, no posto Roberto Bruno",others
+Mais eu sentia as crises,others
+Melhora mais ou menos com quantos dias?,request_inform
+Foi o suficiente,others
+mas estou no meu limite,others
+Também conheço pessoas que estao assim.,others
+É gratuito,others
+Vi as informações.,others
+Não sabemos,others
+Dormi bem mas acordei assim na madrugada,others
+Pior,others
+De isolamento,others
+"Nao intensa, ms todos os dias.",others
+Hoje foi 38,others
+Pra ele me ver em video,others
+"Mas se eu n força ou não tentar , a respiração fica "" normal""",inform_symptoms
+Quando eu viro para o outro lado da cama acelera,others
+Eu fiz a tomografia,others
+foi sexta-feira,others
+Trimedal,others
+Teve pneumonia em janeiro,inform_symptoms
+Acredito que medo,others
+"Mas, não soube responder",others
+Então,others
+"Mas espirros , coriza durante o dia todo",inform_symptoms
+Na quarta deu 38 Quinta e ontem pouco menos de 39,others
+Hum entendir,others
+Estou controlando com Dipirona líquida de 500,inform_medicine
+Eu já havia feito assim,others
+"Bom trabalho. Tenho pedido bênçãos a todos profissionais que estão além de seus limites, buscando devolver o infectado às suas famílias.  Boa noite!!",others
+Sucos gelados não pode?,request_inform
+Domingo anoite,others
+Até agora nenhum,others
+Estou angustia,others
+Desde já grata,greeting
+Rua 922 casa 136 conjunto Ceará.,others
+"Estou com 37,5 graus",others
+Ele me relatou que os batimentos cardíacos dele estava hj pela manhã na hora que ele se sentiu mal 110,inform_symptoms
+Melhor q já me atendeu aqui foi vc obg,greeting
+Quero ajuda sim.,request_inform
+Faz 10 dias,others
+"Sobre o que tomar, fazer",others

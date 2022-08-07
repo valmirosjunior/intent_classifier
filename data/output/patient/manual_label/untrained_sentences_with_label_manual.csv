@@ -1,0 +1,401 @@
+txt,intent
+Desculpa qualquer coisa,others
+"Sim,Dipirona 1g e vitamina c",inform_medicine
+Ate hoje nao sinto cheiro de nada ... Por msis forte que seja,inform_symptoms
+Aqui se eu tiver contaminada é só as pessoas que estão cuidando de mim ter cuidado né lavar as mãos e tudo e eu tô isolada mas mas tem gente que não pode ficar isolada essa minha amiga lá na casa dela é um ovo aí é triste,others
+Meu nome é Regina Nascimento Mesquita tenho 57 anos trabalho no hgf aqui em Fortaleza e tá com mais ou menos uma semana que eu tô sentindo vem sentindo só aquela morrinho no meu corpo não tenho febre mas fico febril fico mole né Agora eu tenho problema de rinite alérgica e eu nunca sei se eu tô com Inicial com essa doença porque eu sinto assim eu espirro pouco não é muito espirro pouco né sinto assim a minha garganta ardendo um pouquinho não tenho dor de garganta né e assim eu tô sentindo muita dor na minhas costas aqui na minhas costas trabalho sentada também no hospital trabalhando sentada não sei se é isso né o,others
+A dor já tem uns dois dias que sinto,inform_symptoms
+Aqui na região o foco tá grande,others
+Moro no bairro Itaoca,others
+Um pouco de coriza,inform_symptoms
+Prazer dr João meu nome e Wellington Coelho,others
+Sandra Moreira e Flávio Marcílio,others
+Ok.fico muito agradecida.,greeting
+So se eu tiver me movimentando,others
+Quando me deito,others
+Não  foi so esse dia,others
+Mandaram eu tomar ele de 8h em 8h.,others
+Ontem às 22,others
+Tempo,others
+Estou isolado na parte inferior da casa,others
+Tipp,others
+Ainda n fui no hospital,others
+Vou seguir observando ela,others
+Ou esse é o nome do posto,others
+E quando resolver ir ao médico não ter mais jeito,others
+Vai dar certo em nome de Jesus,others
+Certo vou fazer isso,others
+Não está tudo certo  obrigado  tenha uma boa tarde,greeting
+No primeiro dia,others
+Com corona? Como eu vou saber,request_inform
+Corisa*,inform_symptoms
+Nao pq nunca tinha sentido isso,others
+3* *4 dias,others
+Mas ainda não fizeram o teste pra covid! Essa é a terceira vez que venho ao pronto-socorro,others
+"Diante do quadro,  q é desde quarta-feira  passada, será necessário  procurar um médico?",request_inform
+Nao fui ao médico,others
+Médico falou que eu estava muito ancioso,inform_symptoms
+Acho que continuam do mesmo jeito,others
+E o proteja,others
+Comecei com espirro no dia 25,inform_symptoms
+Porque faço tratamento pra controlar,others
+Só teste de temperatura no dedo,others
+"Então minha mãe ela está vomitando, com dor de barriga, os sintomas começaram fraco no começo mas estão aumentando",inform_symptoms
+Normal sempre 36°,others
+Estou em casa eu e minha mãe.,others
+Obrigada  No momento não.,greeting
+Amanhã termina o tratamento que a médica tinha passado e esses 2 sintomas ainda persistem,others
+No momento  ñ,others
+Não sei se estão aberto aos sábados,others
+Doflex,inform_medicine
+Acha melhor eu aguardar amanhecer o dia?,request_inform
+Sim. Mas estava muito lotado. Optei por retornar amanhã.,others
+Se assim fizermos ficaremos curado,others
+As vezes tosse,inform_symptoms
+Você conversando comigo acha que eu tenho algum problema piscilogico?,request_inform
+Não constantemente mais tem e ontem ela começou com um mal estar,inform_symptoms
+Ja tomei cha,inform_medicine
+Passo mal no banheiro,inform_medicine
+Mais acho que vou num posto amanha,others
+Ou nem alguma farmácia,others
+Faço todos procedimento,others
+Estou achando,others
+eu pensava que tava pergunta se tava isolada no quarto,others
+"Ontem me senti melhor com Tylenol. Mas, o efeito não durou muito",inform_medicine
+"O nariz continua entupido, febre voltando, vontade de vomitar, sem apetite e se sentindo muito fraco....",inform_symptoms
+"A dificuldade de respirar pelo nariz, de ontem pra hj",inform_symptoms
+Aqui já teve 3 obitos.estou apavorada,others
+tem que marcar é,others
+Sim fico alternando,others
+Mas não tenho nenhum outro sintoma,others
+"Como faço não estou saindo do quarto , hoje sexto dia",others
+Boa tarde! Os atendimentos têm sido pro meu pai!,greeting
+Sou da enfermagem,others
+Mas prefiro ir a Fortaleza,others
+Domingo anoite,others
+"Não  tenho termômetro,mas pela minha experiência acredito 37 a mais",others
+Então suspende,others
+Está tomando repoflor,inform_medicine
+O raio-x tbm só vai fazer amanhã,others
+Sim! Estou separado das outras pessoas da casa.,others
+Tá  igual a dor  as costas.,inform_symptoms
+Próximo ao Riomar Papicu,others
+No começo parecia muito mais uma gripe,inform_symptoms
+"Tomo banho, vou ao banheiro,mas fico mais de repouso.",others
+Adoeci,others
+Deu certo. Ele conversou com vocês. Muito obrigada!,greeting
+Tive ontem muita falta d ar q so melhorei com aerossol,inform_symptoms
+Tuci muito durante a noite,inform_symptoms
+Sim hj de madrugada,others
+Só uma vez,others
+É o esposo dela que está falando,others
+Já faz mais de uma semana,others
+Olhos ardendo,inform_symptoms
+"nenhuma, muito obrigada",greeting
+"Ela tosse muito, muito mesmo.",inform_symptoms
+Por que não tenho termômetro em casa,others
+Suco De Laranja com beterraba,inform_medicine
+Era bom ele parar o trabalho,others
+E o lado esquerdo dolorido,inform_symptoms
+Mas agora estou melhor,others
+Fico tomando dipirona é chás?,request_inform
+Domingo,others
+Eu desde ontem comecei com uma tosse seca,inform_symptoms
+Meu medo é d ter contraido,others
+Ela está com tosse tmb,inform_symptoms
+Depois deu febre vomito e diarreia,inform_symptoms
+Mas aqui por perto tem vários casos confirmados!,others
+Ok agradeço de mais a atenção de vocês,greeting
+"Pelo menos que vi, não",others
+Ele reclamava de um mal estar no estomago e na cabeça,inform_symptoms
+O primeiro dia foi domingo passado. Mas só fui no médico na Quinta.,others
+Deu normal,others
+"Fui apenas na farmácia, enfermeira apenas falou q esta inflamada mas sem puz.",inform_symptoms
+50 tons de cinzas?,others
+No dia 28 de abril,others
+Coriza uns 3 dias mas ja acabou,inform_symptoms
+Ok aqueles descongestionantes não?,request_inform
+Estamos de olho,others
+"Pronto, eram essas minhas dúvidas",others
+Vou*,others
+Por pra todo lado so atende caso de covid,others
+"Terça, e na quarta levei um hemograma",others
+"Estou evitando redes sociais, por conta das notícias",others
+"O q eu mais quero. Mas se eu não fizer o almoço aqui, eu nem almoço. Tenho que sair do quarto pra algumas coisas. Mas estou fazendo de tudo pra ficar isolada.",others
+Ele desceu pra casa dela,others
+Quando fico doente,others
+Sim pela manha e a noite,others
+"Ok , a gente continua em quarentena",others
+"E hj eu amanheci com garganta meio inflamada ,",inform_symptoms
+Não chegamos a medir a feber,others
+Sabe se essas coisas estão ajudando ?,request_inform
+o cansaço começou hj,inform_symptoms
+Me indicaram está febril,inform_symptoms
+"A temperatura dele está normal agora. 36,5",others
+Desde ontem a tarde até agora não tomei tilenol.,inform_medicine
+Onde encontro essa lista?,request_inform
+Tenho crianças pequenas em casa,others
+Meu paladar  já volto  só cheiro que ainda não volto bem,inform_symptoms
+"Sim, ela começou com 37.8 na quinta, e sábado e domingo, hoje, ficou em 38.2",others
+Tinha medico,others
+"Quando ele era bebe ele sentia cansaso, mas isso ja faz mais de 11 anos",inform_symptoms
+Ver Tô,others
+Mais agora me distrai falando ctg,others
+Tem sido uma rotina repetitiva e estressante,others
+hoje não  maia me senti mal pela manhã,others
+Incluindo hoje.,others
+É provável que volte a trabalhar dia 06 ! Teria que fazer teste para covid19?,request_inform
+Tenho um aparelho em casa,others
+Eu tenho uns exames de sangue. Quer dar uma olhada?,request_inform
+Vocês já tem todas as minhas informações que eu passei esses dias que eu venho falando,others
+Moro no José Walter,others
+E já é o quarto dia de diarréia,inform_symptoms
+"Agora no momento não estou, dar mais qdo faço pequenos esforços",others
+Levanto pra comer,others
+Nao ta forçada,others
+"Entendi, vou ficar com atenção",others
+Quinta é sexta,others
+D domingo para segunta amanheci com febre e dor no corpo,inform_symptoms
+"Hoje por volta das 10h, senti dor de cabeça e medi a febre com termometro e deu 36.8",inform_symptoms
+As 17::00 novamente,others
+"Os atendimentos emergências não estão recebendo ,",others
+Entendi obrigada,greeting
+Mais eu tenho contato com ela,others
+Quentura por dentro,others
+Pra mim fica imunr,others
+De vez em quanto,others
+Comecei ontem,others
+Só mais uma pergunta posso lavar as coisas dele junto ou tem que ser separado!,others
+Estava tomando de 8 em 8 horas,others
+Peso na cabeça,inform_symptoms
+To evitando assistir os jornais pq vejo as noticias e vou ficando muito nervosa,others
+Contaminação *,others
+Vomitei hoje,inform_symptoms
+Ele disse que só pode dormir papo pra cima ou do lado esquerdo do lado direito não tá conseguindo,inform_symptoms
+Meu nome é João Paulo,others
+Tenho não,others
+Mais agora tá tranquila,others
+Só atendem quem chega de ambulância,others
+E mesmo nao tendo sintomas fortes eu nao sei como vai ser o dia de amanha,others
+Como eu sei que estou curada?,request_inform
+Ontem apareceu no meu corpo uma vermelhidão,inform_symptoms
+Mas dentro de casa tenho q cuidar dele,others
+assim que eu vi que meu esposo estava com começando com febre né ele sentiu que tava com febre pedir para ele vir para verificar Aí tava só frio aí depois aumentou um pouco aí eu comecei a ficar preocupada nervosa aí começou a me dar uma moleza no meu corpo também E aí um frio aí eu achei que fosse por causa do tempo que tá chovendo mas eu fui Verificar também aí tava 3761 aí eu fiquei nervosa comecei me tremendo mesmo isso aí é característica Jorge quando eu fico nervosa eu me tremo e como se eu tivesse com frio só que não é só do nervoso,inform_symptoms
+"Rua Nogueira Cruz, 963, Vicente pinzon",others
+A dor nas costas e peito ardendo passou .,inform_symptoms
+Assisto um bom filme,others
+Estável,others
+Ja dei aerosol,inform_medicine
+"Sim, ja fazem 10 dias hoje",others
+Informações sobre covid por favor.,others
+Será se a falta de ar não ocasionada por conta da tosse contínua?,request_inform
+Essa sensações que vou morrer faz tempo já,others
+Eu digo que falei com vc aqui?,others
+Tenho medo de perder pessoas q eu amo,others
+Dores,inform_symptoms
+Dipirona de 6em6hs,inform_medicine
+Depois de 4 hora,others
+Só é fica em isolamento?,request_inform
+Desculpa qualquer coisa dnvo viu.,others
+Bairro Alto Alegre -Messejana,others
+Meu batimento ta 84pm,others
+Estou com alguns sintomas desde ontem,inform_symptoms
+"Infelizmente não me recordo, mas acho que sim",others
+Ele disse que nao covid.,others
+Tive febre de madrugada 38.0 mas passou. Só tô com muita dor no corpo principalmente nas pernas e nos olhos.,inform_symptoms
+"E assim, eu moro com meus pais e avó",others
+Eu moro em Pedras...,others
+Deitou e eu contei a respiração dele. Deu 33 por minuto,others
+Tá da mesma forma quando estou muito anciosa.,others
+Quando ela usou o oxímetro deu 73,others
+Muita quentura,inform_symptoms
+Vou procurar aqui,others
+Principalmente na upa,others
+Só coça,inform_symptoms
+So tenho agradecer por que eu ja ia no upa,greeting
+Cimegripe pra gripe normal,inform_medicine
+Aqui  fica na divisão MARACANAÚ Fortaleza,others
+Também é um fator,others
+Sensação de desmaio tipo fraqueza,inform_symptoms
+Qual a upa melhor aqui próximo do Henrique Jorge???,request_inform
+So redoxom suco e dipirona ??,request_inform
+De isolamento,others
+Esse serviço é 10. Me sinto mais tranquilo e cuidado.,others
+Oiii,others
+Sim estou sim,others
+Desca,others
+Ele tem síndrome de   daw,inform_symptoms
+Tentando ficar deitado assistindo,others
+Está com 8 dias,others
+Vitamina c pode?,request_inform
+"Não , permaneci em casa !",others
+"Eu já venho sendo acompanhada por um profissional, um de vcs",others
+Cobranças que faço em mim mesmo no trabalho e em casa,others
+Morava na granja portugal,others
+Para nao transmitir? Ele tem 80 anos,others
+Posso mandar áudio?,request_inform
+Não sei. Pra gripe. É o que gostaria de saber... pra garganta!!!!,others
+Estamos com mascaras,others
+"Não, lotado d+",others
+Rerono,others
+Ela fica so dormindo,others
+Vc liga pra la,others
+Acho q não,others
+Meu marido estar com estado febril e sempre com a imunidade baixa. Torce catarro.,inform_symptoms
+Se aumentar falta de ar vou obg,others
+Moro com mais dois filhos,others
+"Meu esposo edimario está  desde quarta feira com febre,indisposição, dor de cabeça.  Agora acordou dizendo que a boca esta amargando?",inform_symptoms
+Nem sabia que poderia fazer isso,others
+Pensava q a falta de ar era apenas quando estava mais agravante.,others
+Pra evitar,others
+"Não,apenas quando sentia dores na coluna.",others
+"Deu 38,1",others
+Nem perdi paladar ou alfafa,others
+Mas a diarreia ainda estou,inform_symptoms
+Nao de 1 hora atrás,others
+3 dias atrás,others
+Eu tento nao ter pensamentos disfucionais mais ta dificil,others
+"se eu me distrair, por exemplo, assistindo um filme ou um vídeo eu não sinto.",others
+A senhora pode me informar por favor,request_inform
+Pra  ficar tranquila,others
+Mas dps mudo de posição novamente,others
+Nenhum,others
+Aí tá agora quase 38 dinovo,others
+Mesmo que minimamente,others
+"Boa tarde Luciana.Nao sinto gosto, cheiro e sinto frio.",inform_symptoms
+Há entendi meu corpo vai ficar resistente a medicação,others
+Achei que está normal,others
+Devemos então todos dentro de casa usar a máscara?,request_inform
+1 semana atrás a gnt tava com uma tosse horrível,inform_symptoms
+Consigo fazer sim,others
+Quando faço algo q force conversar..sim andar,others
+Isso já faz três dias,others
+Na verdade nem todas,others
+Ele pode fazer inalação com aparelho de aerosol?,request_inform
+Três dias já,others
+Ah ta certo porque tenho uma mae que tem problema de coracao e minha irma esta gravida como devo faser,others
+Fico mais morgadinha,others
+Eles alegaram q só atenderam pacientes graves. Eu estava com a pulseira verde. Upa itaperi,others
+6 pegaram,others
+Por enquanto não.   muito obrigada!,greeting
+e a dor na costa,inform_symptoms
+Sinto tbm um pouco o paladar amargo,inform_symptoms
+Sempre me considerei porém após toda essa pandemia piorou,others
+Vou ligar pro SAMU então,others
+Mais já faz dois dias hj,others
+As vezes cheia as vezes seca,inform_symptoms
+Outro sintoma,others
+se possivel sim,others
+Estou em isolamento desde o dia 17 de março,others
+Vou novamente no São Camilo então,others
+E nenhum deles apresentou nenhum sintoma,others
+Quando pucho o ar no peito dói!,inform_symptoms
+Começou agora a noite,others
+Daí vim pra casa e aqui não tenho termômetro.,others
+Obrg?,others
+Mariana estou apresentando alguns sintomas,others
+Certo .estamos observando,others
+"Tomei hoje, dipirona pela manha e agora as 17:00",inform_medicine
+Eu n verifiquei  no primeiro dia,others
+Pastosa,others
+tinha em casa,others
+As vezes há a dificuldade para falar tbm,inform_symptoms
+"Ainda sobre a nimesulida, ele tomou apenas 01 comprimido ontem",inform_medicine
+Principalmente no torax,others
+No momento o único sintoma que tenho  é a respiração  mais ofegante.,inform_symptoms
+Sexta,others
+Ela pediu pra mim ficar em casa de quarentena,others
+Eu to tomando paracetamol  e  limão   alho cha caseiro que mesmo faço,inform_medicine
+estou sim,others
+No entanto desde entao tenho sim estado mais nervoso,others
+Trabalhando em unidade de saude,others
+Ele é limpo,others
+37.8 agora a pouco,others
+"Certo, pode deixar, qualquer mudança, contato aqui",others
+Fiz raio x,others
+Medo de morrer,others
+*favor,others
+O meu celular é este,others
+GRATA,greeting
+Não. Só ficou o tempo em que tomava a medição na veia,inform_medicine
+"Febre baixa,",inform_symptoms
+Ontem de madrugada,others
+C ctz,others
+Sei,others
+Voltei ao trabalho na quarta feira,others
+Sim ela ficava indo e voltando,others
+Onde que posso levá-la?,request_inform
+Como e proximo Fico so pensando,others
+Parado,others
+As tenho medo,others
+Estou a 03 dias com os seguintes sintomas Nariz entupido Pouco de coriza Uma moleza nas pernas e nos braços.  Sem coragem,inform_symptoms
+Como assim intercalar que eu não sei,others
+"Estou preocupado, pq não costumo apresentar febre",inform_symptoms
+Dificuldade,others
+"Eu pergunto porque o meu sobrinho que mora em Belém atestou  positivo para covid19, já ficou recuperado, graças a Deus, e tomou essa medicação",others
+Acho q é alto né isso?,request_inform
+Sim..sabado,others
+Por isso não consigo atendimento médico,others
+Tá Tô preparando o banho dele,others
+"Fui ao médico, psiquiatra, a segunda antes de começar os sintomas",others
+Horas*,others
+Hje final da tarde cansada,others
+Estou desesperada,others
+Há uma semana tive algumas exposições.,others
+Porque recebi uma mensagem perguntando o que tava sentindo hoje,others
+Hoje só quis saber de deitar,others
+Normalmente é mais à noite,others
+Ele tampa,others
+Não estão atendendo,others
+Sim prostração,others
+Uma cartela completa,others
+No caminhão,others
+Não estou trabalhando estou em casa sem sair deste q começou a gripe,inform_symptoms
+Obrigada pela orientação.  Vou lê a cartilha,greeting
+Hj o dia todo observei... deu só 36.2 no maxima,others
+A garganta não tá doendo sabe,inform_symptoms
+Precisamos saber onde está atendendo,request_inform
+Se passar muito tempo em pé,others
+Inicialmente não estava,others
+Obg pela orientação,greeting
+Só vitamina c,inform_medicine
+Quando consigo me acalmar praticamente fico sem sentir nada,others
+Me fizeram ir la,others
+"Sinto moleza, sem energia.",others
+Mas no sábado fiquei sem olfato,inform_symptoms
+As chances são menores da falta de ar?,request_inform
+N fica doendo toda HR,others
+Fica em casa ainda?,request_inform
+Mas vou fazer isso e observar,others
+Medi denovo deu 36.6,others
+Grato pelas palavras,greeting
+"Minha temperatura deu 36,7",others
+Então optei por ele,others
+Faço isso todos os dias,others
+Mais o meu maior,others
+Hoje to com nariz entupido e perda parcial do paladar,inform_symptoms
+"N,só senti nos dias 19 e 20.",others
+Citaram o Ceará,others
+Em vez enguando tosia,inform_symptoms
+Muita moleza corpo,inform_symptoms
+Eu falei com as pessoas do número da secretaria da saúde e pediram pra  ficar em casa,others
+Tá espero não perde o emprego meu Deus,others
+Como eu tenho amigdalite aguda,inform_symptoms
+Sou a mãe da Ana Cecília,others
+Até agora não procuramos atendimento e nem fez exames,others
+"No momento não, obg",greeting
+Mas só entrei em contato com vocês no dia 02/05/2020,others
+Eu tive contato com ela,others
+"Retificando, febre (q foi alta) parou tem 13 dias",inform_symptoms
+qual a sua especialidade?,request_inform
+Recebi essas orientações,others
+Meu filho de 9 anos e meu marido,others
+Ok e devo dizer quais informações?,request_inform
+N tenho termômetro,others
+Voltar lá,others
+Aqui e so eu e meu marido  de 60 anos,others
+Mas estou preocupado,others
+Ela tem plano de saude unimed,others
+Mas só ele teve uma tosse feia,inform_symptoms
+Tylenol de 6 em 6 horas,inform_medicine
+Vai,others
