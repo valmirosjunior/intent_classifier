@@ -14,7 +14,8 @@ class TsneHelper:
     def build_tsne_chart(self):
         df_plot = self.__build_df_chart_data()
 
-        fig = px.scatter(df_plot, x="x", y="y", color="label", hover_data=['text', 'label'], title=self.title)
+        # fig = px.scatter(df_plot, x="x", y="y", color="label", hover_data=['text', 'label'], title=self.title)
+        fig = px.scatter(df_plot, x="x", y="y", color="label", hover_data=['text', 'label'])
 
         return fig
 
@@ -32,7 +33,7 @@ class TsneHelper:
         dict_ = {
             'x': transformed_embedded[:, 0],
             'y': transformed_embedded[:, 1],
-            'label': list(map(lambda x: f'Cluster número {x} | {len(labels[labels == x])} frases', labels)),
+            'label': list(map(lambda x: f'Cluster {x} with {len(labels[labels == x])} Sentences', labels)),
             'text': df_sorted['txt'].to_list()
         }
 

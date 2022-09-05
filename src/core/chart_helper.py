@@ -7,14 +7,25 @@ def plot_line_chart(df_plot, x, y, title, color, xaxis_title=None, yaxis_title=N
     if xaxis_title and yaxis_title:
         chart.update_layout(xaxis_title=xaxis_title, yaxis_title=yaxis_title)
 
+    # chart.update_layout(
+    #                   paper_bgcolor='rgba(0,0,0,0)',
+    #                   plot_bgcolor='rgba(0,0,0,0)'
+    #                   )
+    # chart.update_layout(plot_bgcolor='#fff')
+    chart.update_traces(textposition="bottom right")
+
     chart.show()
 
 
 def plot_distance_charts(df):
-    px.histogram(df, x="distance", nbins=None).show()
+    histogram = px.histogram(df, x="distance", nbins=None)
+
+    histogram.update_layout(yaxis_title="Amount of Sentences", xaxis_title="Distance")
+
+    histogram.show()
 
     box_plot = px.box(df, x="label", y="distance")
 
-    box_plot.update_layout(yaxis_title="Distância", xaxis_title="K")
+    box_plot.update_layout(yaxis_title="Distance", xaxis_title="Cluster")
 
     box_plot.show()

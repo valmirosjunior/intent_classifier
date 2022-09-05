@@ -89,6 +89,7 @@ class MetricHelperPresenter(MetricHelperBase):
         super().__init__(actor)
 
         self.df = pd.read_csv(self.metrics_path)
+        self.df['Embedding Model'] = self.df['modelo']
 
     def show_davies_bouldin_score(self):
         plot_line_chart(
@@ -96,9 +97,9 @@ class MetricHelperPresenter(MetricHelperBase):
             x='k',
             y='davies_bouldin',
             title='',
-            color='modelo',
+            color='Embedding Model',
             xaxis_title='K',
-            yaxis_title='Davies Boundin'
+            yaxis_title='Davies Bouldin Score'
         )
 
     def show_silhouette_score(self):
@@ -107,7 +108,7 @@ class MetricHelperPresenter(MetricHelperBase):
             x='k',
             y='silhouette',
             title='',
-            color='modelo',
+            color='Embedding Model',
             xaxis_title='K',
             yaxis_title='Silhouette Score'
         )

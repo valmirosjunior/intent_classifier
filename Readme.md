@@ -5,14 +5,13 @@ For my machine it was this command:
 - pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
 
 
-- How to generate nlu models just run this after generate the nlu data, and split it\
-using the [nlu_builder.ipynb](notebooks/nlu_builder.ipynb).
-```shell
-./build_nlu.sh `pwd`/data/nlu_models/patient/k100/bert_pt
-```
+### How to generate nlu models
 
-- With the update:
+- Just run this after generate the nlu data, and split it\
+using the [nlu_builder.ipynb](notebooks/nlu_builder.ipynb).
+
 ```shell
+time ./build_nlu.sh `pwd`/data/nlu_models/patient
 time ./build_nlu.sh `pwd`/data/nlu_models/patient/without_others_intent
 ```
 

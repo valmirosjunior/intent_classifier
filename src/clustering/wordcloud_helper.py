@@ -6,10 +6,11 @@ from src.core.distribution_data import *
 
 nltk.download('stopwords')
 STOPWORDS = nltk.corpus.stopwords.words('portuguese')
+ENGLISH_STOPWORDS = nltk.corpus.stopwords.words('english')
 
 
-def plot_word_cloud(words, name_file=None):
-    wordcloud = WordCloud(stopwords=STOPWORDS,
+def plot_word_cloud(words, name_file=None, stopwords=STOPWORDS):
+    wordcloud = WordCloud(stopwords=stopwords,
                           background_color="black",
                           width=1600, height=800).generate(words)
 

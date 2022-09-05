@@ -1,0 +1,111 @@
+version: '2.0'
+
+nlu:
+- intent: greeting
+  examples: |
+    - Foi muito bom falar com vc
+    - Somente Obrigda
+    - Obrigada, qualquer outra dúvida entro em contato
+    - obrigda
+    - Brigadaa
+    - No momento não Obrigada
+    - Bom fds para você também
+    - Obg só isso msm qualquer coisa entro em contato novamente
+    - Que bom saber
+    - Tudo ogd pela atençao
+    - Sou grata
+    - Já falei com uma pessoa hoje agora a pouco ela já me ajudou ta certo   mas obrigado
+    - As orientações foram esclarecedoras. Obrigada
+    - ajudou muitoooo
+    - Muito obrigada a vc e a equipe do Camilo Santana
+    - Obrigada mais uma vez por esse atendimento maravilhoso
+    - Obrigado por está ajudando a população nesse momento difícil
+    - Me Ajudou muito
+    - Brigado
+    - obrigado pelas informaçoes e atendimento,vou seguir as orientaçoes
+    - Graças a Deus não foi o meu caso
+    - Olá hoje ele está bem melhor Glória a Deus Ñ precisou ir pra médico ñ.
+    - Mais eu agradeço
+    - Espero que nao seja preciso. Boa Noite
+    - Nem sei como lhe agradecer
+- intent: inform_medicine
+  examples: |
+    - Aí  continuo tonando de 6 em 6 horas
+    - *Amaralina
+    - Hoje tomei doralgina pra dor de cabeça
+    - Febre 37.7 eu tomo dipirona aí cai pra 36
+    - Só vitamina c
+    - Está no oxigênio,tomando antibiótico
+    - Mandarao ficar em casa e tomar antitermico
+    - Nimesulida não
+    - faço tratamento para tag
+    - É comprimido ,talvez agora eu durma
+    - Hoje dei um aerosol só com soro
+    - Mas está aqui do meu lado, minha bombinha
+    - Sempre dando dipirona de 6/6horas e o azitromicina 01x ao dia.
+    - Aí preparo aerosol e tomo, as vezes funciona
+    - Porque ele não foi mas no posto tirar a glicemia
+    - Rinites n
+    - To usando sorine pra limpar
+    - Janumet 50/1000mg
+    - Estou sim. Suco de acerola
+    - Ontem  acordou cansada, pela manhã,  dei um lambedor  caseiro, melhorou  do cansaço, hj voltou a cansar, tem secreção no peito
+    - E acabei de dar Buscopan pra dor agora
+    - É agora meio dia dipirona
+    - Seria com soro
+    - Tenho loratadina aqui em minha casa
+    - Tá bom. Eu vou comprar o soro amanhã  Porque estou sem soro em ksa
+- intent: inform_symptoms
+  examples: |
+    - Cansada
+    - Fraqueza,  não estar, falta de at
+    - a tosse tem aumentado bastante,
+    - Ele se sente cansado
+    - Boa noite! Eu estou me sentindo mal há 7 dias e queria me informar sobre o covid
+    - Ontem piorou só a falta de ar mas os demais sintomas melhoraram.
+    - Estou precisando puchar mais o ar
+    - A falta de ar começou na segunda feira
+    - Saiu a febre e a dor de cabeça.
+    - E nos picos de febre de 37,5...38... dizendo estar sentindo falta de ar.
+    - E no sábado ela estava tendo alguma tosse.
+    - Meu pai esta com febre  e passou a. noite expirando
+    - Eu sou meio hipersecretivo desde que tive pneumonia no meio do ano passado
+    - Ah, e ia esquecendo de citar as tonturas.
+    - Ele ja ta melhor sentindo cheiro e sentindo gosto
+    - Isso ele teve febre so no domingo
+    - minha esposa teve dor de cabeça
+    - Febre diminuiu, mais paladar e olfato, continuou sem
+    - Gripe
+    - É esse mal estar que ela sentiu pela manhã
+    - No dia 21  ela passou mas continuei com mal estar
+    - Ontem à noite também fiz xixi mais vezes.
+    - Meus lábios estão um pouco roxo
+    - Na minha casa tem 8 pessoas, eu já sou a Quinta tem sintomas
+    - 1 semana atrás a gnt tava com uma tosse horrível
+- intent: request_inform
+  examples: |
+    - Tem algum remedio pra tipo aperto no peito
+    - Onde posso fzr
+    - Vcs Irão falar comigo primeiro e com ele depois ?
+    - Dr vocês teriam atendimento piscologico?
+    - Se continuar alta por Qua nto tempo?
+    - Vc pode tira uma dúvida do meu namorado
+    - Posso lavar as lousas de luvas?
+    - As upas batem raiox?
+    - Uma última pergunta era se realmente era proibido tomar ibuprofeno
+    - Referente a febre fica indo e voltando é normal ?
+    - Se caso isso aconteça procuro UPa ou hospital municipal?
+    - E como a pessoa vai saber quem ta ou n se n apresenta sintomas
+    - Mas no caso de Corona posso piorar
+    - P passar alguma coisa p coriza?
+    - E o Piemonte posso ou não tomar .
+    - Com quantos  dias eu já posso  voltar minhas atividades
+    - Ok e devo dizer quais informações?
+    - Tem algum lugar onde eu possa ver
+    - Quantos dias de isolamento?
+    - Caso eu more com os meus familiares posso toma esse mesmos cuidados né isso ?
+    - Com quem estou falando?
+    - Pras flores no corpo pode ser paracetol d 500 mg?
+    - Vou a upa da Leste Oeste?
+    - A febre mesmo baixa tem q persistir por 48h?
+    - Onde é o melhor lugar pra procurar atestado médico?

@@ -34,11 +34,6 @@ class PipelineHelper:
         self.data_helper.sync_dataframes()
         self.data_helper.reset_df()
 
-    # def get_intent_index_as_numpy(self):
-    #     dict_intent_index = {row['txt']: MAP_INTENT_INDEX[row['intent']] for index, row in self.annotated_df.iterrows()}
-    #
-    #     return self.data_helper.df['txt'].map(dict_intent_index).to_numpy()
-
     def describe_intents(self, dict_intents):
         df = self.data_helper.df
         index_intents = defaultdict(list)
@@ -74,7 +69,7 @@ class PipelineHelper:
         self.data_helper.df['intent'] = self.data_helper.df.loc[:, 'label'].map(dict_intents)
         self.data_helper.original_df['intent'] = self.data_helper.df.loc[:, 'intent']
 
-        self.annotated_df = self.data_helper.df.loc[:, ['txt', 'annotated_txt', 'intent']]
+        self.annotated_df = self.data_helper.df.loc[:, ['txt', 'annotated_txt', 'label', 'distance', 'intent']]
 
         output_dir = Path(fm.filename_from_data_dir(f'output/patient/{self.sub_folder_k}/{self.embedding_name}'))
         output_dir.mkdir(parents=True, exist_ok=True)
