@@ -64,6 +64,17 @@ class PipelineHelper:
 
         fig.show()
 
+
+    def save_data(self, df_data, internal_dir=''):
+        output_dir = Path(fm.filename_from_data_dir(
+            f'output/patient/{internal_dir}{self.sub_folder_k}/{self.embedding_name}')
+            )
+        output_dir.mkdir(parents=True, exist_ok=True)
+        output_file = f'{output_dir}/annotated_sentences.csv'
+
+        print(f'saving data at: {output_file}')
+        df_data.to_csv(output_file, index=False)
+
     def annotate_data(self, dict_intents):
         print('applying map intents.....')
         self.data_helper.df['intent'] = self.data_helper.df.loc[:, 'label'].map(dict_intents)
@@ -71,12 +82,10 @@ class PipelineHelper:
 
         self.annotated_df = self.data_helper.df.loc[:, ['txt', 'annotated_txt', 'label', 'distance', 'intent']]
 
-        output_dir = Path(fm.filename_from_data_dir(f'output/patient/{self.sub_folder_k}/{self.embedding_name}'))
-        output_dir.mkdir(parents=True, exist_ok=True)
-        output_file = f'{output_dir}/annotated_sentences.csv'
+        self.save_data(self.annotated_df)
 
-        print(f'saving data at: {output_file}')
-        self.annotated_df.to_csv(output_file, index=False)
+        without_others_df = self.annotated_df.loc[self.annotated_df['intent'] != 'others']        
+        self.save_data(without_others_df, internal_dir='without_others_intent/')
 
         print('Describing data...')
         self.describe_intents(dict_intents)

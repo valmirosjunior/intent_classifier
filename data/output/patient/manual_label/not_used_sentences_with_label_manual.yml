@@ -38,17 +38,17 @@ nlu:
     - Está no oxigênio,tomando antibiótico
     - Mandarao ficar em casa e tomar antitermico
     - Nimesulida não
-    - faço tratamento para tag
-    - É comprimido ,talvez agora eu durma
+    - faço tratamento para tag #errado
+    - É comprimido ,talvez agora eu durma #errado
     - Hoje dei um aerosol só com soro
-    - Mas está aqui do meu lado, minha bombinha
+    - Mas está aqui do meu lado, minha bombinha #errado
     - Sempre dando dipirona de 6/6horas e o azitromicina 01x ao dia.
     - Aí preparo aerosol e tomo, as vezes funciona
-    - Porque ele não foi mas no posto tirar a glicemia
-    - Rinites n
+    - Porque ele não foi mas no posto tirar a glicemia #errado
+    - Rinites n #errado
     - To usando sorine pra limpar
     - Janumet 50/1000mg
-    - Estou sim. Suco de acerola
+    - Estou sim. Suco de acerola #errado
     - Ontem  acordou cansada, pela manhã,  dei um lambedor  caseiro, melhorou  do cansaço, hj voltou a cansar, tem secreção no peito
     - E acabei de dar Buscopan pra dor agora
     - É agora meio dia dipirona
