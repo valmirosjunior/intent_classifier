@@ -29,7 +29,7 @@ class PipelineHelper:
         df_embeddings = use_pipeline_model.transform(self.annotated_sentences)
 
         for alias in aliases:
-            output_columns.append(df_embeddings[alias].alias(aliases[alias]),)
+            output_columns.append(df_embeddings[alias].alias(aliases[alias]))
         
         df_embeddings = df_embeddings.select(output_columns)
 
@@ -84,24 +84,9 @@ class PipelineHelper:
 
 
     def generate_embedding_glove(self):
-        # documentAssembler = DocumentAssembler().setInputCol("txt").setOutputCol("document")
-        # sentence_detector = SentenceDetector().setInputCols(["document"]).setOutputCol("sentence")
-        # tokenizer = Tokenizer().setInputCols(["sentence"]).setOutputCol("token")
-
         embeddings = WordEmbeddingsModel().pretrained("glove_6B_300", "xx") \
             .setInputCols("document", "token") \
             .setOutputCol("embeddings")
-
-        # embeddings_sentenses = SentenceEmbeddings().setInputCols(['document', 'embeddings']).setOutputCol(
-        #     'sentence_embeddings').setPoolingStrategy('AVERAGE')
-
-        # stages = [documentAssembler, sentence_detector, tokenizer, embeddings, embeddings_sentenses]
-
-        # self.apply_embeddings(
-        #     stages=stages,
-        #     output_columns=['txt', 'sentence_embeddings.embeddings'],
-        #     embedding_name='glove'
-        # )
 
         self.apply_word_embeddings(word_embedding=embeddings, embedding_name='glove')
 

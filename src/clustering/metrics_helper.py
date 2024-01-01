@@ -96,7 +96,7 @@ class MetricHelperPresenter(MetricHelperBase):
             self.df,
             x='k',
             y='davies_bouldin',
-            title='',
+            title='Davies Bouldin Scores of all Embedding Models',
             color='Embedding Model',
             xaxis_title='K',
             yaxis_title='Davies Bouldin Score'
@@ -107,7 +107,7 @@ class MetricHelperPresenter(MetricHelperBase):
             self.df,
             x='k',
             y='silhouette',
-            title='',
+            title='Silhouette Scores of all Embedding Models',
             color='Embedding Model',
             xaxis_title='K',
             yaxis_title='Silhouette Score'

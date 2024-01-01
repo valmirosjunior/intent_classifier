@@ -15,3 +15,8 @@ time ./build_nlu.sh `pwd`/data/nlu_models/patient
 time ./build_nlu.sh `pwd`/data/nlu_models/patient/without_others_intent
 ```
 
+### How to valid data of an model nlu
+
+```shell
+rasa test nlu --nlu data/output/patient/without_others_intent/k100_without_sentences_higher_than_median/intersection_300_sentences_with_label.yml -m data/output/patient/without_others_intent/k100_without_sentences_higher_than_median/flair_pt/rasa/nlu-20220909-011126.tar.gz
+```

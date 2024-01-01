@@ -37,7 +37,7 @@ def fix_punctuation_after_dot(example):
 def getting_intents(df):
     grouped = df.groupby(['intent'])
 
-    return grouped['annotated_txt'].apply(list).to_dict()
+    return grouped['txt'].apply(list).to_dict()
 
 
 def convert_to_nlu_format(df):

@@ -6,7 +6,7 @@ from src.clustering.data_helper import DataHelper
 from src.clustering.tsne_helper import TsneHelper
 from src.clustering.wordcloud_helper import print_word_clouds_of_each_label
 from src.core import file_manager as fm
-from src.core.chart_helper import plot_distance_charts
+from src.core.chart_helper import plot_distribution_charts
 
 
 class PipelineHelper:
@@ -50,7 +50,12 @@ class PipelineHelper:
             print(f'{intent}, has {len(intent_clusters)} clusters, and {len(intent_sentences)} sentences')
 
     def visualize_distance_distribution(self):
-        plot_distance_charts(self.data_helper.df)
+        plot_distribution_charts(
+            self.data_helper.df,
+            distribution_collumn='distance',
+            short_title="Distance",
+            long_title=f"Distribution of pairwise distance of setences for their cluster's centroid"
+        )
 
     def visualize_word_clouds(self, num_sentences=20):
         print_word_clouds_of_each_label(self.data_helper.df, self.data_helper.get_unique_labels(), num_sentences)
@@ -60,9 +65,9 @@ class PipelineHelper:
 
         tsne_helper = TsneHelper(self.data_helper, title_tsne)
 
-        fig = tsne_helper.build_tsne_chart()
+        fig, df_data = tsne_helper.build_tsne_chart()
 
-        fig.show()
+        return df_data, fig
 
 
     def save_data(self, df_data, internal_dir=''):
