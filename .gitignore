@@ -2,9 +2,14 @@
 .vscode
 __pycache__
 venv*
+data/input
 data/models
-data/nlu_models
+data/nlu_models*
 data/output/lstm_models
 data/output/neural_models
 embeddings
 old_notebooks
+data/**/rasa/
+data/**/test_data*
+data/**/training_data*
+data

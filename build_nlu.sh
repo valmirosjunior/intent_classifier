@@ -5,7 +5,8 @@ if [ "$#" -ne 1 ]; then
 fi
 
 WORK_DIR=$1
-SUBFOLDER_LIST=( k100 k100_without_outliers k100_without_sentences_higher_than_median )
+# SUBFOLDER_LIST=( k100 k100_without_outliers k100_without_sentences_higher_than_median )
+SUBFOLDER_LIST=( k100_without_sentences_higher_than_median )
 EMBEDDINGS=( bert_pt flair_pt glove lasbe use )
 
 echo 'activating nlu_env...'
@@ -33,9 +34,9 @@ do
     echo 'testing model....'
     rasa test nlu --nlu $TESTING_FILE
 
-    mkdir -p "$WORK_DIR_NLU"
+    mkdir -p "$WORK_DIR_NLU/rasa"
 
-    mv results $WORK_DIR_NLU
-    mv models $WORK_DIR_NLU
+    mv results $WORK_DIR_NLU/rasa
+    mv models/* $WORK_DIR_NLU/rasa
   done
 done
