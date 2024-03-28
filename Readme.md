@@ -1,3 +1,6 @@
+## About the Project
+This project was developed within the scope of the Master's degree in Computer Science at [Universidade Federal do Ceará de Quixadá](https://www.quixada.ufc.br)
+
 ## Important notes
 - Pay attention in torch installation for your machine,
 maybe it'll be necessary to check the torch website for instructions
