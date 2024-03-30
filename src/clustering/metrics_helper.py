@@ -85,19 +85,47 @@ class MetricHelperGenerator(MetricHelperBase):
 
 
 class MetricHelperPresenter(MetricHelperBase):
-    def __init__(self, actor):
+    text_dict = {
+        "en": {
+            "embbedding_collumn": "Embedding Model",
+            "davies_bouldin": {
+                "title": "Davies Bouldin Scores of all Embedding Models",
+            },
+            "silhouette": {
+                "title": "Silhouette Scores of all Embedding Models",
+            }
+        },
+        "pt": {
+            "embbedding_collumn": "Embedding",
+            "davies_bouldin": {
+                "title": None,
+            },
+            "silhouette": {
+                "title": None,
+            }
+        },
+    }
+
+    def __init__(self, actor, language="en"):
         super().__init__(actor)
 
+        self.setup(language)
+
+    def setup(self, language):
+        self.language = language
+        self.embbedding_collumn = self.text_dict[self.language]["embbedding_collumn"]
+        
         self.df = pd.read_csv(self.metrics_path)
-        self.df['Embedding Model'] = self.df['modelo']
+        self.df[self.embbedding_collumn] = self.df['modelo']
 
     def show_davies_bouldin_score(self):
+        print(self.language)
         plot_line_chart(
             self.df,
             x='k',
             y='davies_bouldin',
-            title='Davies Bouldin Scores of all Embedding Models',
-            color='Embedding Model',
+            title=self.text_dict[self.language]["davies_bouldin"]["title"],
+            color= self.embbedding_collumn,
             xaxis_title='K',
             yaxis_title='Davies Bouldin Score'
         )
@@ -107,8 +135,8 @@ class MetricHelperPresenter(MetricHelperBase):
             self.df,
             x='k',
             y='silhouette',
-            title='Silhouette Scores of all Embedding Models',
-            color='Embedding Model',
+            title=self.text_dict[self.language]["silhouette"]["title"],
+            color=self.embbedding_collumn,
             xaxis_title='K',
             yaxis_title='Silhouette Score'
         )

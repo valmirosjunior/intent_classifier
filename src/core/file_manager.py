@@ -32,14 +32,15 @@ def read_json_of_dir(dir_path, actor='patient', **kwargs):
     filenames_ordered = sorted(filenames)
 
     data_frames = [pd.read_json(file, **kwargs) for file in filenames_ordered]
+    return pd.concat(data_frames)
 
-    df_embeddings = pd.concat(data_frames)
+    # df_embeddings = pd.concat(data_frames)
 
-    df_annotated = pd.read_csv(filename_from_data_dir(f'output/{actor}/annotated_sentences.csv'))
+    # df_annotated = pd.read_csv(filename_from_data_dir(f'output/{actor}/annotated_sentences.csv'))
     
-    df_annotated['embeddings'] = df_embeddings['embeddings']
+    # df_annotated['embeddings'] = df_embeddings['embeddings']
 
-    return df_annotated
+    # return df_annotated
 
 
 def read_annotated_df_with_embeddings(embedding_name, actor='patient', variation='without_others_intent/k100_without_sentences_higher_than_median'):

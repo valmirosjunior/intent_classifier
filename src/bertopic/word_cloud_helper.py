@@ -1,6 +1,7 @@
 import json
 import pandas as pd
 
+from collections import defaultdict
 from pathlib import Path
 
 from src.clustering import wordcloud_helper
@@ -57,5 +58,31 @@ class WordCloudHelper:
         print(i, 'is missing...')
 
     print('last indnex:', i)
+  
 
+  # def count_intents(self):
+  #   ### Check Intents
+  #   intents = intents_dictionary = open(f'{self.work_dir}/intents_dictionary.json')
+
+  #   return intents
+
+  def describe_intents(self):
+    df = self.doc_info
+    index_intents = defaultdict(list)
+
+    print(f'The total of sentences is: {df.txt.count()}')
+
+    intents_dictionary = open(f'{self.work_dir}/intents_dictionary.json')
+    dict_intents = json.load(intents_dictionary)
+
+    print(f'The total of topics is: {len(dict_intents)}')
+
+    for index, intent in dict_intents.items():
+        index_intents[intent].append(int(index))
+
+    for intent in index_intents:
+        intent_topics = index_intents[intent]
+        intent_sentences = df[df['label'].isin(index_intents[intent])]
+
+        print(f'{intent}, has {len(intent_topics)} topics, and {len(intent_sentences)} sentences')
 
