@@ -1,7 +1,0 @@
-embedding,intents,variation,silhouette,davies_bouldin
-bert_pt,all_intents,all,0.03228680886689553,3.5374571664005
-bert_pt,all_intents,not_outliers,0.033817312507364396,3.505778105652642
-bert_pt,all_intents,not_median,0.0838649692369863,2.8678063931536157
-bert_pt,without_others,all,0.05135610934187826,3.2856276728748535
-bert_pt,without_others,not_outliers,0.053406211334794174,3.2469352182615014
-bert_pt,without_others,not_median,0.10579496656138393,2.6904102076983456
