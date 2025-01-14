@@ -53,12 +53,13 @@ class MetricHelperGenerator(MetricHelperBase):
 
     def get_embeddings(self, embedding_model):
         df = fm.read_json_of_dir(
-            fm.filename_from_data_dir(f'embeddings/{embedding_model}/text_emb_{self.actor}.json')
+            fm.filename_from_data_dir(f'embeddings/{embedding_model}/text_emb_{self.actor}.json'),
+            lines=True
         )
 
-        arr = np.array(df['embeddings'].map(lambda x: np.array(x[0])).to_list())
+        embeddings = np.array(df['embeddings'].map(lambda x: np.array(x[0])).to_list())
 
-        embeddings = torch.from_numpy(arr)
+        # embeddings = torch.from_numpy(arr)
         return embeddings
 
     def generate_metrics_for_all_embeddings(self):
@@ -117,6 +118,7 @@ class MetricHelperPresenter(MetricHelperBase):
         
         self.df = pd.read_csv(self.metrics_path)
         self.df[self.embbedding_collumn] = self.df['modelo']
+        self.df = self.df[self.df['modelo'] != 'Biobert']
 
     def show_davies_bouldin_score(self):
         print(self.language)

@@ -12,7 +12,7 @@ ENGLISH_STOPWORDS = nltk.corpus.stopwords.words('english')
 def plot_word_cloud(words, name_file=None, stopwords=STOPWORDS):
     wordcloud = WordCloud(stopwords=stopwords,
                           background_color="black",
-                          width=1600, height=800).generate(words)
+                          width=2400, height=1800).generate(words)
 
     if name_file:
         wordcloud.to_file("{}.png".format(name_file))

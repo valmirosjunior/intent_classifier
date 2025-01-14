@@ -50,16 +50,17 @@ def read_annotated_df_with_embeddings(embedding_name, actor='patient', variation
         lines=True
     )
 
+    df_annotated = pd.read_csv(filename_from_data_dir(f'output/patient/annotated_sentences.csv'))
+    df_embeddings['txt'] = df_annotated['txt']
+
     file_name_of_variation = filename_from_data_dir(
         f'output/{actor}/{variation}/{embedding_name}/annotated_sentences.csv'
     ) if variation else filename_from_data_dir(f'output/{actor}/annotated_sentences.csv')
 
 
-
     df_annotated_for_variation = pd.read_csv(file_name_of_variation)
-
-
-    df_merged = pd.merge(df_annotated_for_variation, df_embeddings.drop('annotated_txt', axis=1), on='txt', how='left')
+    
+    df_merged = pd.merge(df_annotated_for_variation, df_embeddings, on='txt', how='left')
 
     return df_merged
 

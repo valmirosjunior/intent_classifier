@@ -63,7 +63,7 @@ class PipelineHelper:
     def visualize_tsne(self):
         title_tsne = f'T-SNE algorithm: fast_kmeans model: {self.embedding_name} actor: {self.actor}'
 
-        tsne_helper = TsneHelper(self.data_helper, title_tsne)
+        tsne_helper = TsneHelper(self.data_helper.df, title_tsne)
 
         fig, df_data = tsne_helper.build_tsne_chart()
 

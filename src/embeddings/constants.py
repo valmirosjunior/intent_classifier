@@ -4,5 +4,6 @@ EMBEDDING_MODELS_TRANSLATION = {
     'glove': 'Glove',
     'lasbe': 'LaBSE',
     'use': 'MUSE',
+    # 'biobert': 'Biobert',
 }
 

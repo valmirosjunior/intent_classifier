@@ -7,7 +7,7 @@ attrs==21.4.0
 autopep8==1.6.0
 backcall==0.2.0
 beautifulsoup4==4.11.1
-bertopic==0.13.0
+bertopic==0.15.0
 bleach==5.0.0
 blis==0.7.7
 bpemb==0.3.3
@@ -78,6 +78,7 @@ jupyter-console==6.4.3
 jupyter-core==4.9.2
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.1.0
+kaleido==0.2.1
 keras==2.8.0
 Keras-Preprocessing==1.1.2
 keras-vis==0.4.1

@@ -96,3 +96,11 @@ class PipelineHelper:
             .setOutputCol("embeddings")
 
         self.apply_word_embeddings(word_embedding=bert_embeddings, embedding_name='bert_pt')
+    
+
+    def generate_embedding_biobert(self):
+        biobert_embeddings = BertEmbeddings.pretrained("biobert_embeddings_all","pt") \
+            .setInputCols(["document", "token"]) \
+            .setOutputCol("embeddings")
+
+        self.apply_word_embeddings(word_embedding=biobert_embeddings, embedding_name='biobert')

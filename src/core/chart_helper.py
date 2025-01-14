@@ -30,17 +30,19 @@ def plot_line_chart(df_plot, x, y, title, color, xaxis_title=None, yaxis_title=N
     #         xanchor="right",
     #         x=1
     #     ),
-    #     font=dict(size=18),
+    #     # font=dict(size=18),
     # )
+    
+    chart.update_traces(line={'width': 8})
 
-    # height=800,
-    # legend=dict(
-    #     orientation="h",
-    #     yanchor="bottom",
-    #     y=1.02,
-    #     xanchor="right",
-    #     x=1
-    # ),
+    chart.update_layout(
+        title={'font': {'size': 60}},  # Tamanho do título
+        xaxis={'title': {'font': {'size': 48}}, 'tickfont': {'size': 36}},  # Tamanho dos títulos e ticks do eixo x
+        yaxis={'title': {'font': {'size': 48}}, 'tickfont': {'size': 36}},  # Tamanho dos títulos e ticks do eixo y
+        legend={'font': {'size': 48}}  # Tamanho da legenda
+    )
+    
+    chart.write_image('chart.png', width=2400, height=1800, scale=1)
 
     chart.show()
 
